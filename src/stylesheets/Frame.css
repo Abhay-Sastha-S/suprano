@@ -127,27 +127,28 @@
     }
     .img-Wrapper{
         width: 100%;
-        height: 50%;
+        height: 50vh;
     }
     .text-Wrapper{
         width: 100%;
-        height: 50%;
+        height: 50vh;
         background-color: var(--primaryColor);
         white-space: wrap;
     }
     .text{
         background-color: var(--primaryColor);
-        height: 50vh;
+        height: 100%;
+        width: 100%;
+    }
+    .flexClass{
+        position: static;
+        justify-content: flex-start;
     }
     .text-cont{
         width: 100%;
         background-color: var(--primaryColor);
         width: 90%;
         margin: 4vh 5% 0 5%;
-    }
-    .flexClass{
-        position: static;
-        justify-content: flex-start;
     }
     .header{
         margin: 0.5rem 0rem;
