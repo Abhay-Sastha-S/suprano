@@ -28,7 +28,7 @@
 }
 
 .frame{
-    top: 10%;
+    top: 0%;
     display: flex;
     flex-direction: row;
     height: 100%;
@@ -50,6 +50,7 @@
     background-position: center;
     background-size: cover;
     will-change: transform;
+    transition-duration: 150ms;
 }
 .image1{
     background-image:url("../assets/images/components/ls1.jpg");
@@ -68,7 +69,7 @@
 }
 .text-Wrapper{
     height: 100%;
-    width: 60%;
+    width: 50%;
     overflow: hidden;
     white-space:nowrap;
 }
@@ -80,6 +81,7 @@
     text-align: center;
     border: none;
     will-change: transform;
+    transition-duration: 150ms;
 }
 
 .flexClass{
@@ -89,7 +91,8 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    
+    position: absolute;
+    top: 0;
 }
 .image-text{
     width: 100%;
@@ -124,24 +127,28 @@
     .frame{
         flex-direction: column;
     }
+    .image{
+        transition-duration: 0ms;
+    }
+    .text{
+        transition-duration: 0ms;
+    }
     .img-Wrapper{
         width: 100%;
-        height: 50vh;
+        height: 50%;
     }
     .text-Wrapper{
         width: 100%;
-        height: 50vh;
+        height: 50%;
         background-color: var(--primaryColor);
-        white-space: wrap;
+        white-space:break-spaces;
     }
     .text{
         background-color: var(--primaryColor);
-        height: 100%;
-        width: 100%;
+        height: 50vh;
     }
     .flexClass{
         position: static;
-        justify-content: flex-start;
     }
     .text-cont{
         width: 100%;

@@ -1,6 +1,6 @@
 import "../stylesheets/Footer.css"
 import imgLogo from "../assets/images/logo.png"
-import { Email, Instagram, LinkedIn } from "@mui/icons-material"
+import { Email, CopyrightRounded, Instagram, LinkedIn } from "@mui/icons-material"
 
 const Footer = () => {
     return(
@@ -23,6 +23,7 @@ const Footer = () => {
             <div className="footer-Image">
                 <div className="footer-blur">
                 <img className="footer-Logo" src={imgLogo} alt='blurredImage'></img>
+                <span className="cc-Text"><CopyrightRounded sx={{fontSize:30}}/>Suprano Exhibits 2023, Made by <a href="https://www.prosgro.com"> prosgro</a></span>
                 </div>
             </div>
         </div>
