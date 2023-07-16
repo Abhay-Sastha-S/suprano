@@ -46,7 +46,7 @@ const AboutUsBody = () => {
                 <p className='aboutUsBodyTitle blue'>Stories,</p>
                 <p className='aboutUsBodyTitle'> One Experience at a Time</p>
             </div>
-            <p className='aboutUsBodyDesc sel-desc'>We love discovering what makes your brand unique. Each facet is a part of a story we begin to piece together with our exhibits. Each display is a symphony of storytelling, drawing you into enchanting realms where imagination dances with reality.</p>
+            <p className='aboutUsBodyDesc sel-desc'>We love discovering what makes your brand unique. Each facet is a part of a story we begin to piece together with our exhibits. Each display is a symphony of storytelling, drawing you into enchanting realms where <span className='blue'> imagination dances with reality.</span></p>
         </div>
         <div className='aboutUsBodyTextLight'>
             <div className='aboutUsBodyTitleCont sel-head'>

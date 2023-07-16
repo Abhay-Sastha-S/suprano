@@ -179,7 +179,7 @@ export const grid_items = [
         desc:"SSW 2022-Maastricht",
         video:"",
         class:"main",
-        img_lis:[viraj1, viraj2, viraj3, viraj4]
+        img_lis:[viraj1, viraj2, viraj3]
     },
     {
         image:spookfish1,

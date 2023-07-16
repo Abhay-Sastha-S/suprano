@@ -7,17 +7,17 @@ const ContactUsForm  = () => {
   const send = () => {
     let fName = document.getElementById("contactUsFormFName").value;
     let lName = document.getElementById("contactUsFormLName").value;
-    //let jT = document.getElementById("contactUsFormJT").value;
+    let jT = document.getElementById("contactUsFormJT").value;
     let email = document.getElementById("contactUsFormEMail").value;
-    //let cName = document.getElementById("contactUsFormCName").value;
-    //let pNumber = document.getElementById("contactUsFormPNumber").value;
-    //let message = document.getElementById("contactUsFormMessage").value;
+    let cName = document.getElementById("contactUsFormCName").value;
+    let pNumber = document.getElementById("contactUsFormPNumber").value;
+    let message = document.getElementById("contactUsFormMessage").value;
     let params = {
       name: fName + " " + lName,
       email: email,
-      message: "Hello There"
+      message: `Email: ${email}\nName: ${fName + lName}\nJob Title: ${jT}\nCompany Name: ${cName}\nPhone Number: ${pNumber}\n\n${message}`
     }
-    emailjs.send("service_hzdk9yt", "template_mlrk7ig", params, "iGdJ0bUGV0_pZC_LC").then((res) => alert("Mail sent successfully."), (err) => alert("The mail could not be sent"))
+    emailjs.send("service_fbpufe9", "template_3i3mya4", params, "VUamv5N3Fwdw8YVar").then((res) => alert("Mail sent successfully."), (err) => alert("The mail could not be sent " + err))
   }
 
   return (

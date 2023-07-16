@@ -9,14 +9,14 @@ const ContactUs = () => {
     let name = document.getElementById("homePageContactFormName").value;
 
     let email = document.getElementById("homePageContactFormEmail").value;
-    //let cName = document.getElementById("homePageContactFormCName").value;
-    //let message = document.getElementById("homePageContactFormMessage").value;
+    let cName = document.getElementById("homePageContactFormCName").value;
+    let message = document.getElementById("homePageContactFormMessage").value;
     let params = {
       name: name,
       email: email,
-      message: "Hello There"
+      message: `Hey! My name is ${name}, my email id is ${email}. My company name is ${cName}. My message is ${message}`
     }
-    emailjs.send("service_hzdk9yt", "template_mlrk7ig", params, "iGdJ0bUGV0_pZC_LC").then((res) => alert("Mail sent successfully."), (err) => alert("The mail could not be sent."))
+    emailjs.send("service_fbpufe9", "template_3i3mya4", params, "VUamv5N3Fwdw8YVar").then((res) => alert("Mail sent successfully."), (err) => alert("The mail could not be sent " + err))
   }
 
 

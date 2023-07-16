@@ -1,6 +1,6 @@
 import "../stylesheets/Footer.css"
 import imgLogo from "../assets/images/logo.png"
-import { AlternateEmail, Instagram, LinkedIn, WhatsApp } from "@mui/icons-material"
+import { Email, Instagram, LinkedIn } from "@mui/icons-material"
 
 const Footer = () => {
     return(
@@ -17,9 +17,7 @@ const Footer = () => {
                 <div className="footer-Info">
                     <span className="footer-Comp">Suprano Exhibits</span>
                     <span className="footer-Tag">Ideas to Implementation</span>
-                    <span className="footer-Soc"><LinkedIn sx={{fontSize:40}} onClick={() => window.open("https://www.linkedin.com/company/suprano-1exhibits/")}/><Instagram sx={{fontSize:40}} onClick={() => window.open("https://instagram.com/supranoexhibits?igshid=NTc4MTIwNjQ2YQ==")} /><AlternateEmail sx={{fontSize:40}} onClick={() => window.open("https://mail.google.com/mail/?view=cm&fs=1&to=info@supranoexhibits.com")}/><WhatsApp  sx={{fontSize:40}} onClick={() => {
-                        navigator.clipboard.writeText("+91 9953087077")
-                }}/></span>
+                    <span className="footer-Soc"><LinkedIn sx={{fontSize:40}} onClick={() => window.open("https://www.linkedin.com/company/suprano-1exhibits/")}/><Instagram sx={{fontSize:40}} onClick={() => window.open("https://instagram.com/supranoexhibits?igshid=NTc4MTIwNjQ2YQ==")} /><Email sx={{fontSize:40}} onClick={() => window.open("https://mail.google.com/mail/?view=cm&fs=1&to=info@supranoexhibits.com")}/></span>
                 </div>
             </div>
             <div className="footer-Image">

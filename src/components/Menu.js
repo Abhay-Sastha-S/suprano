@@ -1,7 +1,7 @@
 import React from 'react'
 import '../stylesheets/Menu.css'
 import CloseIcon from '@mui/icons-material/Close'
-import { Instagram, LinkedIn, WhatsApp } from "@mui/icons-material"
+import { Instagram, LinkedIn, Email } from "@mui/icons-material"
 
 const Menu = ({ hideMenu }) => {
   return (
@@ -58,7 +58,7 @@ const Menu = ({ hideMenu }) => {
           <div className='menuBottomBarChild' id='menuBottomSocialsContainer'>
             <a href='https://www.linkedin.com/company/suprano-1exhibits/' className='menuIcon'><span className='strikethrough'><LinkedIn sx={{fontSize: 24}} /></span></a>
             <a href='https://instagram.com/supranoexhibits?igshid=NTc4MTIwNjQ2YQ==' className='menuIcon'><span className='strikethrough'><Instagram sx={{fontSize: 24}} /></span></a>
-            <p className='menuIcon'><span className='strikethrough' onClick={() => navigator.clipboard.writeText("+91 9953087077")}><WhatsApp sx={{fontSize: 24}}/></span></p>
+            <p className='menuIcon'><span className='strikethrough' onClick={() => navigator.clipboard.writeText("+91 9953087077")}><Email sx={{fontSize:24}} onClick={() => window.open("https://mail.google.com/mail/?view=cm&fs=1&to=info@supranoexhibits.com")}/></span></p>
           </div>
         </div>
         <CloseIcon  sx={{fontSize: 30}} style={{color: "white", position: "absolute", top: "2%", right: "4%"}} onClick={hideMenu} ></CloseIcon>

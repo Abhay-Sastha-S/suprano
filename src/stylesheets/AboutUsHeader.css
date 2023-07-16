@@ -30,7 +30,7 @@ body {
     background-image: url("../assets/images/components/aboutUsHeader.jpg");
     height: 100vh;
     background-size: cover;
-    background-position: center;
+    background-position: left;
 }
 
 /* #aboutUsHeaderImage {
