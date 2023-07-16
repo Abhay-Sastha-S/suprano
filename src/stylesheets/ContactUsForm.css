@@ -1,0 +1,138 @@
+#contactUsForm {
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+}
+
+#contactUsFormContainer {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 10vh 0;
+}
+
+#contactUsFormInfo {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 10%;
+}
+
+#contactUsFormH1 {
+    font-family: "PoppinsBold";
+    font-size: 3.2vw;
+    color: var(--secondaryColor);
+}
+.contactUsFormInputLabel {
+    color: var(--secondaryColor);
+    font-family: "PoppinsBold";
+    font-size: 1.2vw;
+}
+
+.contactUsFormInput {
+    width: 80%;
+    height: 5vh;
+    font-family: "Poppins";
+    font-size: 1.2vw;
+    padding: 0 2vw;
+}
+
+#contactUsFormEmail {
+    font-family: "PoppinsBold";
+    font-size: 2.2vw;
+    color: var(--secondaryColor);
+    transition: 0.2s all ease-out;
+}
+
+#contactUsFormEmail:hover {
+    color: var(--accentColor);
+    transition: 0.2s all ease-out;
+}
+
+#contactUsFormP1 {
+    font-family: "Poppins";
+    font-size: 1.4vw;
+    color: var(--secondaryColor);
+}
+.contactUsFormAddressTitle {
+    font-family: "PoppinsBold";
+    font-size: 1.4vw;
+    color: var(--secondaryColor); 
+}
+
+.contactUsFormAddressDesc {
+    font-family: "Poppins";
+    font-size: 1.2vw;
+    color: var(--secondaryColor); 
+}
+
+#contactUsSendButton {
+    width: 20%;
+    padding: 2vh 2vw;
+    font-family: "PoppinsBold";
+    font-size: 1.2vw;
+    background-color: var(--accentColor);
+    color: var(--secondaryColor);
+    border: 2px soild var(--accentColor);
+    transition: 0.2s all ease-out;
+    border-radius: 10px;
+}
+
+#contactUsSendButton:hover {
+    background-color: inherit;
+    transition: 0.2s all ease-out;
+    
+}
+
+@media only screen and (max-width: 480px) {
+    #contactUsFormInfo {
+        width: 60%;
+        padding: 0 10% 0 0;
+    }
+    #contactUsFormContainer {
+        flex-direction: column;
+    }
+
+    #contactUsFormH1 {
+        font-size: 8vw;
+    }
+
+    #contactUsFormP1 {
+        font-size: 4vw;
+    }
+
+    #contactUsForm {
+        justify-content: center;
+        width: 70%;
+        padding-left: 10%;
+    }
+
+    .contactUsFormInputLabel {
+        font-size: 4vw;
+    }
+
+    .contactUsFormInput {
+        font-size: 4vw;
+    }
+
+    #contactUsFormEmail {
+        font-size: 5vw;
+    }
+
+    .contactUsFormAddressTitle {
+        font-size: 4vw;
+   }
+
+   .contactUsFormAddressDesc {
+    font-size: 3.2vw;
+   }
+
+    .contactUsFormInput {
+        height: 3.2vh;
+    }
+    
+    #contactUsSendButton {
+        font-size: 4vw;
+        width: 50%;
+    }
+}

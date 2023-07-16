@@ -1,0 +1,108 @@
+.feat-Wrapper{
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-evenly;
+    border-top: 5px solid var(--accentColor);
+    border-bottom: 5px solid var(--accentColor);
+    margin: 0 0 2rem 0;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    overflow: hidden;
+}
+
+.feat-Text{
+    width: 35%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    animation-delay: 500ms;
+}
+
+.feat-Title{
+    font-size: 4vw;
+    color: var(--secondaryColor);
+    font-family: "NunitoBold";
+}
+.feat-Title span{
+    font-size: 4.5vw;
+    color: var(--accentColor);
+}
+.feat-Desc{
+    width: 90%;
+    height: 50%;
+    margin-top: 1%;
+    color: var(--subtextColor);
+    font-size: 1.2vw;
+    line-height: 2.2rem;
+    font-family: "Poppins";
+    display: flex;
+}
+.feat-Read{
+    width: 100%;
+    height: 12%;
+    display: flex;
+    align-items: center;
+    color: var(--accentColor);
+    font-size: 1.8vw;
+    font-family: "NunitoBold";
+    text-decoration: none;
+    transition-duration: 800ms;
+}
+
+.feat-Read:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.feat-Image{
+    width: 42%;
+    height: 92%;
+    border: 5px solid var(--accentColor);
+    border-radius: 5vmin 0 5vmin 0;
+    background-image: url("../assets/images/components/featuredBlog.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media only screen and (max-width:480px){
+    .feat-Wrapper{
+        flex-direction: column-reverse;
+        padding: 2rem 0;
+    }
+    .feat-Image{
+        width: 100%;
+        height: 40%;
+        border-radius: 0;
+        border: none;
+        /* border-top:5px solid var(--accentColor);
+        border-bottom: 5px solid var(--accentColor); */
+    }
+    .feat-Text{
+        width: 90%;
+        height: 40%;
+    }
+    .feat-Title{
+        font-size: 9vw;
+    }
+    .feat-Title span{
+        font-size: 12vw;
+        line-height: 2rem;
+    }
+    .feat-Desc{
+        font-size: 3vw;
+        line-height: 1.5rem;
+        text-align: justify;
+        height: 42%;
+    }
+    .feat-Read{
+        font-size: 5.8vw;
+        text-decoration: underline;
+        margin: 2rem 0 0 0;
+    }
+}

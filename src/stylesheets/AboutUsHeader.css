@@ -1,0 +1,118 @@
+body {
+    background-color: #000000;
+}
+
+@keyframes fadeInSide {
+    from {
+        transform: translateX(40%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes fadeUp {
+    from {
+        transform: translateY(40%);
+    }
+
+    to {
+        translate: translateY(0);
+        opacity: 1;
+    }
+}
+
+#aboutUsHeaderContainer {
+    width: 100%;
+    background-image: url("../assets/images/components/aboutUsHeader.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+/* #aboutUsHeaderImage {
+    width: 100%;
+    object-fit: cover;
+    height: 120vh;
+    position: absolute;
+} */
+
+#aboutUsTextContainer {
+    height: 70%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-contabt{
+    width: 75%;
+    margin-top: 20vh;
+}
+
+.aboutUsHeaderTitle {
+    font-family: "NunitoBold";
+    font-size: 7vw;
+    color: var(--secondaryColor);
+    display: inline;
+    
+}
+
+.dot{
+    font-family: "NunitoBold";
+    font-size: 7vw;
+    color: var(--accentColor);
+    display: inline;
+}
+
+.aboutUsHeaderDesc {
+    font-family: "NunitoBold";
+    width: 72%;
+    color: var(--accentColor);
+    font-size: 4vw;
+    animation: fadeUp;
+    opacity: 0;
+    animation-duration: 1s;
+    animation-delay: 2.4s;
+    animation-fill-mode: forwards;
+}
+
+.dis-in-blk{
+    display: inline-block;
+    margin: 0.5rem;
+}
+
+#one {
+    opacity: 0;
+    animation-name: fadeInSide;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}
+#two {
+    opacity: 0;
+    animation-name: fadeInSide;
+    animation-duration: 1s;
+    animation-delay: 1.5s;
+    animation-fill-mode: forwards;
+}
+#three {
+    opacity: 0;
+    animation-name: fadeInSide;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+}
+
+@media only screen and (max-width:480px){
+    #aboutUsHeaderContainer{
+        height: 35vh;
+    }
+    .title-contabt{
+        margin-top: 6rem ;
+    }
+}

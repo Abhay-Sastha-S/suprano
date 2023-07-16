@@ -1,0 +1,173 @@
+@keyframes init-anim{
+    0%{
+        opacity: 0;
+        transform: translate(100%,-50%);
+    }
+    100%{
+        opacity: 1;
+        transform: translate(var(--trs),-50%);
+    }
+}
+
+@keyframes fadeUp {
+    from {
+        margin-top: 20vh;
+    }
+
+    to {
+        margin-top: 1rem;
+        opacity: 1;
+    }
+}
+.grid-Wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5rem 0;
+    overflow: hidden;
+    flex-wrap: wrap;
+}
+.video-Player{
+    opacity: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(5, 5, 5, 0.9);
+    z-index: -999;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow-x: scroll;
+}
+.vid-icon{
+    color: var(--secondaryColor);
+    position: fixed;
+    top: 2%;
+    right: 1%;
+    display: none;
+}
+.portGrid-Cont{
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-auto-rows: 100px;
+    grid-auto-flow: dense;
+    gap: 12px;
+}
+.grid-long{
+    grid-row: span 7;
+}
+.grid-main{
+    grid-row: span 4;
+}
+.grid-small{
+    grid-row: span 2;
+}
+.back-prop{
+    cursor: pointer;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gridEl-Text{
+    opacity: 0;
+    background-color: rgba(5, 5, 5, 0.7);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-family: "PoppinsBold";
+    color: var(--subtextColor);
+    align-items: center;
+    justify-content: center;
+    transition: all ease 600ms;
+}
+.gridEl-Text:hover{
+    opacity: 1;
+}
+.gridEl-Text:hover div{
+    transform: translateY(0);
+}
+.gridEl-Title{
+    color: var(--accentColor);
+    font-size: 3vw;
+    line-height: 6rem;
+    transform: translateY(-40%);
+    transition: all ease 600ms;
+}
+.gridEl-Desc{
+    width: 80%;
+    font-size: 1.4vw;
+    line-height: 2rem;
+    text-align: center;
+    transform: translateY(40%);
+    transition: all ease 600ms;
+}
+.div-conf{
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 80vh;
+    width: 26%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 4px solid var(--secondaryColor);
+    border-radius: 5vmin;
+    --ofst:calc(var(--ind)*5%);
+    --trs:calc(var(--ofst) - 50%);
+    animation-delay: calc(var(--ind)*600ms);
+    transition: all 800ms ease;
+    margin-right: 4rem;
+}
+.anim-conf{
+    animation-name: init-anim;
+    animation-fill-mode: forwards;
+    animation-duration: 1.2s;
+}
+.hov-clc:hover{
+    border: 10px solid var(--accentColor);
+    scale: 1.04;
+}
+.hov-eff:hover{
+    width: 65%;
+    height: 96vh;
+    z-index: 1000;
+    --lftval: calc(var(--lft)*1%);
+    margin-left: calc(var(--lftval));
+}
+
+@media only screen and (max-width:480px) {
+    .portGrid-Cont{
+     grid-template-columns: repeat(1,1fr);   
+     margin: 0 2.4vw;
+    }
+    .gridEl-Title{
+        font-size: 14vw;
+    }
+    .gridEl-Desc{
+        font-size: 4vw;
+    }
+    .video-Player{
+        overflow-y: scroll;
+        overflow-x: hidden;
+        min-height: 100vh;
+    }
+    .div-conf{
+        position: static;
+        width: 95%;
+        height: 40vh;
+        margin: 1rem 2%;
+        transition: all 1s ease;
+    }
+    
+    .anim-conf{
+        animation-name: fadeUp;
+        animation-duration: 800ms;
+        animation-delay: calc(var(--ind)*500ms);
+    }
+    .div-conf:nth-child(2){
+        margin-top: 18% !important;
+    }
+}

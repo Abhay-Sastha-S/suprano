@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url('../assets/fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: "PoppinsBold";
+    src: url('../assets/fonts/Poppins-Bold.ttf');
+}
+
+@font-face {
+    font-family: "PoppinsItalic";
+    src: url('../assets/fonts/Poppins-Italic.ttf');
+}
+
+@font-face {
+    font-family: "PoppinsLight";
+    src: url('../assets/fonts/Poppins-Light.ttf');
+}
+
+@font-face {
+    font-family: "PoppinsSemiBold";
+    src: url('../assets/fonts/Poppins-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: "Nunito";
+    src: url('../assets/fonts/Nunito-Regular.ttf');
+}
+
+@font-face {
+    font-family: "NunitoLight";
+    src: url('../assets/fonts/Poppins-Light.ttf');
+}
+@font-face {
+    font-family: "NunitoBold";
+    src: url('../assets/fonts/Nunito-Bold.ttf');
+}
+@font-face {
+    font-family: "NunitoItalic";
+    src: url('../assets/fonts/Nunito-Italic.ttf');
+}
+
+@font-face {
+    font-family: "NunitoSemiBold";
+    src: url('../assets/fonts/Nunito-SemiBold.ttf');
+}
+
+
+@keyframes bgCol {
+    0%{
+        background-color: var(--primaryColor);
+    }
+    12.5%{
+        background-color: var(--primaryColor);
+    }
+    50%{
+        background-color: var(--secondaryColor);
+    }
+    62.5%{
+        background-color: var(--secondaryColor);
+    }
+    100%{
+        background-color: var(--primaryColor);
+    }
+}
+
+
+:root {
+    --primaryColor: #000000;
+    --secondaryColor: #EEEEEE;
+    --accentColor: #3D73FF;
+    --subtextColor: #dfdfdf;
+}
+
+
+body{
+    background-color: var(--primaryColor);
+    padding: 0;
+    scroll-behavior: smooth;
+    margin: 0;
+    overflow-x: hidden;
+    animation: bgCol;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-play-state: paused;
+    animation-delay: calc(var(--scroll)*-1s);
+}

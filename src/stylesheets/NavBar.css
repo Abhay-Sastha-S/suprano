@@ -1,0 +1,20 @@
+#navbar {
+    display: block;
+    top: 0;
+    width: 100%;
+    height: 80px;
+    position: absolute;
+    z-index: 998;
+    background-color: rgba(0, 0, 0, 0);
+    transition: 0.2s all ease-in-out;
+}
+
+#logo {
+    height: 80px;
+    margin-left: 40px;
+}
+
+.menu-bar{
+    float: right;
+    color: var(--secondaryColor);
+}

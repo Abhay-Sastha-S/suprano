@@ -1,0 +1,214 @@
+#menuContainer {
+    display: flex;
+    width: 100%;
+    opacity: 0;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    transition: 0.4s all ease-out;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: -999;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#mainMenuContainer {
+    display: flex;
+    flex-direction: row;
+}
+.activeMenu {
+    display: flex;
+    opacity: 1;
+    transition: 0.4s all ease-out;
+}
+
+.menuInfoContainerRow {
+    display: flex;
+    flex-direction: row;
+    width: 48vw;
+    padding: 6vh 0;
+    justify-content: space-between;
+}
+
+#menuCompanyName {
+    color: var(--secondaryColor);
+    font-size: 1.4vw;
+    font-family: "Nunito";
+    padding: 5vh 0;
+}
+
+.menuInfoContainerCell {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    height: 8vh;
+    padding-top: 4vh;
+    border-top: 1px solid var(--secondaryColor);
+    text-align: left;
+    justify-content: flex-start;
+}
+
+.menuInfoContainerCellTitle {
+    font-family: "PoppinsBold";
+    color: var(--secondaryColor);
+    text-align: left;
+    margin-bottom: 1vh;
+    font-size: 1.1vw;
+}
+
+.menuInfoContainerCellDesc {
+    font-family: "Poppins";
+    color: var(--secondaryColor);
+    text-align: left;
+    font-size: 1vw;
+}
+
+.menuLink {
+    opacity: 0;
+    margin-top: 4vh;
+    margin-left: 8vw;
+    text-decoration: none;
+    font-family: "NunitoBold";
+    font-size: 4.4vw;
+    transition: 0.4s all ease-out;
+    color: var(--secondaryColor);
+}
+
+.menuLink:hover {
+    transition: 0.4s all ease-out;
+}
+
+#menuIcon {
+    z-index: 800;
+}
+
+#menuBottomBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+#mainMenuLinksContainer {
+    display: flex;
+    flex-direction: column;
+    padding-right: 15vw;
+}
+
+.menuBottomBarChild {
+    display: flex;
+    flex-direction: row;
+}
+
+#menuBottomLinksContainer {
+    margin-top: 5vh;
+    float: left;
+}
+
+#menuBottomSocialsContainer {
+    width: 20%;
+}
+
+.menuIcon {
+    color: var(--secondaryColor);
+    margin-top: 6.4vh;
+    margin-left: 1vw;
+}
+.menuBottomBarLink {
+    margin-top: 2vh;
+    margin-left: 8vw;
+    text-decoration: none;
+    font-family: "Poppins";
+    font-size: 1.4vw;
+    transition: 0.4s all ease-out;
+    color: var(--secondaryColor);
+}
+.strikethrough {
+	display: inline-block;
+	position: relative;
+	transition: all 0.5s cubic-bezier(.55, 0, .1, 1);
+    
+}
+
+.strikethrough:after {
+	content: '';
+    transform: scaleX(0);
+	position: absolute;
+	display: block;
+	width: 120%;
+	height: 3px;
+	/* box-shadow: 0 1px rgba(255,255,255,0.6); */
+
+    margin-left: -0.36em;
+	background: var(--accentColor);
+	transform-origin: center left;
+	animation: strikethrough 1s 0.5s cubic-bezier(.55, 0, .1, 1) 1;
+	transition: transform 0.5s cubic-bezier(.55, 0, .1, 1);
+}
+
+
+/* Little hover effect */
+
+.strikethrough:hover {
+	color: var(--accentColor);
+	background: inherit;
+    scale: 1.1;
+}
+
+.strikethrough:hover:after {
+	transform: scaleX(1);
+	transform-origin: center right;
+}
+
+.animate {
+    animation: 1s fadeIn cubic-bezier(0.075, 0.82, 0.165, 1) forwards;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateX(40%);
+    }
+
+     to {
+        opacity: 1;
+        transform: translate(0);
+     }
+}
+/* Keyframes for initial animation */
+
+@keyframes strikethrough {
+	from {
+		transform: scaleX(0);
+	}
+	to {
+		transform: scaleX(1);
+	}
+}
+
+@media only screen and (max-width: 480px) {
+    #menuBottomSocialsContainer {
+        display: none;
+    }
+
+
+    .menuBottomBarLink {
+        font-size: 4vw;
+    }
+
+    .menuLink {
+        font-size: 10vw;
+    }
+    #menuContainer {
+        align-items: center;
+        justify-content: center;
+    }
+
+    #menuInfoContainer {
+        display: none;
+    }
+    #mainMenuLinksContainer {
+        align-items: center;
+    }
+}

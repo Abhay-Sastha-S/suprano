@@ -1,0 +1,154 @@
+.grid-component-wrapper{
+    width: 100%;
+    height: 300vh;
+}
+.text-cont-grid{
+    width: 100%;
+    height: 100vh;
+    color: var(--secondaryColor);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60pt;
+    font-weight: bold;
+    font-family: "NunitoBold";
+}
+.img-grid{
+    height: 200vh;
+}
+.grid-frame{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+}
+.grid-column{
+    width: 30vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    will-change: width,height;
+    transition-duration: 100ms;
+}
+.grid-el{
+    margin: 10px 0;
+    width: 100%;
+    height: 32vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.center-column{
+    margin: 0 20px;
+}
+.is-main{
+    z-index: 999;
+}
+.margin-zero{
+    margin: 0;
+}
+.overflow-hidden{
+    overflow: hidden;
+}
+.main-text{
+    opacity: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0,0.3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: all 500ms ease;
+    will-change: opacity;
+}
+.main-text .grid-MainText{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 62%;
+    height: 50%;
+    font-size: 4.4vw;
+    color: var(--secondaryColor);
+    font-family: "NunitoBold";
+}
+.main-text .grid-PortBtn{
+    height: 16%;
+    width: 23rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: var(--secondaryColor);
+    font-size: 1.4vw;
+    font-family: "Nunito";
+    /* button animation */
+    background: linear-gradient(to right, var(--accentColor) 50%, var(--secondaryColor) 50%) left;
+    background-size: 200%;
+    border-radius: 10px;
+    transition: 0.5s all cubic-bezier(0.215, 0.610, 0.355, 1);
+    border: 2px solid var(--accentColor);
+}
+.main-text .grid-PortBtn:hover {
+    cursor: pointer;
+    background-position: right;
+    color: var(--accentColor);
+    transition: 0.5s all cubic-bezier(0.215, 0.610, 0.355, 1);
+}
+.opacity-full{
+    opacity: 1;
+}
+
+.grid-DescText {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 62%;
+    height: 50%;
+    font-size: 1.8vw;
+    color: var(--subtextColor);
+    font-family: "NunitoBold";
+}
+
+@media only screen and (max-width:480px){
+    .text-cont-grid{
+        font-size: 14vw;
+    }
+    .grid-el{
+        margin: 5px 0;
+    }
+    .center-column{
+        margin: 0 10px;
+    }
+    .margin-zero{
+        margin: 0;
+    }
+    .main-text{
+        display: block;
+    }
+    .main-text .grid-MainText{
+        text-align:left;
+        display: block;
+        width: 90%;
+        height: 65%;
+        margin: 0 5%;
+    }
+    .main-text .grid-MainText p{
+        width: 90%;
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+        font-size: 9.8vw;
+    }
+    .main-text .grid-PortBtn{
+        width: 80%;
+        margin: 2rem 10%;
+        font-size: 5.4vw;
+        height: 12%;
+    }
+}

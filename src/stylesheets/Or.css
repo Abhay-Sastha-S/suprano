@@ -1,0 +1,16 @@
+.or-Wrapper{
+    height: 60vh;
+    width: 100%;
+    border-top: 5px solid var(--accentColor);
+    border-bottom: 5px solid var(--accentColor);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.or-Wrapper span{
+    font-size: 8vw;
+    font-family: "NunitoBold";
+    color: var(--accentColor);
+    position: absolute;
+    text-transform: uppercase;
+}

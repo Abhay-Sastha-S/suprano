@@ -1,0 +1,115 @@
+.header-Wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 4rem 0;
+}
+.header-TextCont{
+    width: 85%;
+}
+.header-Title{
+    font-size: 5.6vw;
+    color: var(--secondaryColor);
+    font-family: "NunitoBold";
+    text-transform: capitalize;
+    margin: 6rem 1rem 4rem 1rem;
+}
+.header-Title span{
+    font-size: 5.8vw;
+    color: var(--accentColor);
+}
+.header-Tag{
+    font-size: 1.4vw;
+    width: 80%;
+    color: var(--subtextColor);
+    margin: 2rem 1rem;
+    font-family: "NunitoBold";
+}
+.header-Email{
+    margin: 4rem 1rem 2rem 1rem;
+    line-height: 3rem;
+    font-family: "NunitoBold";
+    color: var(--subtextColor);
+    font-size: 1.8vw;
+}
+.header-Email span{
+    color: var(--accentColor);
+}
+.header-Info{
+    line-height: 2rem;
+    font-family: "Nunito";
+    font-size: 1.6vw;
+    color: var(--subtextColor);
+    display: flex;
+    flex-wrap: wrap;
+}
+.header-Info span{
+    color: var(--accentColor);
+}
+.header-Section{
+    margin: 2.4rem 1rem 1rem 1rem;
+    width: 45%;
+}
+.header-Section .header-Place{
+    font-size: 2.2rem;
+    margin: 1rem 0 0.5rem 0;
+    font-family: "NunitoBold";
+    color: var(--secondaryColor);
+}
+.header-Section .info{
+    margin: 0.5rem 0;
+    font-family: "NunitoBold";
+}
+
+.header-Section .info span {
+    font-family: "Poppins";
+}
+
+@media only screen and (max-width: 480px) {
+    .header-Wrapper {
+        margin: 0;
+    }
+    
+    .header-Title {
+        font-size: 10vw;
+        margin: 0;
+        margin-top: 10vh;
+    }
+
+    .header-Title span {
+        font-size: 10vw;
+    }
+
+    .header-Info {
+        width: 100%;
+        border: 2px solid var(--accentColor);
+        border-radius: 12px;
+        margin-top: 4vh;
+    }
+
+    .header-Tag {
+        width: 90%;
+        font-size: 3vw;
+        margin: 0;
+        margin-top: 2vh;
+    }
+
+    .header-Section {
+        width: 100%;
+    }
+
+    .header-Email {
+        font-size: 4vw;
+        margin: 0;
+    }
+
+    .header-Place {
+        width: 9vw;
+        margin: 0;
+    }
+
+    .info {
+        font-size: 4vw;
+    }
+}

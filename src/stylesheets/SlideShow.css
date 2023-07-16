@@ -1,0 +1,147 @@
+@keyframes rot-anim {
+    0% { transform: rotate(-360deg); }
+    100% { transform: rotate(0deg); }
+}
+@-moz-keyframes rot-anim {
+    0% { -moz-transform: rotate(-360deg); }
+    100% { -moz-transform: rotate(0deg); }
+}
+@-webkit-keyframes rot-anim {
+    0% {-webkit-transform: rotate(-360deg); }
+    100% { -webkit-transform: rotate(0deg); }
+}
+@-o-keyframes rot-anim {
+    0% { -o-transform: rotate(-360deg); }
+    100% { -o-transform: rotate(0deg); }
+}
+
+@keyframes anim-jump {
+    0%{
+        transform: translateY(0%);
+    }
+    25%{
+        transform: translateY(-20%);
+    }
+    50%{
+        transform: translateY(0%);
+    }
+    75%{
+        transform: translateY(20%);
+    }
+    100%{
+        transform: translateY(0%);
+    }
+}
+
+#slideShowContainer {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    cursor: none;
+}
+.cursor{
+    width: 120px;
+    height: 120px;
+    z-index: 100;
+    position: absolute;
+    transition: transform 2s cubic-bezier(.02,1.23,.79,1.08);
+}
+.rotate-anim{
+    animation: rot-anim 3s linear 0s infinite normal;
+    -moz-animation: 3s linear 0s normal none infinite rot-anim;
+    -webkit-animation: rot-anim 3s linear 0s infinite normal;
+    -o-animation: rot-anim 3s linear 0s infinite normal;
+}
+.cur-bg{
+    display: block;
+    background-image: url("../assets/images/components/cur.png");
+    background-color: inherit;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.slide {
+    opacity: 0;
+    transition: 0.4s all ease-out;
+}
+.active {
+    opacity: 1;
+    transition: 0.4s all ease-out;
+}
+.slideShowVideo {
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    position: absolute;
+    object-fit: cover;
+}
+
+.slideContent {
+    position: absolute;
+    z-index: 99;
+    margin-left: 8vw;
+    margin-top: 24vh;
+    display: inline-block;
+    width:  65%;
+}
+
+.slideTitle {
+    font-family: "NunitoBold";
+    font-size: 4.5vw;
+    color: var(--secondaryColor);
+}
+
+.slideTagline {
+    font-family: "NunitoBold";
+    font-size: 1.5vw;
+    color: var(--accentColor);
+    margin-top: 2vh;
+}
+
+.slideDesc {
+    font-family: "PoppinsSemiBold";
+    font-size: 1.26vw;
+    color: var(--subtextColor);
+    margin-top: 2vh;
+    line-height: 4vh;
+}
+
+.slideCounter {
+    font-family: "NunitoBold";
+    font-size: 1.4vw;
+    color: var(--secondaryColor);
+    margin-left: 60%;
+    margin-top: 160px;
+}
+
+@media only screen and (max-width:480px){
+    #slideShowContainer{
+        height: 75vh;
+    }
+    .slideShowVideo{
+        height: 75%;
+    }
+    .slideContent{
+        margin-top: 22vh;
+        width: 90%;
+        margin-left: 1.4rem;
+    }
+    .slideTitle{
+        font-size: 7.35vw;
+    }
+    .slideTagline{
+        font-size: 4vw;
+        margin-top: 0.6rem;
+    }
+    .slideDesc{
+        font-size: 3vw;
+        line-height: 1rem;
+    }
+    .slideCounter{
+        margin-top: 60px;
+        margin-left: 40%;
+        font-size: 5vw;
+    }
+}

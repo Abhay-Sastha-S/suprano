@@ -1,0 +1,161 @@
+/* animations for image div */
+@keyframes fade {
+    to{
+        filter: opacity(0);
+    }
+}
+
+/* Stylesheet */
+.Left-Scroll-Wrapper{
+    background-color: inherit;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 310vh;
+}
+
+.stick{
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+.stick-div{
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.frame{
+    top: 10%;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.img-Wrapper{
+    height: 100%;
+    width: 50%;
+    
+}
+.image{
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    will-change: transform;
+}
+.image1{
+    background-image:url("../assets/images/components/ls1.jpg");
+    background-position: left;
+    background-size: cover;
+}
+.image2{
+    background-image: url("../assets/images/components/ls2.jpg");
+    background-position: left;
+    background-size: cover;
+}
+.image3{
+    background-image: url("../assets/images/components/ls3.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.text-Wrapper{
+    height: 100%;
+    width: 60%;
+    overflow: hidden;
+    white-space:nowrap;
+}
+
+.text{
+    height: 100vh;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    border: none;
+    will-change: transform;
+}
+
+.flexClass{
+    height: 100%;
+    color: var(--accentColor);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    top: 0;
+}
+.image-text{
+    width: 100%;
+    font-size: 1.5vw;
+    font-family: "Poppins";
+    text-align: justify;
+    word-break: normal;
+    white-space:break-spaces;
+    line-height: 2.4rem;
+    word-wrap: break-word;
+    hyphens: auto;
+    color: var(--subtextColor);
+}
+.header{
+    text-transform: capitalize;
+    font-family: "NunitoBold";
+    margin-bottom: 6vh;
+    width: 100%;
+    word-break: normal;
+    white-space:break-spaces;
+    word-wrap: break-word;
+    hyphens: auto;
+
+}
+.text-cont{
+    height: 85%;
+    width: 70%;
+    text-align: left;
+}
+
+@media only screen and (max-width:480px){
+    .frame{
+        flex-direction: column;
+    }
+    .img-Wrapper{
+        width: 100%;
+        height: 50%;
+    }
+    .text-Wrapper{
+        width: 100%;
+        height: 50%;
+        background-color: var(--primaryColor);
+        white-space: wrap;
+    }
+    .text{
+        background-color: var(--primaryColor);
+        height: 50vh;
+    }
+    .text-cont{
+        width: 100%;
+        background-color: var(--primaryColor);
+        width: 90%;
+        margin: 4vh 5% 0 5%;
+    }
+    .flexClass{
+        position: static;
+        justify-content: flex-start;
+    }
+    .header{
+        margin: 0.5rem 0rem;
+        text-align: center;
+    }
+    .image-text{
+        font-size: 1.5vh;
+        line-height: 1.5rem;
+    }
+
+}

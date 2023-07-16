@@ -1,0 +1,79 @@
+.whatdo-Wrapper{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6vh;
+    margin-bottom: 4vh;
+    overflow: hidden;
+}
+
+.whatdo-Text{
+    height: 85%;
+    width: 54%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.whatdo-Image{
+    height: 76%;
+    width: 42%;
+    border-radius: 5vmin 0 5vmin 0;
+    background-image: url("../assets/images/components/whatDo.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 6px solid var(--accentColor);
+}
+
+.whatdo-Title{
+    margin-top: 2rem;
+    font-size: 5.2vw;
+    color: var(--accentColor);
+    font-family: "NunitoBold";
+    animation-delay: 0.2s;
+}
+
+.whatdo-desc{
+    margin-top: 6%;
+    width: 75%;
+    color: var(--subtextColor);
+    font-size: 1.2vw;
+    line-height: 1.8rem;
+    text-align: justify;
+    animation-delay: 0.2s;
+    font-family: "Poppins";
+}
+.wd-Selector{
+    opacity: 0;
+}
+
+@media only screen and (max-width:480px){
+    .whatdo-Wrapper{
+        margin:0 0 2rem 0;
+        height: 110vh;
+        flex-direction: column-reverse;
+    }
+    .whatdo-Image{
+        width: 100%;
+        height: 40%;
+        border-radius: 0;
+        border: none;
+        border-top: 5px solid var(--accentColor);
+    }
+    .whatdo-Text{
+        width: 100%;
+        height: 60%;
+        margin: 2rem 0 0 0;
+    }
+    .whatdo-Title{
+        font-size: 10vw;
+    }
+    .whatdo-desc{
+        width: 90%;
+        line-height: 1.4rem;
+        font-size: 3.2vw;
+    }
+}

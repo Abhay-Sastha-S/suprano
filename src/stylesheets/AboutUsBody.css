@@ -1,0 +1,151 @@
+@keyframes anim-side-abt {
+    from{
+        transform: translateX(-90%);
+        opacity: 0;
+    }
+    to{
+        transform: translate(0%);
+        opacity: 1;
+    }
+}
+
+@keyframes anim-up-abt {
+    from{
+        transform: translateY(90%);
+        opacity: 0;
+    }
+    to{
+        transform: translateY(0%);
+        opacity: 1;
+    }
+}
+
+.aboutUsBodyText {
+    height: 48vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    margin: 2rem 0;
+}
+
+.aboutUsBodyTitle {
+    font-family: "NunitoSemiBold";
+    color: var(--secondaryColor);
+    display: inline;
+    font-size: 3.6vw;
+    width: 100%;
+    overflow: hidden;
+}
+
+.aboutUsBodyTitleCont{
+    width: 85%;
+    opacity: 0;
+}
+.typewrite{
+    opacity: 1;
+}
+.aboutUsBodyDesc {
+    font-family: "Poppins";
+    color: var(--secondaryColor);
+    font-size: 1.6vw;
+    margin-top: 5vh;
+    width: 85%;
+    opacity: 0;
+}
+
+.aboutUsBodyTextLight {
+    height: 75vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--secondaryColor);
+}
+
+
+.aboutUsBodyTitleLight {
+    font-family: "NunitoSemiBold";
+    color: var(--primaryColor);
+    display: inline;
+    word-wrap: break-word;
+    font-size: 3.6vw;
+}
+
+
+.aboutUsBodyDescLight {
+    width: 85%;
+    font-family: "Poppins";
+    color: var(--primaryColor);
+    font-size: 1.6vw;
+    word-wrap: break-word;
+    margin: 2.4rem 0 0 0;
+    opacity: 0;
+}
+.blue {
+    color: var(--accentColor);
+    transition: 0.2s all ease-out;
+}
+
+.spl{
+    width: 85%;
+    opacity: 0;
+}
+
+iframe {
+    border: none;
+}
+
+.anim-fade-left{
+    animation-name: anim-side-abt;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+.anim-fade-up{
+    animation-name: anim-up-abt;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+.sel-desc{
+    animation-delay: 400ms;
+}
+
+@media only screen and (max-width:480px){
+    .aboutUsBodyText{
+        height: 42vh;
+        margin: 0 0 1rem 0;
+    }
+    .aboutUsBodyTitleCont{
+        width: 90%;
+    }
+    .aboutUsBodyTitle{
+        width: 90%;
+        font-size: 5.5vw;
+    }
+    .aboutUsBodyDesc{
+        font-size: 3.5vw;
+        width: 90%;
+        margin-top: 1rem;
+    }
+    .aboutUsBodyTextLight{
+        height: 45vh;
+    }
+    .aboutUsBodyTitleLight{
+        font-size: 5.5vw;
+        width: 90%;
+    }
+    .aboutUsBodyDescLight{
+        width: 90%;
+        font-size: 3.5vw;
+        margin-top: 1rem;
+    }
+    .wm-Cont{
+        height: 25vh;
+        margin-top: 2rem;
+    }
+}

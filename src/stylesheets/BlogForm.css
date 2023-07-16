@@ -1,0 +1,92 @@
+.blogFormContainer {
+    width: 24vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(46, 46, 46);
+    border-radius: 2vmin;
+    padding: 8vh 0;
+    border: 2.8px solid var(--accentColor);
+}
+
+.blogFormInput {
+    height: 8vh;
+    width: 78%;
+    margin: 1vh 0;
+    padding: 0 0.8vw;
+    border-radius: 4px;
+    background-color: inherit;
+    color: var(--secondaryColor);
+    font-family: Poppins;
+    font-size: 1.2vw;
+    border: 2px solid var(--secondaryColor);
+    transition: 0.2s all ease-out;
+}
+
+.blogFormInput::placeholder {
+    color: var(--secondaryColor);
+    transition: 0.2s all ease-out;
+}
+
+.blogFormInput:focus {
+    background-color: var(--secondaryColor);
+    color: var(--primaryColor);
+    border: 2.8px solid var(--accentColor);
+    transition: 0.2s all ease-out;
+    outline: none;
+}
+
+.blogFormInput:focus::placeholder {
+    color: var(--primaryColor);
+    transition: 0.2s all ease-out;
+}
+
+#blogFormSubmitButton {
+    width: 14vw;
+    height: 8vh;
+    transition: 0.2s all ease-out;
+    color: var(--secondaryColor);
+    font-family: "PoppinsBold";
+    font-size: 1.2vw;
+    margin-top: 4vh;
+    background-color: var(--accentColor);
+    border: 2px solid var(--accentColor);
+    border-radius: 8px;
+}
+
+#blogFormSubmitButton:hover {
+    color: var(--secondaryColor);
+    background-color: inherit;
+    transition: 0.2s all ease-out;
+}
+
+#blogFormTitle {
+    font-family: "Poppins";
+    font-size: 2vw;
+    color: var(--secondaryColor);
+    padding-bottom: 4vh;
+}
+
+@media only screen and (max-width: 480px) {
+    .blogFormContainer {
+        width: 100%;
+        padding: 8vh 4vw;
+        margin-top: 8vh;
+    }
+
+    .blogFormInput {
+        font-size: 4vw;
+    }
+
+    #blogFormTitle {
+        font-size: 6vw;
+    }
+
+    #blogFormSubmitButton {
+        font-size: 6vw;
+        width: auto;
+        padding: 2vh 8vw;
+    }
+}

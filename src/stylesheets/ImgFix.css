@@ -1,0 +1,67 @@
+.Img-Fix-Wrapper{
+    width: 100%;
+    min-height: 200vh;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.WrapperTxt{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--primaryColor);
+    position:sticky;
+    top: 0;
+}
+.MainImg{
+    will-change: height,width;
+    transition-duration: 100ms;
+    height: 40vh;
+    width: 40%;
+    position: relative;
+    bottom: 0;
+    z-index: 0;
+}
+.Fixed-bg{
+    top: 0;
+}
+.MainText{
+    font-weight: bold;
+    font-size: 9vw;
+    font-family: "NunitoItalic";
+    color: var(--primaryColor)
+}
+.text-selector-class{
+    height: 100vh;
+    width: 100%;
+    font-size: 6vw;
+    color: var(--accentColor);
+    font-weight: bold;
+    font-family: "NunitoItalic";
+    background-image: url("../assets/images/components/imgFix.jpeg");
+    background-color: rgba(10, 10, 10, 0.45);
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media only screen and (max-width:480px){
+    .MainImg{
+        width: 100%;
+    }
+    .MainText{
+        font-size: 15vw;
+    }
+    .MainImg .text-selector-class{
+        font-size: 14vw;
+    }
+}

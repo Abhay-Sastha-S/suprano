@@ -1,0 +1,38 @@
+.marquee-div{
+    height: 12vh;
+    background-color: var(--accentColor);
+}
+
+#marquee {
+    color: inherit;
+    font-family: "Poppins";
+    font-weight: bold;
+    font-size: 2vw;
+    justify-content: center;
+    transform: translate(-100%);
+    text-transform: uppercase;
+    animation: 12s marquee linear infinite;
+}
+
+@keyframes marquee {
+    0% {
+        transform: 0;
+    }
+
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+@media only screen and (max-width:480px){
+    .marquee-div{
+        height: auto;
+        overflow: hidden;
+    }
+    #marquee{
+        height: 8vh;
+        font-size: 6.4vw;
+        width: 190%;
+        font-weight: bold;
+    }
+}

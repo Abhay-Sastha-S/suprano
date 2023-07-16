@@ -1,0 +1,131 @@
+@keyframes fade-up {
+    from{
+        transform: translate(-50%,100%);
+        opacity: 0;
+    }
+    to{
+        transform: translate(-50%,-50%);
+        opacity: 1;
+    }
+}
+@keyframes dec-up {
+    from{
+        top: 50%;
+        font-size: 8vw;
+        opacity: 1;
+    }
+    to{
+        top: 5%;
+        font-size: 6vw;
+        opacity: 1;
+    }
+}
+.intro-Wrapper{
+    height: 85vh;
+    width: 100%;
+    position: relative;
+    margin: 10rem 0;
+}
+
+.intro-CompText{
+    text-align: center;
+    opacity: 0;
+    width: 80%;
+    height: auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    color: var(--accentColor);
+    font-size: 8vw;
+    font-family: "NunitoBold";
+    text-transform: uppercase;
+}
+.text-Anim{
+    animation-name: fade-up;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+}
+.text-Dec{
+    animation-name: dec-up;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+}
+.intro-ImageWrapper{
+    opacity: 0;
+    position: absolute;
+    width: 40%;
+    height: 80%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    animation-delay: 0.5s;
+    margin-top: 10vh;
+}
+
+.intro-Img{
+    opacity: 1;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    height: 100%;
+    width: 65%;
+    border-radius: 2.5vmin;
+    transition: all 1s cubic-bezier(.16,.68,.26,.8);
+    background-blend-mode: multiply;
+}
+.img-Anim{
+    animation-name: fade-up;
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+}
+.intro-Img1{
+    background-image: url("../assets/images/components/intro1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 3;
+}
+.intro-Img2{
+    background-image: url("../assets/images/components/intro2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: translate(-85%,-50%) rotate(-5deg);
+    z-index: 2;
+}
+.intro-Img3{
+    background-image: url("../assets/images/components/intro3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: translate(-10%,-50%) rotate(5deg);
+    
+}
+.intro-ImageWrapper:hover .intro-Img2{
+    transform: translate(-155%,-30%) rotate(-15deg);
+}
+.intro-ImageWrapper:hover .intro-Img3{
+    transform: translate(55%,-30%) rotate(15deg);
+}
+
+@media only screen and (max-width:480px){
+    .intro-Wrapper{
+        height: 20vh;
+        margin: 4rem 0 0 0;
+    }
+    .intro-CompText{
+        font-size: 15vw;
+        line-height: 5rem;
+    }
+    .intro-ImageWrapper{
+        display: none;
+    }
+    .intro-Img{
+        display: none;
+    }
+}

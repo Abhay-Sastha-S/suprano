@@ -1,0 +1,137 @@
+@keyframes anim-side-ser {
+    from{
+        transform: translateX(-150%);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(-50%);
+        opacity: 1;
+    }
+}
+
+.serHead-Wrapper{
+    width: 100%;
+    height: 145vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    overflow-x: hidden;
+}
+.serImg-Cont{
+    width: 80%;
+    height: 66vh; 
+    text-align: center;  
+    display: inline;
+}
+.serDesc-Cont{
+    margin: 2rem 0 1rem 0;
+    width: 80%;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.serImg{
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    background-image: url("../assets/images/components/servicesHeader.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(10, 10, 10, 0.35);
+    background-blend-mode:multiply;
+}
+.serImg-Title{
+    opacity: 0;
+    width: 80%;
+    position: absolute;
+    bottom: 64%;
+    left: 50%;
+    transform: translateX(-150%);
+    color: var(--secondaryColor);
+    font-size: 12.6vw;
+    font-family: "NunitoBold";
+    text-transform: uppercase;
+    animation-name: anim-side-ser;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+.serDesc-Cont .serDesc{
+    width: 42%;
+    font-size: 1.2vw;
+    font-family: "Nunito";
+    color: var(--secondaryColor);
+}
+.serBtn{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.2vw;
+    color: var(--secondaryColor);
+    font-family: "NunitoBold";
+    cursor: pointer;
+    text-decoration: none;
+}
+.serBtn .icon{
+    color: var(--accentColor);
+    margin-left: 2rem;
+    margin-top: 0.3rem;
+}
+.serTag{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-top: 5px solid var(--accentColor);
+    border-bottom: 5px solid var(--accentColor);
+    padding: 1.1rem;
+}
+.serTag .icon{
+    margin:0 4rem;
+    color: var(--secondaryColor);
+}
+.serTag span{
+    color: var(--secondaryColor);
+    font-size: 4.5vw;
+    font-family: "NunitoBold";
+}
+
+@media only screen and (max-width:480px) {
+    .serHead-Wrapper{
+        justify-content: space-between;
+        height: 100vh;
+    }
+    .serImg-Cont{
+        width: 100%;
+        height: 35vh;
+    }
+    .serImg-Title{
+        font-size: 18vw;
+        bottom: 78%;
+    }
+    .serDesc-Cont{
+        flex-direction: column;
+        justify-content: space-evenly;
+        margin: 0;
+        height: 44vh;
+    }
+    .serDesc-Cont .serDesc{
+        width: 100%;
+        font-size: 4.2vw;
+    }
+    .serDesc-Cont .serBtn{
+        width:80%;
+        font-size: 8.2vw;
+        height: 26vw;
+    }
+    .serDesc-Cont .serBtn .icon{
+        margin-left: 0.6rem;
+    }
+    .serTag .icon{
+        margin: 0 0.4rem;
+    }
+}

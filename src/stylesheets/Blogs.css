@@ -1,0 +1,34 @@
+.blogThumbnailTitle {
+    color: var(--secondaryColor);
+}
+
+.blogThumbnailsContainer {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.blogThumbnailsContainer > * {
+    margin: 2.8vh 0;
+}
+
+.mainBlogsContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mainBlogsContainer > * {
+    margin: 4vh;
+}
+
+.blogsHeader {
+    color: var(--secondaryColor);
+    font-family: "PoppinsBold";
+    font-size: 3.2vw;
+    margin-top: 12vh;
+}

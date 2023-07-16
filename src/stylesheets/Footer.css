@@ -1,0 +1,121 @@
+.footer-Wrapper{
+    height: 98vh;
+    width: 100%;
+    border-top: 5px solid var(--accentColor);
+}
+.footer-Text{
+    width: 100%;
+    height: 65%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-Image{
+    width: 100%;
+    height: 35%;
+    background-image: url("../assets/images/components/footer.jpeg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer-blur{
+    background:rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(4px);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-Logo{
+    height: 80%;
+    width: 12%;
+}
+.footer-links{
+    height: 90%;
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height:2.8rem;
+    font-size: 1.5vw;
+    color: var(--subtextColor);
+    font-family: "Nunito";
+}
+.footer-links a{
+    cursor:pointer;
+    text-decoration: none;
+}
+
+.footer-links a:visited{
+    color: var(--secondaryColor);
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+.footer-Info{
+    height: 80%;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 5rem;
+}
+.footer-Comp{
+    font-size: 7vw;
+    font-family: "NunitoBold";
+    color: var(--accentColor);
+}
+.footer-Tag{
+    font-size: 2.3vw;
+    font-family: "Nunito";
+    color: var(--subtextColor);
+}
+.footer-Soc{
+    margin-top: 5%;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: var(--subtextColor);
+}
+
+@media only screen and (max-width:480px) {
+    .footer-Text{
+        flex-direction: column-reverse;
+    }
+    .footer-Wrapper{
+        height: 90vh;
+        padding-top: 1rem;
+    }
+    .footer-Info{
+        width: 100%;
+        height: 50%;
+        line-height: 2rem;
+    }
+    .footer-Info .footer-Comp{
+        font-size: 8.2vw;
+        text-transform: uppercase;
+    }
+    .footer-Info .footer-Tag{
+        font-size:3.8vw;
+    }
+    .footer-Info .footer-Soc{
+        width: 60%;
+    }
+    .footer-links{
+        width: 60%;
+        margin-bottom: 2rem;
+    }
+    .footer-links a{
+        width: 100%;
+        text-align: center;
+        font-size: 5vw;
+    }
+    .footer-Image .footer-blur .footer-Logo{
+        height: 70%;
+        width: 40%;
+    }
+}
