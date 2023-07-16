@@ -84,21 +84,21 @@
 
 .cc-Text{
     height: 3vw;
+    width: 100%;
     position: absolute;
     z-index: 2;
     display: flex;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: space-between;
     align-items: center;
     font-size: 1.2rem;
     color: var(--secondaryColor);
-    gap: 0.5rem;
-    right: 2%;
     bottom: 2%;
     font-family: "Nunito";
 }
 
 .cc-Text a{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: var(--secondaryColor);
     text-decoration: none;
     cursor: pointer;

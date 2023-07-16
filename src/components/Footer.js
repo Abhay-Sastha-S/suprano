@@ -23,7 +23,7 @@ const Footer = () => {
             <div className="footer-Image">
                 <div className="footer-blur">
                 <img className="footer-Logo" src={imgLogo} alt='blurredImage'></img>
-                <span className="cc-Text"><CopyrightRounded sx={{fontSize:30}}/>Suprano Exhibits 2023, Made by <a href="https://www.prosgro.com"> prosgro</a></span>
+                <span className="cc-Text"><p><CopyrightRounded sx={{fontSize:20}}/>Suprano Exhibits 2023</p><a href="https://www.prosgro.com">Made by ProsGro</a></span>
                 </div>
             </div>
         </div>

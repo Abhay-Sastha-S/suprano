@@ -22,7 +22,7 @@ const ContactUsHeader = () => {
                     </div>
                     <div className='header-Section'>
                         <div className='header-Place'>India</div>
-                        <div className='info'>Office: <span>A2/503, Tower 4, Purvanchal Royal Park, Sector 137, Noida, 201305</span> </div>
+                        <div className='info'>Office: <span>Purvanchal Royal Park, Sector 137, Noida, 201305</span> </div>
                         <div className='info'>Phone: <span>+91 9953087077</span> </div>
                     </div>
                     <div className='header-Section'>
