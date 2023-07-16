@@ -47,7 +47,7 @@
     margin: 0 20px;
 }
 .is-main{
-    z-index: 999;
+    z-index: 990;
 }
 .margin-zero{
     margin: 0;
@@ -114,6 +114,9 @@
 }
 
 @media only screen and (max-width:480px){
+    .grid-column{
+        transition-duration: 0ms;
+    }
     .text-cont-grid{
         font-size: 14vw;
     }

@@ -82,6 +82,28 @@
     color: var(--subtextColor);
 }
 
+.cc-Text{
+    height: 3vw;
+    position: absolute;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    color: var(--secondaryColor);
+    gap: 0.5rem;
+    right: 2%;
+    bottom: 2%;
+    font-family: "Nunito";
+}
+
+.cc-Text a{
+    font-size: 1.5rem;
+    color: var(--secondaryColor);
+    text-decoration: none;
+    cursor: pointer;
+}
+
 @media only screen and (max-width:480px) {
     .footer-Text{
         flex-direction: column-reverse;

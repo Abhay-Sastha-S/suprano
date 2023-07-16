@@ -106,6 +106,17 @@ export const HomePage = () => {
         <title>Premier Exhibition Booth Construction Company | Suprano Exhibits</title>
         <meta name='description' content='Suprano Exhibits is a top exhibition stand builder in Middle East, specializing in innovative exhibition booth design, fabrication, and event management services. Trust our expertise in exhibition project management and deliver an exceptional brand experience.'></meta>
       </Helmet>
+      <div className="keyword" style={{display:"none"}}>
+      Exhibition booth construction company
+      Top exhibition stand builder in Middle East
+      Exhibition booth design and fabrication
+      Custom trade show booth solutions
+      Leading exhibition booth contractor
+      Event management and execution services
+      Innovative exhibition booth designs
+      Premier exhibition booth builder in Middle East
+      Professional exhibition services
+      </div>
       <NavBar showMenu={showMenu} />
       <Menu hideMenu={hideMenu}/>
       <SlideShow />
