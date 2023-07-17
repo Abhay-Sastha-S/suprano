@@ -23,8 +23,6 @@ import gd1 from './assets/images/GeneralDynamics/gd1.JPG'
 import gd2 from './assets/images/GeneralDynamics/gd2.jpg'
 import georgia1 from './assets/images/Georgia/georgia1.jpg'
 import georgia2 from './assets/images/Georgia/georgia2.jpg'
-import georgia3 from './assets/images/Georgia/georgia3.jpg'
-import georgia4 from './assets/images/Georgia/georgia4.jpg'
 import goldleaf1 from './assets/images/GoldLeaf/goldleaf1.jpeg'
 import kodak1 from './assets/images/Kodak/kodak1.jpg'
 import malaki1 from './assets/images/Malaki/malaki1.jpg'
@@ -279,7 +277,7 @@ export const grid_items = [
         desc:`Arab Health 2023-Dubai`,
         video:"",
         class:"main",
-        img_lis:[georgia1, georgia2, georgia3, georgia4]
+        img_lis:[georgia1, georgia2]
     },
 
     {
