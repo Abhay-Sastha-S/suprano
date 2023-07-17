@@ -29,3 +29,13 @@
     font-family: "Poppins";
     font-size: 2vw;
 }
+
+@media only screen and (max-width: 480px) {
+    .blogThumbnailContainer {
+        width: 80%;
+        margin: 0;
+    }
+    .blogThumbnailTitle {
+        font-size: 8vw;
+    }
+}
