@@ -13,7 +13,7 @@
 .footer-Image{
     width: 100%;
     height: 35%;
-    background-image: url("../assets/images/components/footer.jpeg");
+    background-image: url("../assets/images/components/footer.jpg");
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -83,18 +83,16 @@
 }
 
 .cc-Text{
-    height: 3vw;
-    width: 100%;
     position: absolute;
     z-index: 2;
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: flex-end;
     font-size: 1.2rem;
     color: var(--secondaryColor);
     font-family: "Nunito";
     bottom: 4.4%;
-    left: 1.2%;
+    right: 1.2%;
 }
 
 .cc-Text span{

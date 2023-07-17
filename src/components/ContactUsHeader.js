@@ -2,9 +2,10 @@ import '../stylesheets/ContactUsHeader.css'
 
 const ContactUsHeader = () => {
     return(
+        <div>
+            <div className='header-img'></div>
         <div className='header-Wrapper'>
             <div className='header-TextCont'>
-                <div className='header-Title'>contact us<span>.</span></div>
                 <div className='header-Tag'>We welcome the opportunity to collaborate with you and transform your exhibition aspirations into reality. For all inquiries, collaborations, or further information about our services, please contact our dedicated team at Suprano Exhibits. </div>
                 <div className='header-Email'>
                     Email: <span>info@supranoexhibits.com</span><br />
@@ -35,6 +36,7 @@ const ContactUsHeader = () => {
                     </div>
                 </div>
             </div>
+        </div>
         </div>
     )
 }
