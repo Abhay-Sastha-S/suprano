@@ -1,21 +1,21 @@
 #contactUsForm {
     display: flex;
-    width: 50%;
+    width: 40%;
     flex-direction: column;
+    align-items: center;
 }
 
 #contactUsFormContainer {
     display: flex;
-    flex-direction: row;
-    width: 100%;
-    padding: 10vh 0;
+    justify-content: space-between;
+    width: 84%;
+    margin: 2rem 8%;
 }
 
 #contactUsFormInfo {
     display: flex;
     flex-direction: column;
-    width: 50%;
-    margin-left: 10%;
+    width: 55%;
 }
 
 #contactUsFormH1 {
@@ -24,17 +24,18 @@
     color: var(--secondaryColor);
 }
 .contactUsFormInputLabel {
+    width: 100%;
     color: var(--secondaryColor);
     font-family: "PoppinsBold";
     font-size: 1.2vw;
 }
 
 .contactUsFormInput {
-    width: 80%;
+    width: 99%;
     height: 5vh;
     font-family: "Poppins";
     font-size: 1.2vw;
-    padding: 0 2vw;
+    padding: 0 0vw;
 }
 
 #contactUsFormEmail {

@@ -1,8 +1,8 @@
 import img1 from './assets/images/components/blog3.jpeg'
-import img2 from './assets/images/components/blog2.jpg'
-import img3 from './assets/images/components/blog1.png'
-import img4 from './assets/images/components/blog4.png'
-import img5 from './assets/images/components/blog5.png'
+import img2 from './assets/images/components/blog2.jpeg'
+import img3 from './assets/images/components/blog1.jpeg'
+import img4 from './assets/images/components/blog4.jpeg'
+import img5 from './assets/images/components/blog5.jpeg'
 
 export const BlogsList = {
     "blogs": [
