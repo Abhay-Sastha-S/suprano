@@ -9,13 +9,13 @@ const BlogForm = () => {
     let email = document.getElementById("blogFormEmail").value;
     let eName = document.getElementById("blogFormEName").value;
     let pNumber = document.getElementById("blogFormPhone").value;
-    let message = document.getElementById("contactUsFormMessage").value;
+    let message = document.getElementById("blogFormMessage").value;
     let params = {
       name: name,
       email: email,
       message: `Email: ${email}\nName: ${name}\nBooth Size: ${bSize}\nCExhibition Name: ${eName}\nPhone Number: ${pNumber}\n\n${message}`
     }
-    emailjs.send("service_fbpufe9", "template_ckq67uf", params, "VUamv5N3Fwdw8YVar").then((res) => alert("Mail sent successfully."), (err) => alert("The mail could not be sent"))
+    emailjs.send("service_fbpufe9", "template_3i3mya4", params, "VUamv5N3Fwdw8YVar").then((res) => alert("Mail sent successfully."), (err) => alert("The mail could not be sent " + err))
   }
   return (
     <div>
