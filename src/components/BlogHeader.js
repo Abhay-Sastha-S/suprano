@@ -11,7 +11,7 @@ const BlogHeader = ( { content } ) => {
         <meta name='description' content={content.desc}></meta>
       </Helmet>
       <div id='blogHeaderContainer' style={{backgroundImage:`url(${content.image})`,backgroundPosition:"center",backgroundSize:"cover",backgroundColor:"rgba(10,10,10,0.6)",backgroundBlendMode:"multiply"}}>
-        <p className='blogHeaderTitle'>{content.titpg}</p>
+        <p className='blogHeaderTitle'>{content.pt}</p>
       </div>
     </div>
   )
