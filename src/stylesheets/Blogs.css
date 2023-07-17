@@ -22,13 +22,17 @@
     align-items: center;
 }
 
-.mainBlogsContainer > * {
-    margin: 4vh;
-}
+
 
 .blogsHeader {
     color: var(--secondaryColor);
     font-family: "PoppinsBold";
     font-size: 3.2vw;
     margin-top: 12vh;
+}
+
+@media only screen and (max-width: 480px) {
+    .blogThumbnailsContaine {
+        flex-direction: column;
+    }
 }

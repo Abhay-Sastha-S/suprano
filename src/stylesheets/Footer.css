@@ -88,17 +88,29 @@
     position: absolute;
     z-index: 2;
     display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 1.2rem;
+    color: var(--secondaryColor);
+    font-family: "Nunito";
+    bottom: 4.4%;
+    left: 1.2%;
+}
+
+.cc-Text span{
+    z-index: 2;
+    display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: var(--secondaryColor);
-    bottom: 2%;
     font-family: "Nunito";
+    gap: 0.4vw;
 }
 
 .cc-Text a{
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: var(--secondaryColor);
     text-decoration: none;
     cursor: pointer;

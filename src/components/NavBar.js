@@ -20,7 +20,7 @@ document.addEventListener("scroll", () => {
 const NavBar = ({ showMenu }) => {
   return (
     <div id='navbar'>
-        <img src={logo} id='logo' alt='logo'/>
+        <img src={logo} id='logo' alt='logo' onClick={() => window.open("./", "_self")}/>
         <MenuIcon id='menuIcon' sx={{fontSize: 45}} style={{zIndex: 998, color: "white", float: "right", marginRight: 50, marginTop: 20}} onClick={showMenu}> </MenuIcon>
     </div>
   )
