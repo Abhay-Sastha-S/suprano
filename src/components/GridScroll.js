@@ -60,7 +60,7 @@ const GridScroll = () => {
                                 <div key={ind+index} className={`grid-el${index===1?" is-cen":""}${index===1&&ind===1?" is-main":""}`} style={{backgroundImage:`url(${img})`}}>
                                     {ind ===1&&index===1?<div className='main-text'>
                                             <div className='grid-MainText'><p>Redefine Exhibition Excellence</p></div>
-                                            <div className='grid-PortBtn'>View Our Portfolio <ArrowRightAlt sx={{fontSize:document.documentElement.clientWidth>480?45:70,marginTop:0.15}}/></div>
+                                            <div className='grid-PortBtn' onClick={() => window.open("./Portfolio", "_self")}>View Our Portfolio <ArrowRightAlt sx={{fontSize:document.documentElement.clientWidth>480?45:70,marginTop:0.15}}/></div>
                                     </div>:""}
                                 </div>
                             ))}
