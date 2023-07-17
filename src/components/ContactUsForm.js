@@ -30,7 +30,7 @@ const ContactUsForm  = () => {
             <p className='contactUsFormAddressDesc'>Office 2309<br />Prism Tower Business Bay
 Dubai<br />UAE</p>
 <br /><br />
-            <p className='contactUsFormAddressTitle'>Phone: <p className='contactUsFormAddressDesc'>+971 528617600</p></p><br /><br />
+            <span className='contactUsFormAddressTitle'>Phone: <p className='contactUsFormAddressDesc'>+971 528617600</p></span><br /><br />
             
         </div>
         <div id='contactUsForm'>
