@@ -26,7 +26,7 @@ const ContactUs = () => {
         <span className='contact-Big'>Get in Touch</span>
       </div>
       <div className='contact-Form'>
-        Hey! my name is <input type='text' id='homePageContactFormName' className='con-Inp' size={12}></input>,  my Email Id is <input type='email' id='homePageContactFormEmail' className='con-Inp' size={20}></input>,<br></br>
+        Hey! my name is <input type='text' id='homePageContactFormName' className='con-Inp' size={document.documentElement.clientWidth>480?12:35}></input>,  my Email Id is <input type='email' id='homePageContactFormEmail' className='con-Inp' size={document.documentElement.clientWidth>480?20:35}></input>,<br></br>
         My Company's name is <input type='text' id='homePageContactFormCName' className='con-Inp'></input>and<br></br>
         My message is <input type='text' id='homePageContactFormMessage' className='con-Inp' size={45}></input>.
       </div>

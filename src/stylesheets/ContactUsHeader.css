@@ -72,7 +72,10 @@
     .header-Wrapper {
         margin: 0;
     }
-    
+    .header-img{
+        height: 30vh;
+        background-repeat: no-repeat;
+    }
     .header-Title {
         font-size: 10vw;
         margin: 0;

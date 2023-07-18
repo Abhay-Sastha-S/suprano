@@ -49,7 +49,7 @@ const obs_sln_comp = new IntersectionObserver((entries)=>{
     if(el.isIntersecting)obs_sln_comp.unobserve(el.target)
   })
 },{
-  threshold:0.3,
+  threshold:0.4,
 })
 
 const obs_wd_comp = new IntersectionObserver(entries=>{
@@ -58,7 +58,7 @@ const obs_wd_comp = new IntersectionObserver(entries=>{
     if(el.isIntersecting)obs_wd_comp.unobserve(el.target)
   })
 },{
-  threshold:0.3,
+  threshold:0.4,
 })
 
 export const HomePage = () => {
