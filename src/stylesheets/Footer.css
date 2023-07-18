@@ -2,6 +2,7 @@
     height: 98vh;
     width: 100%;
     border-top: 5px solid var(--accentColor);
+    position: relative;
 }
 .footer-Text{
     width: 100%;
@@ -149,5 +150,8 @@
     .footer-Image .footer-blur .footer-Logo{
         height: 70%;
         width: 40%;
+    }
+    .cc-Text{
+        font-size: 0.8rem;
     }
 }
