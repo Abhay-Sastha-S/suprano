@@ -46,6 +46,7 @@
     line-height: 5vh;
     font-size: 1.6vw;
     width: 60%;
+    text-align: justify;
 }
 
 @keyframes fadeInSide {

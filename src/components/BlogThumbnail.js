@@ -7,7 +7,7 @@ const BlogThumbnail = ({ content }) => {
   const navigate = useNavigate();
 
   return (
-    <div className='blogThumbnailContainer' style={{backgroundImage: `url(${content.image})`}} onClick={() => navigate(`/${content.id}`)}>
+    <div className='blogThumbnailContainer' style={{backgroundImage: `url(${content.image})`}} onClick={() => navigate(`/${content.url}`)}>
         <div className='blogThumbnailContentContainer'><p className='blogThumbnailTitle'>{content.title}</p></div>
     </div>
   )

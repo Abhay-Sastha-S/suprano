@@ -10,7 +10,7 @@ import BlogTemplate from './routes/BlogTemplate';
 import Blogs from './routes/Blogs';
 import { BlogsList } from './BlogsList';
 import { Services } from './routes/Services';
-import {BrowserRouter, Routes, Route} from 'react-router-dom'
+import {BrowserRouter, Routes, Route, Navigate} from 'react-router-dom'
 
 const Router = () => {
   return (
@@ -22,7 +22,8 @@ const Router = () => {
         <Route path='/Portfolio' element={<Portfolio />} />
         <Route path='/Services' element={<Services />} />
         <Route path='/Blogs' element={<Blogs />} />
-        {BlogsList.blogs.map((blog,index) => <Route key={index} path={`/${blog.id}`} element={<BlogTemplate content={blog} key={blog.id}/>} />)}
+        <Route path="*" element={ <Navigate to="/" /> } />
+        {BlogsList.blogs.map((blog,index) => <Route key={index} path={`/${blog.url}`} element={<BlogTemplate content={blog} key={blog.id}/>} />)}
       </Routes>
     </BrowserRouter>
   )
