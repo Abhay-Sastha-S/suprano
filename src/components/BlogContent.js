@@ -3,12 +3,14 @@ import '../stylesheets/BlogPage.css'
 import BlogForm from './BlogForm'
 
 const BlogContent = ( { content } ) => {
-  useEffect(() => {
-    document.getElementById("blogContent").innerHTML = content.content;
-  }, [content.content])
+  const setIframeHeight = () => {
+    let iframe = document.getElementById("blogContent")
+    console.log("SIJI")
+    iframe.height = iframe.contentWindow.document.body.scrollHeight + 100
+  }
   return (
     <div id='blogContentContainer'>
-      <p id='blogContent'></p>
+      <iframe id='blogContent' srcDoc={content.content} onLoad={setIframeHeight}></iframe>
       <BlogForm />
     </div>
   )

@@ -66,7 +66,7 @@ import services6 from './assets/images/components/services6.jpg'
 export const grid_items = [
     {
         image:gd1,
-        title:"Genral Dynamics",
+        title:"General Dynamics",
         desc:`IDEX 2023-Abu Dhabi`,
         video:"",
         class:"main",
