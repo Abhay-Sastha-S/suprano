@@ -54,7 +54,7 @@
     color: var(--secondaryColor);
     font-family: "NunitoBold";
     text-transform: capitalize;
-    animation-delay: 500ms;
+    animation-delay: 300ms;
 }
 .left-Desc{
     width: 70%;
@@ -101,6 +101,7 @@
         font-size: 5.2vw;
         text-align: center;
         line-height: 2rem;
+        animation-delay: 300ms;
     }
     .left-Desc{
         height: 75%;

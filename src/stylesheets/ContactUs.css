@@ -23,10 +23,6 @@
     font-size: 2.7vw;
     font-weight: bold;
 }
-.contact-Big span{
-    font-size: 2.8vw;
-    color: var(--accentColor);
-}
 .contact-Form{
     width: 90%;
     height: 50%;
@@ -79,4 +75,28 @@
     background-position: right;
     color: var(--accentColor);
     transition: 0.5s all cubic-bezier(0.215, 0.610, 0.355, 1);
+}
+@media only screen and (max-width:480px){
+    .contact-Container{
+        width: 90%;
+        margin: 2rem 5%;
+    }
+    .contact-Title{
+        height: 6%;
+    }
+    .contact-Big{
+        font-size: 6vw;
+    }
+    .contact-Form{
+        width: 90%;
+        font-size: 4.4vw;
+        line-height: 4.4rem;
+    }
+    .contact-BtnCont{
+        height: 10%;
+    }
+    .contact-Btn{
+        font-size: 3.8vw;
+        width: 10rem;
+    }
 }

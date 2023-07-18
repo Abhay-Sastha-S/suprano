@@ -63,5 +63,6 @@
     }
     .MainImg .text-selector-class{
         font-size: 14vw;
+        background-attachment:scroll;
     }
 }

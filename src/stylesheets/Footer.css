@@ -151,7 +151,10 @@
         height: 70%;
         width: 40%;
     }
-    .cc-Text{
-        font-size: 0.8rem;
+    .cc-Text span{
+        font-size: 0.7rem;
+    }
+    .cc-Text a{
+        font-size: 0.65rem;
     }
 }
