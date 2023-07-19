@@ -1,3 +1,4 @@
+/* eslint-disable */
 import img1 from './assets/images/components/blog3.jpeg'
 import img2 from './assets/images/components/blog2.jpeg'
 import img3 from './assets/images/components/blog1.jpeg'
@@ -214,7 +215,7 @@ export const BlogsList = {
             key asset in transforming medical pavilions at Arab Health into displays of
             science, technology and innovation. Over the past few years, our company has
             had the privilege of designing and constructing exceptional </span><a
-            href="https://supranoexhibits.com/portfolio/"><span style='font-size:14.0pt;
+            href="https://supranoexhibits.com/portfolio/" target="_blank"><span style='font-size:14.0pt;
             font-family:"Times New Roman",serif;'>exhibition stands and
             booths</span></a><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
             color:black;'> </span><span style='font-size:14.0pt;font-family:
@@ -475,30 +476,31 @@ export const BlogsList = {
             <meta name=ProgId content=Word.Document>
             <meta name=Generator content="Microsoft Word 15">
             <meta name=Originator content="Microsoft Word 15">
-            <link rel=File-List href="Blog%202%20-%20MSPO%20(1)_files/filelist.xml">
+            <link rel=File-List href="Blog%202%20-%20MSPO_files/filelist.xml">
             <!--[if gte mso 9]><xml>
              <o:DocumentProperties>
               <o:Author>Kahaan Doshi</o:Author>
-              <o:LastAuthor>Garvit Joshi</o:LastAuthor>
-              <o:Revision>2</o:Revision>
-              <o:TotalTime>636</o:TotalTime>
-              <o:Created>2023-07-18T19:44:00Z</o:Created>
-              <o:LastSaved>2023-07-18T19:44:00Z</o:LastSaved>
+              <o:Template>Normal</o:Template>
+              <o:LastAuthor>lakshit joshi</o:LastAuthor>
+              <o:Revision>5</o:Revision>
+              <o:TotalTime>711</o:TotalTime>
+              <o:Created>2023-07-19T07:32:00Z</o:Created>
+              <o:LastSaved>2023-07-19T07:56:00Z</o:LastSaved>
               <o:Pages>1</o:Pages>
-              <o:Words>1807</o:Words>
-              <o:Characters>10303</o:Characters>
-              <o:Lines>85</o:Lines>
+              <o:Words>1816</o:Words>
+              <o:Characters>10356</o:Characters>
+              <o:Lines>86</o:Lines>
               <o:Paragraphs>24</o:Paragraphs>
-              <o:CharactersWithSpaces>12086</o:CharactersWithSpaces>
+              <o:CharactersWithSpaces>12148</o:CharactersWithSpaces>
               <o:Version>16.00</o:Version>
              </o:DocumentProperties>
              <o:OfficeDocumentSettings>
               <o:AllowPNG/>
              </o:OfficeDocumentSettings>
             </xml><![endif]-->
-            <link rel=themeData href="Blog%202%20-%20MSPO%20(1)_files/themedata.thmx">
+            <link rel=themeData href="Blog%202%20-%20MSPO_files/themedata.thmx">
             <link rel=colorSchemeMapping
-            href="Blog%202%20-%20MSPO%20(1)_files/colorschememapping.xml">
+            href="Blog%202%20-%20MSPO_files/colorschememapping.xml">
             <!--[if gte mso 9]><xml>
              <w:WordDocument>
               <w:SpellingState>Clean</w:SpellingState>
@@ -1122,19 +1124,12 @@ export const BlogsList = {
             <!--
              /* Font Definitions */
              @font-face
-                {font-family:Wingdings;
-                panose-1:5 0 0 0 0 0 0 0 0 0;
-                mso-font-charset:2;
-                mso-generic-font-family:auto;
-                mso-font-pitch:variable;
-                mso-font-signature:0 268435456 0 0 -2147483648 0;}
-            @font-face
                 {font-family:"Cambria Math";
                 panose-1:2 4 5 3 5 4 6 3 2 4;
                 mso-font-charset:0;
                 mso-generic-font-family:roman;
                 mso-font-pitch:variable;
-                mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+                mso-font-signature:3 0 0 0 1 0;}
             @font-face
                 {font-family:Calibri;
                 panose-1:2 15 5 2 2 2 4 3 2 4;
@@ -1397,140 +1392,101 @@ export const BlogsList = {
                 mso-ansi-font-size:10.0pt;
                 font-family:Symbol;}
             @list l1
-                {mso-list-id:278100653;
+                {mso-list-id:809176469;
                 mso-list-type:hybrid;
-                mso-list-template-ids:-507980336 1074331663 -1 -1 -1 -1 -1 -1 -1 -1;}
+                mso-list-template-ids:-1947057292 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
             @list l1:level1
                 {mso-level-tab-stop:none;
                 mso-level-number-position:left;
                 text-indent:-18.0pt;}
             @list l1:level2
-                {mso-level-number-format:bullet;
-                mso-level-text:o;
+                {mso-level-number-format:alpha-lower;
                 mso-level-tab-stop:none;
                 mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:"Courier New";}
+                text-indent:-18.0pt;}
             @list l1:level3
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0A7;
+                {mso-level-number-format:roman-lower;
                 mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Wingdings;}
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
             @list l1:level4
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0B7;
-                mso-level-tab-stop:none;
+                {mso-level-tab-stop:none;
                 mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Symbol;}
+                text-indent:-18.0pt;}
             @list l1:level5
-                {mso-level-number-format:bullet;
-                mso-level-text:o;
+                {mso-level-number-format:alpha-lower;
                 mso-level-tab-stop:none;
                 mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:"Courier New";}
+                text-indent:-18.0pt;}
             @list l1:level6
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0A7;
+                {mso-level-number-format:roman-lower;
                 mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Wingdings;}
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
             @list l1:level7
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0B7;
-                mso-level-tab-stop:none;
+                {mso-level-tab-stop:none;
                 mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Symbol;}
+                text-indent:-18.0pt;}
             @list l1:level8
-                {mso-level-number-format:bullet;
-                mso-level-text:o;
+                {mso-level-number-format:alpha-lower;
                 mso-level-tab-stop:none;
                 mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:"Courier New";}
+                text-indent:-18.0pt;}
             @list l1:level9
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0A7;
+                {mso-level-number-format:roman-lower;
                 mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Wingdings;}
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
             @list l2
-                {mso-list-id:383333311;
+                {mso-list-id:1046446061;
                 mso-list-type:hybrid;
-                mso-list-template-ids:-724425380 1074331649 1074331651 1074331653 1074331649 1074331651 1074331653 1074331649 1074331651 1074331653;}
+                mso-list-template-ids:-56692240 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
             @list l2:level1
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0B7;
-                mso-level-tab-stop:none;
+                {mso-level-tab-stop:none;
                 mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Symbol;}
+                text-indent:-18.0pt;}
             @list l2:level2
-                {mso-level-number-format:bullet;
-                mso-level-text:o;
+                {mso-level-number-format:alpha-lower;
                 mso-level-tab-stop:none;
                 mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:"Courier New";}
+                text-indent:-18.0pt;}
             @list l2:level3
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0A7;
+                {mso-level-number-format:roman-lower;
                 mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Wingdings;}
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
             @list l2:level4
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0B7;
-                mso-level-tab-stop:none;
+                {mso-level-tab-stop:none;
                 mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Symbol;}
+                text-indent:-18.0pt;}
             @list l2:level5
-                {mso-level-number-format:bullet;
-                mso-level-text:o;
+                {mso-level-number-format:alpha-lower;
                 mso-level-tab-stop:none;
                 mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:"Courier New";}
+                text-indent:-18.0pt;}
             @list l2:level6
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0A7;
+                {mso-level-number-format:roman-lower;
                 mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Wingdings;}
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
             @list l2:level7
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0B7;
-                mso-level-tab-stop:none;
+                {mso-level-tab-stop:none;
                 mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Symbol;}
+                text-indent:-18.0pt;}
             @list l2:level8
-                {mso-level-number-format:bullet;
-                mso-level-text:o;
+                {mso-level-number-format:alpha-lower;
                 mso-level-tab-stop:none;
                 mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:"Courier New";}
+                text-indent:-18.0pt;}
             @list l2:level9
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0A7;
+                {mso-level-number-format:roman-lower;
                 mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Wingdings;}
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
             @list l3
-                {mso-list-id:390692131;
+                {mso-list-id:1332874437;
                 mso-list-type:hybrid;
-                mso-list-template-ids:1491216954 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+                mso-list-template-ids:-297222616 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
             @list l3:level1
                 {mso-level-tab-stop:none;
                 mso-level-number-position:left;
@@ -1574,9 +1530,9 @@ export const BlogsList = {
                 mso-level-number-position:right;
                 text-indent:-9.0pt;}
             @list l4
-                {mso-list-id:443502546;
+                {mso-list-id:1415466826;
                 mso-list-type:hybrid;
-                mso-list-template-ids:-505803290 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+                mso-list-template-ids:-1197841310 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
             @list l4:level1
                 {mso-level-tab-stop:none;
                 mso-level-number-position:left;
@@ -1620,11 +1576,12 @@ export const BlogsList = {
                 mso-level-number-position:right;
                 text-indent:-9.0pt;}
             @list l5
-                {mso-list-id:809176469;
+                {mso-list-id:2046590962;
                 mso-list-type:hybrid;
-                mso-list-template-ids:-1947057292 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+                mso-list-template-ids:-1945056534 112641010 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
             @list l5:level1
-                {mso-level-tab-stop:none;
+                {mso-level-text:%1;
+                mso-level-tab-stop:none;
                 mso-level-number-position:left;
                 text-indent:-18.0pt;}
             @list l5:level2
@@ -1661,518 +1618,6 @@ export const BlogsList = {
                 mso-level-number-position:left;
                 text-indent:-18.0pt;}
             @list l5:level9
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l6
-                {mso-list-id:1042167674;
-                mso-list-type:hybrid;
-                mso-list-template-ids:-243236138 543487988 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
-            @list l6:level1
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                mso-ansi-font-weight:bold;
-                text-decoration:underline;
-                text-underline:single;}
-            @list l6:level2
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l6:level3
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l6:level4
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l6:level5
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l6:level6
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l6:level7
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l6:level8
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l6:level9
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l7
-                {mso-list-id:1046446061;
-                mso-list-type:hybrid;
-                mso-list-template-ids:-56692240 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
-            @list l7:level1
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l7:level2
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l7:level3
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l7:level4
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l7:level5
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l7:level6
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l7:level7
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l7:level8
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l7:level9
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l8
-                {mso-list-id:1154833509;
-                mso-list-type:hybrid;
-                mso-list-template-ids:-1745851512 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
-            @list l8:level1
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l8:level2
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l8:level3
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l8:level4
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l8:level5
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l8:level6
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l8:level7
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l8:level8
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l8:level9
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l9
-                {mso-list-id:1162618195;
-                mso-list-type:hybrid;
-                mso-list-template-ids:1854935166 1074331649 -1 -1 -1 -1 -1 -1 -1 -1;}
-            @list l9:level1
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0B7;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Symbol;
-                mso-ansi-font-weight:bold;
-                text-decoration:underline;
-                text-underline:single;}
-            @list l9:level2
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l9:level3
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l9:level4
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l9:level5
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l9:level6
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l9:level7
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l9:level8
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l9:level9
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l10
-                {mso-list-id:1332874437;
-                mso-list-type:hybrid;
-                mso-list-template-ids:-297222616 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
-            @list l10:level1
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l10:level2
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l10:level3
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l10:level4
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l10:level5
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l10:level6
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l10:level7
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l10:level8
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l10:level9
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l11
-                {mso-list-id:1415466826;
-                mso-list-type:hybrid;
-                mso-list-template-ids:-1197841310 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
-            @list l11:level1
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l11:level2
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l11:level3
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l11:level4
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l11:level5
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l11:level6
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l11:level7
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l11:level8
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l11:level9
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l12
-                {mso-list-id:1521357649;
-                mso-list-type:hybrid;
-                mso-list-template-ids:-2021373046 1074331649 1074331651 1074331653 1074331649 1074331651 1074331653 1074331649 1074331651 1074331653;}
-            @list l12:level1
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0B7;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Symbol;}
-            @list l12:level2
-                {mso-level-number-format:bullet;
-                mso-level-text:o;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:"Courier New";}
-            @list l12:level3
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0A7;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Wingdings;}
-            @list l12:level4
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0B7;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Symbol;}
-            @list l12:level5
-                {mso-level-number-format:bullet;
-                mso-level-text:o;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:"Courier New";}
-            @list l12:level6
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0A7;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Wingdings;}
-            @list l12:level7
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0B7;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Symbol;}
-            @list l12:level8
-                {mso-level-number-format:bullet;
-                mso-level-text:o;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:"Courier New";}
-            @list l12:level9
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0A7;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Wingdings;}
-            @list l13
-                {mso-list-id:1653867727;
-                mso-list-type:hybrid;
-                mso-list-template-ids:2016437596 1074331663 -1 -1 -1 -1 -1 -1 -1 -1;}
-            @list l13:level1
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l13:level2
-                {mso-level-number-format:bullet;
-                mso-level-text:o;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:"Courier New";}
-            @list l13:level3
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0A7;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Wingdings;}
-            @list l13:level4
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0B7;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Symbol;}
-            @list l13:level5
-                {mso-level-number-format:bullet;
-                mso-level-text:o;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:"Courier New";}
-            @list l13:level6
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0A7;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Wingdings;}
-            @list l13:level7
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0B7;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Symbol;}
-            @list l13:level8
-                {mso-level-number-format:bullet;
-                mso-level-text:o;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:"Courier New";}
-            @list l13:level9
-                {mso-level-number-format:bullet;
-                mso-level-text:\F0A7;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                font-family:Wingdings;}
-            @list l14
-                {mso-list-id:2046590962;
-                mso-list-type:hybrid;
-                mso-list-template-ids:-1945056534 112641010 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
-            @list l14:level1
-                {mso-level-text:%1;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l14:level2
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l14:level3
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l14:level4
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l14:level5
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l14:level6
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l14:level7
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l14:level8
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l14:level9
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l15
-                {mso-list-id:2086292238;
-                mso-list-type:hybrid;
-                mso-list-template-ids:-1043723744 1074331663 -1 -1 -1 -1 -1 -1 -1 -1;}
-            @list l15:level1
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;
-                mso-ansi-font-weight:bold;
-                text-decoration:underline;
-                text-underline:single;}
-            @list l15:level2
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l15:level3
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l15:level4
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l15:level5
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l15:level6
-                {mso-level-number-format:roman-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:right;
-                text-indent:-9.0pt;}
-            @list l15:level7
-                {mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l15:level8
-                {mso-level-number-format:alpha-lower;
-                mso-level-tab-stop:none;
-                mso-level-number-position:left;
-                text-indent:-18.0pt;}
-            @list l15:level9
                 {mso-level-number-format:roman-lower;
                 mso-level-tab-stop:none;
                 mso-level-number-position:right;
@@ -2225,17 +1670,11 @@ export const BlogsList = {
             
             <div class=WordSection1>
             
-            <p class=MsoNormal style='text-align:justify'><b><span style='font-size:24.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'>MSPO<o:p></o:p></span></b></p>
-            
-            <p class=MsoNormal style='text-align:justify'><b><span style='font-size:24.0pt;
-            line-height:107%'><o:p>&nbsp;</o:p></span></b></p>
-            
             <p class=MsoNormal style='text-align:justify'><a
-            href="https://www.targikielce.pl/en/mspo"><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'>MSPO</span></a><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
-            (<span class=SpellE>Int&#1077;rnational</span> <span class=SpellE>D&#1077;f&#1077;nc&#1077;</span>
+            href="https://www.targikielce.pl/en/mspo" target="_blank"><span style='font-size:14.0pt;
+            line-height:107%'>MSPO</span></a><span style='font-size:14.0pt;line-height:
+            107%'> <span style='color:white;mso-themecolor:background1'>(<span
+            class=SpellE>Int&#1077;rnational</span> <span class=SpellE>D&#1077;f&#1077;nc&#1077;</span>
             Industry Exhibition) is <span class=SpellE>Europ&#1077;'s</span> <span
             class=SpellE>l&#1077;ading</span> <span class=SpellE>d&#1077;f&#1077;nc&#1077;</span>
             <span class=SpellE>&#1077;xhibition</span> and <span class=SpellE>conf&#1077;r&#1077;nc&#1077;</span>,
@@ -2249,27 +1688,28 @@ export const BlogsList = {
             <span class=SpellE>Suprano</span>, a <span class=SpellE>l&#1077;ading</span> <span
             class=SpellE>&#1077;xhibition</span> construction company, plays a vital <span
             class=SpellE>rol&#1077;</span> in <span class=SpellE>cr&#1077;ating</span>
-            captivating </span><a href="https://supranoexhibits.com/portfolio/"><span
+            captivating </span></span><a
+            href="https://supranoexhibits.com/Portfolio" target="_blank"><span
             style='font-size:14.0pt;line-height:107%'>exhibition booths</span></a><span
             style='font-size:14.0pt;line-height:107%'> <span style='color:white;mso-themecolor:
             background1'>that <span class=SpellE>&#1077;l&#1077;vat&#1077;</span> the
-            presence of their clients at MSPO.</span><o:p></o:p></span></p>
+            presence of their clients at MSPO.<o:p></o:p></span></span></p>
             
             <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
             line-height:107%;color:white;mso-themecolor:background1'>This defence
-            conference will be held in Kielce, Poland at the </span><span style='color:
-            #0070C0'><a href="https://www.targikielce.pl/en/home"><span class=SpellE><span
-            style='font-size:14.0pt;line-height:107%;color:#0070C0'>Targi</span></span><span
-            style='font-size:14.0pt;line-height:107%;color:#0070C0'> Kielce Exhibition</span></a></span><span
-            style='font-size:14.0pt;line-height:107%;color:#0070C0'> </span><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>and
-            Congress Centre. The dates for this years edition of MSPO are 5<sup>th</sup>
-            to 8<sup>th</sup> September,2023. With <span class=SpellE>th&#1077;ir</span> <span
-            class=SpellE>d&#1077;&#1077;p</span> <span class=SpellE>und&#1077;rstanding</span>
+            conference will be held in Kielce, Poland at the</span><span style='font-size:
+            14.0pt;line-height:107%'> </span><a href="https://www.targikielce.pl/en/home" target="_blank"><span
+            class=SpellE><span style='font-size:14.0pt;line-height:107%'>Targi</span></span><span
+            style='font-size:14.0pt;line-height:107%'> Kielce Exhibition</span></a><span
+            style='font-size:14.0pt;line-height:107%'> <span style='color:white;mso-themecolor:
+            background1'>and Congress Centre. The dates for this year's edition of MSPO are
+            5<sup>th</sup> to 8<sup>th</sup> September,2023. With <span class=SpellE>th&#1077;ir</span>
+            <span class=SpellE>d&#1077;&#1077;p</span> <span class=SpellE>und&#1077;rstanding</span>
             of <span class=SpellE>th&#1077;</span> <span class=SpellE>d&#1077;f&#1077;nc&#1077;</span>
             industry's <span class=SpellE>uniqu&#1077;</span> <span class=SpellE>r&#1077;quir&#1077;m&#1077;nts</span>,
-            </span><a href="https://supranoexhibits.com/"><span class=SpellE><span
-            style='font-size:14.0pt;line-height:107%'>Suprano</span></span><span
+            </span></span><a
+            href="https://supranoexhibits.com/Services" target="_blank"><span
+            class=SpellE><span style='font-size:14.0pt;line-height:107%'>Suprano</span></span><span
             style='font-size:14.0pt;line-height:107%'> designs</span></a><span
             style='font-size:14.0pt;line-height:107%'> <span style='color:white;mso-themecolor:
             background1'>and constructs <span class=SpellE>imm&#1077;rsiv&#1077;</span> <span
@@ -2311,7 +1751,7 @@ export const BlogsList = {
             line-height:107%;color:white;mso-themecolor:background1'>Table of Content:<o:p></o:p></span></b></p>
             
             <p class=MsoListParagraphCxSpFirst style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l7 level1 lfo6'><![if !supportLists]><span style='font-size:14.0pt;
+            mso-list:l2 level1 lfo6'><![if !supportLists]><span style='font-size:14.0pt;
             line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
             color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>1.<span
             style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
@@ -2319,7 +1759,7 @@ export const BlogsList = {
             Highlights of MSPO<o:p></o:p></span></p>
             
             <p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l7 level1 lfo6'><![if !supportLists]><span style='font-size:14.0pt;
+            mso-list:l2 level1 lfo6'><![if !supportLists]><span style='font-size:14.0pt;
             line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
             color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>2.<span
             style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
@@ -2327,7 +1767,7 @@ export const BlogsList = {
             in Defence Industry<o:p></o:p></span></p>
             
             <p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l7 level1 lfo6'><![if !supportLists]><span style='font-size:14.0pt;
+            mso-list:l2 level1 lfo6'><![if !supportLists]><span style='font-size:14.0pt;
             line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
             color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>3.<span
             style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
@@ -2335,7 +1775,7 @@ export const BlogsList = {
             and Collaboration at MSPO<o:p></o:p></span></p>
             
             <p class=MsoListParagraphCxSpMiddle style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l7 level1 lfo6'><![if !supportLists]><span style='font-size:14.0pt;
+            mso-list:l2 level1 lfo6'><![if !supportLists]><span style='font-size:14.0pt;
             line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
             color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>4.<span
             style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
@@ -2343,7 +1783,7 @@ export const BlogsList = {
             of MSPO on Defence Industry<o:p></o:p></span></p>
             
             <p class=MsoListParagraphCxSpLast style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l7 level1 lfo6'><![if !supportLists]><span style='font-size:14.0pt;
+            mso-list:l2 level1 lfo6'><![if !supportLists]><span style='font-size:14.0pt;
             line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
             color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>5.<span
             style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
@@ -2353,29 +1793,18 @@ export const BlogsList = {
             <p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
             line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></b></p>
             
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l3 level1 lfo7'><![if !supportLists]><b><span style='font-size:16.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>1.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></b><![endif]><b><span
-            style='font-size:16.0pt;line-height:107%;color:white;mso-themecolor:background1'>Key
-            Highlights of MSPO<o:p></o:p></span></b></p>
+            <p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
+            line-height:107%;color:white;mso-themecolor:background1'>1. Key Highlights of
+            MSPO<o:p></o:p></span></b></p>
             
-            <p class=MsoNormal style='margin-left:18.0pt;text-align:justify'><b><span
-            style='font-size:16.0pt;line-height:107%'><o:p>&nbsp;</o:p></span></b></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l4 level1 lfo12'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>1.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><a
-            href="https://www.spsmai.com/military/?id=3253&amp;q=Cutting-edge-technologies-in-the-battlefield"><b><span
+            <p class=MsoNormal style='text-align:justify'><a
+            href="https://www.spsmai.com/military/?id=3253&amp;q=Cutting-edge-technologies-in-the-battlefield" target="_blank"><b><span
             style='font-size:14.0pt;line-height:107%'>Cutting-<span class=SpellE>&#1077;dg&#1077;</span>
             <span class=SpellE>D&#1077;f&#1077;nc&#1077;</span> <span class=SpellE>T&#1077;chnologi&#1077;s</span></span></b></a><b><u><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>:</span></u></b><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
-            MSPO <span class=SpellE>s&#1077;rv&#1077;s</span> as a platform to <span
-            class=SpellE>showcas&#1077;</span> <span class=SpellE>th&#1077;</span> <span
+            style='font-size:14.0pt;line-height:107%'>:</span></u></b><span
+            style='font-size:14.0pt;line-height:107%'> <span style='color:white;mso-themecolor:
+            background1'>MSPO <span class=SpellE>s&#1077;rv&#1077;s</span> as a platform to
+            <span class=SpellE>showcas&#1077;</span> <span class=SpellE>th&#1077;</span> <span
             class=SpellE>lat&#1077;st</span> <span class=SpellE>advanc&#1077;m&#1077;nts</span>
             in Defence <span class=SpellE>t&#1077;chnologi&#1077;s</span>. Exhibitors, <span
             class=SpellE>unv&#1077;il</span> <span class=SpellE>stat&#1077;</span>-of-<span
@@ -2385,18 +1814,11 @@ export const BlogsList = {
             <span class=SpellE>w&#1077;aponry</span> to robust communication <span
             class=SpellE>syst&#1077;ms</span>, <span class=SpellE>th&#1077;s&#1077;</span>
             innovations <span class=SpellE>shap&#1077;</span> <span class=SpellE>th&#1077;</span>
-            <span class=SpellE>futur&#1077;</span> of <span class=SpellE>d&#1077;f&#1077;ns&#1077;</span>.<o:p></o:p></span></p>
+            <span class=SpellE>futur&#1077;</span> of <span class=SpellE>d&#1077;f&#1077;ns&#1077;</span>.<o:p></o:p></span></span></p>
             
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l4 level1 lfo12'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>2.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><b><u><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Defence
-            Collaboration and <span class=SpellE>Partn&#1077;rships</span>:</span></u></b><span
+            <p class=MsoNormal style='text-align:justify'><b><u><span style='font-size:
+            14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Defence Collaboration
+            and <span class=SpellE>Partn&#1077;rships</span>:</span></u></b><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
             MSPO <span class=SpellE>fost&#1077;rs</span> collaboration among defence industry
             <span class=SpellE>l&#1077;ad&#1077;rs</span> who <span class=SpellE>com&#1077;</span>
@@ -2411,41 +1833,26 @@ export const BlogsList = {
             <span class=SpellE>allianc&#1077;s</span> and <span class=SpellE>driv&#1077;</span>
             innovation <span class=SpellE>coll&#1077;ctiv&#1077;ly</span>.<o:p></o:p></span></p>
             
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l4 level1 lfo12'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>3.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><b><u><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Military
-            <span class=SpellE>Equipm&#1077;nt</span> <span class=SpellE>Showcas&#1077;</span></span></u></b><span
+            <p class=MsoNormal style='text-align:justify'><b><u><span style='font-size:
+            14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Military <span
+            class=SpellE>Equipm&#1077;nt</span> <span class=SpellE>Showcas&#1077;</span></span></u></b><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>:
             As visitors <span class=SpellE>&#1077;xplor&#1077;</span> <span class=SpellE>th&#1077;</span>
             <span class=SpellE>&#1077;xhibition</span> halls, <span class=SpellE>th&#1077;y</span>
             <span class=SpellE>hav&#1077;</span> <span class=SpellE>th&#1077;</span>
             opportunity to <span class=SpellE>witn&#1077;ss</span> firsthand <span
             class=SpellE>th&#1077;</span> <span class=SpellE>impr&#1077;ssiv&#1077;</span>
-            display of military <span class=SpellE>&#1077;quipm&#1077;nt</span>. The visually</span><span
-            style='font-size:14.0pt;line-height:107%'> </span><a
-            href="https://supranoexhibits.com/event-management-services-in-dubai/"><span
+            display of military <span class=SpellE>&#1077;quipm&#1077;nt</span>. The visually
+            </span><a href="https://supranoexhibits.com/Services/" target="_blank"><span
             style='font-size:14.0pt;line-height:107%'>stunning booths at the event</span></a><span
             style='font-size:14.0pt;line-height:107%'> <span style='color:white;mso-themecolor:
             background1'>showcase <span class=SpellE>th&#1077;</span> cutting-<span
             class=SpellE>&#1077;dg&#1077;</span> military <span class=SpellE>hardwar&#1077;</span>
             and <span class=SpellE>&#1077;quipm&#1077;nt</span> on <span class=SpellE>off&#1077;r</span>.<o:p></o:p></span></span></p>
             
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l4 level1 lfo12'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>4.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><b><u><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Defence
-            <span class=SpellE>R&#1077;s&#1077;arch</span> and <span class=SpellE>D&#1077;v&#1077;lopm&#1077;nt</span>:</span></u></b><span
+            <p class=MsoNormal style='text-align:justify'><b><u><span style='font-size:
+            14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Defence <span
+            class=SpellE>R&#1077;s&#1077;arch</span> and <span class=SpellE>D&#1077;v&#1077;lopm&#1077;nt</span>:</span></u></b><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
             MSPO <span class=SpellE>s&#1077;rv&#1077;s</span> as a platform for defence <span
             class=SpellE>compani&#1077;s</span> to highlight <span class=SpellE>th&#1077;ir</span>
@@ -2459,31 +1866,14 @@ export const BlogsList = {
             and <span class=SpellE>syst&#1077;ms</span> that <span class=SpellE>str&#1077;ngth&#1077;n</span>
             national <span class=SpellE>s&#1077;curity</span>.<o:p></o:p></span></p>
             
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l3 level1 lfo7'><![if !supportLists]><b><span style='font-size:16.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>2.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></b><![endif]><b><span
-            style='font-size:16.0pt;line-height:107%;color:white;mso-themecolor:background1'>Trends
-            in Defence Industry<o:p></o:p></span></b></p>
-            
             <p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></b></p>
+            line-height:107%;color:white;mso-themecolor:background1'>2. Trends in Defence Industry<o:p></o:p></span></b></p>
             
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l8 level1 lfo13'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>1.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-            class=SpellE><b><u><span style='font-size:14.0pt;line-height:107%;color:white;
-            mso-themecolor:background1'>Advanc&#1077;m&#1077;nts</span></u></b></span><b><u><span
+            <p class=MsoNormal style='text-align:justify'><span class=SpellE><b><u><span
+            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Advanc&#1077;m&#1077;nts</span></u></b></span><b><u><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
-            in</span></u></b><b><u><span style='font-size:14.0pt;line-height:107%'> </span></u></b><a
-            href="https://www.cybersecurityintelligence.com/"><span class=SpellE><b><span
-            style='font-size:14.0pt;line-height:107%'>Cyb&#1077;rs&#1077;curity</span></b></span></a><span
+            in </span></u></b><a href="https://www.cybersecurityintelligence.com/" target="_blank"><span
+            class=SpellE><b><span style='font-size:14.0pt;line-height:107%'>Cyb&#1077;rs&#1077;curity</span></b></span></a><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>:
             As <span class=SpellE>t&#1077;chnology</span> <span class=SpellE>&#1077;volv&#1077;s</span>,
             <span class=SpellE>th&#1077;</span> defence industry <span class=SpellE>continu&#1077;s</span>
@@ -2495,16 +1885,9 @@ export const BlogsList = {
             critical <span class=SpellE>infrastructur&#1077;</span> and combating <span
             class=SpellE>cyb&#1077;r</span> <span class=SpellE>thr&#1077;ats</span>.<o:p></o:p></span></p>
             
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l8 level1 lfo13'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>2.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><b><u><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Focus
-            on <span class=SpellE>Unmann&#1077;d</span> <span class=SpellE>Syst&#1077;ms</span>:</span></u></b><span
+            <p class=MsoNormal style='text-align:justify'><b><u><span style='font-size:
+            14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Focus on <span
+            class=SpellE>Unmann&#1077;d</span> <span class=SpellE>Syst&#1077;ms</span>:</span></u></b><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
             <span class=SpellE>Unmann&#1077;d</span> <span class=SpellE>syst&#1077;ms</span>,
             including <span class=SpellE>dron&#1077;s</span> and autonomous <span
@@ -2518,16 +1901,8 @@ export const BlogsList = {
             class=SpellE>pot&#1077;ntial</span> applications in <span class=SpellE>r&#1077;connaissanc&#1077;</span>,
             <span class=SpellE>surv&#1077;illanc&#1077;</span>, and logistics.<o:p></o:p></span></p>
             
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l8 level1 lfo13'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>3.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-            class=SpellE><b><u><span style='font-size:14.0pt;line-height:107%;color:white;
-            mso-themecolor:background1'>Sustainabl&#1077;</span></u></b></span><b><u><span
+            <p class=MsoNormal style='text-align:justify'><span class=SpellE><b><u><span
+            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Sustainabl&#1077;</span></u></b></span><b><u><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
             Defence <span class=SpellE>Practic&#1077;s</span></span></u></b><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>:
@@ -2540,17 +1915,10 @@ export const BlogsList = {
             class=SpellE>mat&#1077;rials</span>, and <span class=SpellE>r&#1077;sourc&#1077;-&#1077;ffici&#1077;nt</span>
             defence <span class=SpellE>syst&#1077;ms</span>.<o:p></o:p></span></p>
             
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l8 level1 lfo13'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>4.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><b><u><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Artificial
-            <span class=SpellE>Int&#1077;llig&#1077;nc&#1077;</span> and </span></u></b><a
-            href="https://machinelearningmastery.com/"><span class=SpellE><b><span
+            <p class=MsoNormal style='text-align:justify'><b><u><span style='font-size:
+            14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Artificial <span
+            class=SpellE>Int&#1077;llig&#1077;nc&#1077;</span> and </span></u></b><a
+            href="https://machinelearningmastery.com/" target="_blank"><span class=SpellE><b><span
             style='font-size:14.0pt;line-height:107%'>Machin&#1077;</span></b></span><b><span
             style='font-size:14.0pt;line-height:107%'> <span class=SpellE>L&#1077;arning</span></span></b></a><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>:
@@ -2564,30 +1932,15 @@ export const BlogsList = {
             for autonomous <span class=SpellE>d&#1077;cision</span>-making, data analysis,
             and <span class=SpellE>pr&#1077;dictiv&#1077;</span> <span class=SpellE>mod&#1077;ling</span>.<o:p></o:p></span></p>
             
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l3 level1 lfo7'><![if !supportLists]><b><span style='font-size:16.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>3.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></b><![endif]><b><span
-            style='font-size:16.0pt;line-height:107%;color:white;mso-themecolor:background1'>Networking
-            and Collaboration at MSPO<o:p></o:p></span></b></p>
-            
             <p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
             line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></b></p>
             
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l13 level1 lfo14'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>1.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-            class=SpellE><b><u><span style='font-size:14.0pt;line-height:107%;color:white;
-            mso-themecolor:background1'>N&#1077;tworking</span></u></b></span><b><u><span
+            <p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
+            line-height:107%;color:white;mso-themecolor:background1'>3. Networking and
+            Collaboration at MSPO<o:p></o:p></span></b></p>
+            
+            <p class=MsoNormal style='text-align:justify'><span class=SpellE><b><u><span
+            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>N&#1077;tworking</span></u></b></span><b><u><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
             <span class=SpellE>Opportuniti&#1077;s</span>:</span></u></b><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
@@ -2606,16 +1959,9 @@ export const BlogsList = {
             class=SpellE>&#1077;xpand</span> <span class=SpellE>th&#1077;ir</span> <span
             class=SpellE>prof&#1077;ssional</span> <span class=SpellE>n&#1077;twork</span>.<o:p></o:p></span></p>
             
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l13 level1 lfo14'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>2.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-            class=SpellE><b style='mso-bidi-font-weight:normal'><u><span style='font-size:
-            14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Collaborativ&#1077;</span></u></b></span><b
+            <p class=MsoNormal style='text-align:justify'><span class=SpellE><b
+            style='mso-bidi-font-weight:normal'><u><span style='font-size:14.0pt;
+            line-height:107%;color:white;mso-themecolor:background1'>Collaborativ&#1077;</span></u></b></span><b
             style='mso-bidi-font-weight:normal'><u><span style='font-size:14.0pt;
             line-height:107%;color:white;mso-themecolor:background1'> <span class=SpellE>Proj&#1077;cts</span>:</span></u></b><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
@@ -2631,16 +1977,9 @@ export const BlogsList = {
             <span class=SpellE>partn&#1077;rships</span> to joint production and <span
             class=SpellE>d&#1077;v&#1077;lopm&#1077;nt</span> <span class=SpellE>initiativ&#1077;s</span>.<o:p></o:p></span></p>
             
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l13 level1 lfo14'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>3.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><b><u><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Defence
-            Industry <span class=SpellE>Allianc&#1077;s</span>:</span></u></b><span
+            <p class=MsoNormal style='text-align:justify'><b><u><span style='font-size:
+            14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Defence Industry
+            <span class=SpellE>Allianc&#1077;s</span>:</span></u></b><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
             <span class=SpellE>Th&#1077;</span> <span class=SpellE>&#1077;xhibition</span>
             and <span class=SpellE>conf&#1077;r&#1077;nc&#1077;</span> <span class=SpellE>facilitat&#1077;</span>
@@ -2655,16 +1994,8 @@ export const BlogsList = {
             and <span class=SpellE>&#1077;nhanc&#1077;</span> <span class=SpellE>comp&#1077;titiv&#1077;n&#1077;ss</span>
             in <span class=SpellE>th&#1077;</span> global defence <span class=SpellE>mark&#1077;t</span>.<o:p></o:p></span></p>
             
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l13 level1 lfo14'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>4.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-            class=SpellE><b><u><span style='font-size:14.0pt;line-height:107%;color:white;
-            mso-themecolor:background1'>Knowl&#1077;dg&#1077;</span></u></b></span><b><u><span
+            <p class=MsoNormal style='text-align:justify'><span class=SpellE><b><u><span
+            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Knowl&#1077;dg&#1077;</span></u></b></span><b><u><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
             <span class=SpellE>Exchang&#1077;</span>:</span></u></b><span style='font-size:
             14.0pt;line-height:107%;color:white;mso-themecolor:background1'> MSPO <span
@@ -2685,19 +2016,9 @@ export const BlogsList = {
             <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
             line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
             
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l3 level1 lfo7'><![if !supportLists]><b><span style='font-size:16.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>4.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></b><![endif]><b><span
-            style='font-size:16.0pt;line-height:107%;color:white;mso-themecolor:background1'>Impact
-            of MSPO on Defence Industry<o:p></o:p></span></b></p>
-            
             <p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></b></p>
+            line-height:107%;color:white;mso-themecolor:background1'>4. Impact of MSPO on Defence
+            Industry<o:p></o:p></span></b></p>
             
             <p class=MsoNormal style='text-align:justify'><span class=SpellE><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Th&#1077;</span></span><span
@@ -2708,15 +2029,7 @@ export const BlogsList = {
             for growth, collaboration, and innovation. Here are some of the ways in which
             MSPO impacts the defence industry:<o:p></o:p></span></p>
             
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l15 level1 lfo15'><![if !supportLists]><b style='mso-bidi-font-weight:
-            normal'><span style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:
-            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1'><span
-            style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-            </span></span></span></b><![endif]><span class=SpellE><b><u><span
+            <p class=MsoNormal style='text-align:justify'><span class=SpellE><b><u><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Busin&#1077;ss</span></u></b></span><b><u><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
             <span class=SpellE>Opportuniti&#1077;s</span> and Contracts:</span></u></b><span
@@ -2733,17 +2046,9 @@ export const BlogsList = {
             contracts, and <span class=SpellE>forg&#1077;</span> <span class=SpellE>strat&#1077;gic</span>
             <span class=SpellE>partn&#1077;rships</span>.<o:p></o:p></span></p>
             
-            <p class=MsoNormal style='margin-left:18.0pt;text-align:justify'><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l15 level1 lfo15'><![if !supportLists]><b style='mso-bidi-font-weight:
-            normal'><span style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:
-            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1'><span
-            style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-            </span></span></span></b><![endif]><b><u><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'>Collaboration and <span
-            class=SpellE>Knowl&#1077;dg&#1077;</span> Sharing:</span></u></b><span
+            <p class=MsoNormal style='text-align:justify'><b><u><span style='font-size:
+            14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Collaboration
+            and <span class=SpellE>Knowl&#1077;dg&#1077;</span> Sharing:</span></u></b><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
             MSPO <span class=SpellE>fost&#1077;rs</span> collaboration among defence industry
             <span class=SpellE>stak&#1077;hold&#1077;rs</span>, including <span
@@ -2757,20 +2062,13 @@ export const BlogsList = {
             <span class=SpellE>proj&#1077;cts</span>, joint <span class=SpellE>v&#1077;ntur&#1077;s</span>,
             and <span class=SpellE>r&#1077;s&#1077;arch</span> <span class=SpellE>partn&#1077;rships</span>.<o:p></o:p></span></p>
             
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l15 level1 lfo15'><![if !supportLists]><b style='mso-bidi-font-weight:
-            normal'><span style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:
-            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1'><span
-            style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-            </span></span></span></b><![endif]><a href="https://www.defensenews.com/"><b><span
-            style='font-size:14.0pt;line-height:107%'>Defence Industry <span class=SpellE>Tr&#1077;nds</span>
-            and Insights</span></b></a><b><u><span style='font-size:14.0pt;line-height:
-            107%;color:white;mso-themecolor:background1'>:</span></u></b><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
-            <span class=SpellE>Att&#1077;nding</span> MSPO <span class=SpellE>off&#1077;rs</span>
+            <p class=MsoNormal style='text-align:justify'><a
+            href="https://www.defensenews.com/" target="_blank"><b><span style='font-size:14.0pt;
+            line-height:107%'>Defence Industry <span class=SpellE>Tr&#1077;nds</span> and
+            Insights</span></b></a><b><u><span style='font-size:14.0pt;line-height:107%'>:</span></u></b><span
+            style='font-size:14.0pt;line-height:107%'> <span class=SpellE><span
+            style='color:white;mso-themecolor:background1'>Att&#1077;nding</span></span><span
+            style='color:white;mso-themecolor:background1'> MSPO <span class=SpellE>off&#1077;rs</span>
             a <span class=SpellE>uniqu&#1077;</span> opportunity to gain insights into <span
             class=SpellE>th&#1077;</span> <span class=SpellE>curr&#1077;nt</span> <span
             class=SpellE>tr&#1077;nds</span>, <span class=SpellE>chall&#1077;ng&#1077;s</span>,
@@ -2780,19 +2078,11 @@ export const BlogsList = {
             discussions, and industry <span class=SpellE>pr&#1077;s&#1077;ntations</span> <span
             class=SpellE>d&#1077;liv&#1077;r</span> <span class=SpellE>valuabl&#1077;</span>
             insight into the trends that shape the <span class=GramE>decision making</span>
-            strategies of key individuals of the defence industry.<o:p></o:p></span></p>
+            strategies of key individuals of the defence industry.<o:p></o:p></span></span></p>
             
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l15 level1 lfo15'><![if !supportLists]><b style='mso-bidi-font-weight:
-            normal'><span style='font-size:14.0pt;line-height:107%;mso-bidi-font-family:
-            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1'><span
-            style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-            </span></span></span></b><![endif]><b><u><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'>Defence Capability <span
-            class=SpellE>D&#1077;v&#1077;lopm&#1077;nt</span>:</span></u></b><span
+            <p class=MsoNormal style='text-align:justify'><b><u><span style='font-size:
+            14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Defence Capability
+            <span class=SpellE>D&#1077;v&#1077;lopm&#1077;nt</span>:</span></u></b><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
             MSPO <span class=SpellE>s&#1077;rv&#1077;s</span> as a platform for <span
             class=SpellE>countri&#1077;s</span> and defence organizations to <span
@@ -2805,7 +2095,11 @@ export const BlogsList = {
             class=SpellE>forc&#1077;s</span>, <span class=SpellE>fost&#1077;ring</span> <span
             class=SpellE>int&#1077;rnational</span> <span class=SpellE>coop&#1077;ration</span>
             and <span class=SpellE>&#1077;nhancing</span> <span class=SpellE>coll&#1077;ctiv&#1077;</span>
-            defence <span class=SpellE>capabiliti&#1077;s</span>. <span class=SpellE>Th&#1077;</span>
+            defence <span class=SpellE>capabiliti&#1077;s</span>. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='text-align:justify'><span class=SpellE><span
+            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Th&#1077;</span></span><span
+            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
             impact of MSPO <span class=SpellE>&#1077;xt&#1077;nds</span> <span
             class=SpellE>b&#1077;yond</span> <span class=SpellE>th&#1077;</span> <span
             class=SpellE>&#1077;xhibition</span> <span class=SpellE>its&#1077;lf</span>, <span
@@ -2814,10 +2108,7 @@ export const BlogsList = {
             and industry collaborations on a global <span class=SpellE>scal&#1077;</span>. The
             partnerships fostered at MSPO often go on to have a large-scale impact on the
             industry. The discussions and speeches also influence policies and trends in
-            the defence sector.<o:p></o:p></span></p>
-            
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
+            the defence sector. <o:p></o:p></span></p>
             
             <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
             line-height:107%;color:white;mso-themecolor:background1'>MSPO, <span
@@ -2845,23 +2136,16 @@ export const BlogsList = {
             line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></b></p>
             
             <p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></b></p>
-            
-            <p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
             line-height:107%;color:white;mso-themecolor:background1'>5. Events in and
             Around MSPO<o:p></o:p></span></b></p>
             
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l1 level1 lfo16'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>1.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><a
-            href="https://www.mspo.pl/en/social-events"><b><span style='font-size:14.0pt;
+            <p class=MsoNormal style='text-align:justify'><a
+            href="https://www.mspo.pl/en/social-events" target="_blank"><b><span style='font-size:14.0pt;
             line-height:107%'>Social <span class=SpellE>Ev&#1077;nts</span>:</span></b></a><span
             style='font-size:14.0pt;line-height:107%'> <span style='color:white;mso-themecolor:
             background1'>MSPO <span class=SpellE>organiz&#1077;s</span> various social <span
-            class=SpellE>&#1077;v&#1077;nts</span>, including</span> </span><a
-            href="https://www.mspo.pl/en/gala-dinner"><span style='font-size:14.0pt;
+            class=SpellE>&#1077;v&#1077;nts</span>, including </span></span><a
+            href="https://www.mspo.pl/en/gala-dinner" target="_blank"><span style='font-size:14.0pt;
             line-height:107%'>gala <span class=SpellE>dinn&#1077;rs</span>,</span></a><span
             style='font-size:14.0pt;line-height:107%'> <span style='color:white;mso-themecolor:
             background1'>cocktail <span class=SpellE>r&#1077;c&#1077;ptions</span>, and <span
@@ -2875,16 +2159,8 @@ export const BlogsList = {
             <span class=SpellE>id&#1077;as</span>, and build <span class=SpellE>valuabl&#1077;</span>
             <span class=SpellE>r&#1077;lationships</span>.<o:p></o:p></span></span></p>
             
-            <p class=MsoNormal style='margin-left:36.0pt;text-align:justify'><span
-            style='font-size:14.0pt;line-height:107%'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l1 level1 lfo16'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>2.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-            class=SpellE><b><u><span style='font-size:14.0pt;line-height:107%;color:white;
-            mso-themecolor:background1'>T&#1077;chnology</span></u></b></span><b><u><span
+            <p class=MsoNormal style='text-align:justify'><span class=SpellE><b><u><span
+            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>T&#1077;chnology</span></u></b></span><b><u><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
             <span class=SpellE>Showcas&#1077;s</span>:</span></u></b><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
@@ -2904,39 +2180,23 @@ export const BlogsList = {
             a <span class=SpellE>glimps&#1077;</span> into <span class=SpellE>th&#1077;</span>
             <span class=SpellE>futur&#1077;</span> of defence <span class=SpellE>capabiliti&#1077;s</span>.<o:p></o:p></span></p>
             
-            <p class=MsoNormal style='margin-left:36.0pt;text-align:justify'><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l1 level1 lfo16'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>3.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><b><u><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Exhibitor
-            <span class=SpellE>D&#1077;monstrations</span>:</span></u></b><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
-            MSPO <span class=SpellE>&#1077;xhibitors</span>, including defence <span
-            class=SpellE>compani&#1077;s</span> from <span class=SpellE>Europ&#1077;</span>
-            and <span class=SpellE>b&#1077;yond</span>, <span class=SpellE>organiz&#1077;</span>
-            <span class=SpellE>int&#1077;ractiv&#1077;</span> <span class=SpellE>d&#1077;monstrations</span>
-            at <span class=SpellE>th&#1077;ir</span> booths. Visitors can <span
-            class=SpellE>&#1077;ngag&#1077;</span> with <span class=SpellE>stat&#1077;</span>-of-<span
-            class=SpellE>th&#1077;</span>-art military <span class=SpellE>&#1077;quipm&#1077;nt</span>,
-            <span class=SpellE>&#1077;xp&#1077;ri&#1077;nc&#1077;</span> virtual <span
-            class=SpellE>r&#1077;ality</span> simulations, and gain hands-on <span
+            <p class=MsoNormal style='text-align:justify'><b><u><span style='font-size:
+            14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Exhibitor <span
+            class=SpellE>D&#1077;monstrations</span>:</span></u></b><span style='font-size:
+            14.0pt;line-height:107%;color:white;mso-themecolor:background1'> MSPO <span
+            class=SpellE>&#1077;xhibitors</span>, including defence <span class=SpellE>compani&#1077;s</span>
+            from <span class=SpellE>Europ&#1077;</span> and <span class=SpellE>b&#1077;yond</span>,
+            <span class=SpellE>organiz&#1077;</span> <span class=SpellE>int&#1077;ractiv&#1077;</span>
+            <span class=SpellE>d&#1077;monstrations</span> at <span class=SpellE>th&#1077;ir</span>
+            booths. Visitors can <span class=SpellE>&#1077;ngag&#1077;</span> with <span
+            class=SpellE>stat&#1077;</span>-of-<span class=SpellE>th&#1077;</span>-art
+            military <span class=SpellE>&#1077;quipm&#1077;nt</span>, <span class=SpellE>&#1077;xp&#1077;ri&#1077;nc&#1077;</span>
+            virtual <span class=SpellE>r&#1077;ality</span> simulations, and gain hands-on <span
             class=SpellE>&#1077;xposur&#1077;</span> to <span class=SpellE>th&#1077;</span>
             <span class=SpellE>lat&#1077;st</span> Defence innovations. <o:p></o:p></span></p>
             
-            <p class=MsoNormal style='margin-left:36.0pt;text-align:justify'><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l1 level1 lfo16'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>4.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-            class=SpellE><b><u><span style='font-size:14.0pt;line-height:107%;color:white;
-            mso-themecolor:background1'>Pan&#1077;l</span></u></b></span><b><u><span
+            <p class=MsoNormal style='text-align:justify'><span class=SpellE><b><u><span
+            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Pan&#1077;l</span></u></b></span><b><u><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
             Discussions and Workshops</span></u></b><span style='font-size:14.0pt;
             line-height:107%;color:white;mso-themecolor:background1'>: MSPO <span
@@ -2956,16 +2216,9 @@ export const BlogsList = {
             <span class=SpellE>tr&#1077;nds</span> in <span class=SpellE>th&#1077;</span> defence
             <span class=SpellE>s&#1077;ctor</span>.<o:p></o:p></span></p>
             
-            <p class=MsoNormal style='margin-left:36.0pt;text-align:justify'><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
-            
-            <p class=MsoListParagraph style='text-align:justify;text-indent:-18.0pt;
-            mso-list:l1 level1 lfo16'><![if !supportLists]><span style='font-size:14.0pt;
-            line-height:107%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>5.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><b><u><span
-            style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Defence
-            <span class=SpellE>Proj&#1077;ct</span> <span class=SpellE>Pr&#1077;s&#1077;ntations</span>:</span></u></b><span
+            <p class=MsoNormal style='text-align:justify'><b><u><span style='font-size:
+            14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Defence <span
+            class=SpellE>Proj&#1077;ct</span> <span class=SpellE>Pr&#1077;s&#1077;ntations</span>:</span></u></b><span
             style='font-size:14.0pt;line-height:107%;color:white;mso-themecolor:background1'>
             MSPO <span class=SpellE>s&#1077;rv&#1077;s</span> as a platform for <span
             class=SpellE>Europ&#1077;an</span> defence <span class=SpellE>proj&#1077;cts</span>
@@ -2982,9 +2235,6 @@ export const BlogsList = {
             <span class=SpellE>vi&#1077;w</span> of <span class=SpellE>th&#1077;</span>
             ongoing <span class=SpellE>d&#1077;v&#1077;lopm&#1077;nts</span> in <span
             class=SpellE>th&#1077;</span> <span class=SpellE>Europ&#1077;an</span> defence industry.<o:p></o:p></span></p>
-            
-            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
             
             <p class=MsoNormal style='text-align:justify'><b><u><span style='font-size:
             14.0pt;line-height:107%;color:white;mso-themecolor:background1'>Explore the Surroundings:</span></u></b><b><span
@@ -3038,6 +2288,9 @@ export const BlogsList = {
             class=SpellE>&#1077;dg&#1077;</span> military <span class=SpellE>t&#1077;chnology</span>,
             and insights into <span class=SpellE>th&#1077;</span> <span class=SpellE>futur&#1077;</span>
             of defence <span class=SpellE>capabiliti&#1077;s</span>.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
+            line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
             
             <p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
             line-height:107%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></b></p>
@@ -4174,8 +3427,7 @@ export const BlogsList = {
             
             <p class=MsoTitle style='text-align:justify'><b><u><span lang=EN
             style='font-size:22.0pt;line-height:115%;font-family:"Times New Roman",serif;
-            mso-fareast-font-family:Cambria;color:white;mso-themecolor:background1'>DSEI
-            London<o:p></o:p></span></u></b></p>
+            mso-fareast-font-family:Cambria;color:white;mso-themecolor:background1'><o:p></o:p></span></u></b></p>
             
             <p class=MsoTitle style='text-align:justify'><u><span lang=EN style='font-size:
             21.0pt;line-height:115%;font-family:"Times New Roman",serif;mso-fareast-font-family:
@@ -4190,7 +3442,7 @@ export const BlogsList = {
             <p class=MsoTitle style='text-align:justify'><span lang=EN style='font-size:
             18.0pt;line-height:115%;font-family:"Times New Roman",serif;mso-fareast-font-family:
             Cambria;color:white;mso-themecolor:background1'>The Ultimate Guide to </span><span
-            lang=EN style='color:#0070C0'><a href="https://www.dsei.co.uk/"><span
+            lang=EN style='color:#0070C0'><a href="https://www.dsei.co.uk/" target="_blank"><span
             style='font-size:18.0pt;line-height:115%;font-family:"Times New Roman",serif;
             mso-fareast-font-family:Cambria;color:#0070C0;text-decoration:none;text-underline:
             none'>DSEI London</span></a></span><span lang=EN style='font-size:18.0pt;
@@ -4266,7 +3518,7 @@ export const BlogsList = {
             0pt;mso-ligatures:none;mso-fareast-language:EN-IN'> and DSEI London go hand in
             hand. We have had the privilege of working with several defence industry whales
             at DSEI London, and </span><span style='color:#0070C0'><a
-            href="https://supranoexhibits.com/portfolio/"><span style='font-size:14.0pt;
+            href="https://supranoexhibits.com/portfolio/" target="_blank"><span style='font-size:14.0pt;
             line-height:115%;mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
             mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#0070C0;
             mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>constructing
@@ -4331,7 +3583,7 @@ export const BlogsList = {
             mso-fareast-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:
             Calibri;color:white;mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:
             none;mso-fareast-language:EN-IN'><span style='mso-list:Ignore'>b.<span
-            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span
             style='font-size:14.0pt;line-height:115%;mso-ascii-font-family:Calibri;
             mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
             mso-bidi-font-family:Calibri;color:white;mso-themecolor:background1;mso-font-kerning:
@@ -4757,7 +4009,7 @@ export const BlogsList = {
             #0D0D0D;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-alpha:
             100.0%;mso-style-textfill-fill-colortransforms:"lumm=95000 lumo=5000"'><span
             style='mso-spacerun:yes'></span></span><span style='color:#0070C0'><a
-            href="https://www.defencebusiness.net/features/most-successful-and-comprehensive-dsei-date#:~:text=35%2C008%20visitors%20walked%20through%20the,on%20a%20packed%20exhibition%20floor."><span
+            href="https://www.defencebusiness.net/features/most-successful-and-comprehensive-dsei-date#:~:text=35%2C008%20visitors%20walked%20through%20the,on%20a%20packed%20exhibition%20floor." target="_blank"><span
             style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:Cambria;
             mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#0070C0'>Tens
             of <span class=SpellE>thousand</span> of people</span></a></span><span
@@ -4976,8 +4228,2142 @@ export const BlogsList = {
             "desc":"Dubai Air Show: The Future of Aviation Takes Flight	Innovation and Excellence at Dubai Air Show: Unveiling the Latest in Aerospace	Dubai Air Show: Where Aviation Industry Leaders Converge	Discover Dubai Air Show with Suprano Exhibits	Dubai Air Show is a prestigious event showcasing the future of aviation and aerospace. Suprano Exhibits, the pre-eminent exhibition booth construction company in UAE, offers insights into this influential gathering, featuring the latest innovations and collaborations in the aviation industry",
             "titpg":"Dubai Air Show",
             "image": img4,
-            "content": "</p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Welcome to the grand stage of aviation and aerospace excellence, where\r\n      groundbreaking innovations take flight - the prestigious Dubai Air Show.\r\n      As an esteemed exhibition construction company specializing in crafting\r\n      remarkable booths for world-class events, Suprano is thrilled to be a part\r\n      of this dynamic gathering of industry leaders and cutting-edge\r\n      technologies.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      This year, the AIAA conference will be taking place on 13<sup>th</sup>-17\r\n      <sup>th</sup> November 2023, at DWC, Dubai Airshow Site. It serves as a\r\n      testament to the future of aviation, propelling the industry forward with\r\n      awe-inspiring aerospace advancements and revolutionary aviation\r\n      technology. With our passion for creating immersive exhibition spaces, we\r\n      invite you to join us on this remarkable journey, where Air show\r\n      highlights will captivate your senses and the Dubai aviation industry will\r\n      leave you breathless.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      &nbsp;As we align our expertise with the visionaries shaping the future of\r\n      flight, let us embark together on this extraordinary experience,\r\n      witnessing the endless possibilities that unfold at the Dubai Air Show.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>\r\n        Table of Content:\r\n      </span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>&nbsp;</span>\r\n    </strong>\r\n  </p>\r\n  <ol style={{ listStyleType: \"decimal\" }}>\r\n    <li>\r\n      <span style={{ lineHeight: \"115%\", fontSize: 19 }}>\r\n        The Future of Aviation: Aerospace Advancements and Innovation\r\n      </span>\r\n    </li>\r\n    <li>\r\n      <span style={{ lineHeight: \"115%\", fontSize: 19 }}>\r\n        Flying High with Suprano\r\n      </span>\r\n    </li>\r\n    <li>\r\n      <span style={{ lineHeight: \"115%\", fontSize: 19 }}>\r\n        Dubai Air Show Exhibitors: Aerospace Industry Advancements on Display\r\n      </span>\r\n    </li>\r\n    <li>\r\n      <span style={{ lineHeight: \"115%\", fontSize: 19 }}>\r\n        Networking Opportunities at the Dubai Air Show: Collaborations and\r\n        Business Opportunities\r\n      </span>\r\n    </li>\r\n    <li>\r\n      <span style={{ lineHeight: \"115%\", fontSize: 19 }}>\r\n        Dubai Air Show Extravaganza: Discovering the Best of Dubai's Attractions\r\n      </span>\r\n    </li>\r\n  </ol>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>\r\n        The Future of Aviation: Aerospace Advancements and Innovation\r\n      </span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>&nbsp;</span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - The future of air-travel is being shaped by exciting advancements in\r\n      aircraft engineering and space engineering and the Dubai Airshow,\r\n      particularly the upcoming Dubai Air Show 2023, serves as a significant\r\n      platform for showcasing these innovations.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - The event highlights the latest aircraft engineering and aerospace\r\n      technology, providing a glimpse into the cutting-edge advancements that\r\n      will define the future of aviation.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - Aerospace engineering companies play a pivotal role in driving\r\n      innovation, pushing the boundaries of what is possible in the aerospace\r\n      industry.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - The Dubai Air Show 2023 promises to be a hub of innovation and\r\n      excellence, where attendees can witness the latest aerospace engineering\r\n      breakthroughs firsthand. The event is a showcase of aerospace excellence,\r\n      highlighting the industry's advancements and fostering collaborations for\r\n      a brighter future of aviation.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - Attendees can expect to explore a wide range of cutting-edge aviation\r\n      technology, witnessing the transformative impact it will have on the\r\n      aerospace industry.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      The Dubai Air Show is an unparalleled opportunity to immerse oneself in\r\n      the aviation innovation showcase, gaining insights into the latest trends\r\n      and breakthroughs in the aerospace engineering field.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>\r\n        Flying High with Suprano:&nbsp;\r\n      </span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>&nbsp;</span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      In our past years with the aerospace industry, Suprano has been a key\r\n      factor in the blooming growth of the aviation space. Thanks to our\r\n      meticulously designed booths and&nbsp;\r\n    </span>\r\n    <a href=\"https://supranoexhibits.com/portfolio/\">\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n        tailor-made exhibition stands\r\n      </span>\r\n    </a>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      , there has been a new bar set for Air Shows all over the world.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Suprano's commitment to excellence and our understanding of the aviation\r\n      industry's dynamics have made us a trusted partner for exhibitors seeking\r\n      to create remarkable brand experiences. Our innovative&nbsp;\r\n    </span>\r\n    <a href=\"https://supranoexhibits.com/services/\">\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>booth designs</span>\r\n    </a>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      &nbsp;and seamless execution provided exhibitors with the perfect platform\r\n      to connect with potential clients, secure business opportunities, and\r\n      drive industry growth.\r\n    </span>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      &nbsp;We make it possible for the future of aviation to be on display.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>\r\n        Dubai Air Show Exhibitors: Aerospace Industry Advancements on Display\r\n      </span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>&nbsp;</span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - The Dubai Air Show, a globally recognized aviation event, features a\r\n      diverse array of exhibitors from the aerospace industry.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - Exhibitors at the Dubai Air Show showcase the future of aviation through\r\n      advanced technologies, innovative products, and groundbreaking\r\n      advancements.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - Participants can explore an extensive array of aircraft on display,\r\n      including commercial airplanes, military jets, helicopters, unmanned\r\n      aerial vehicles (UAVs), and space vehicles. These exhibits showcase the\r\n      latest advancements in aviation technology and engineering achievements.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - The event offers a unique platform to explore emerging trends in\r\n      aerospace engineering, providing insights into the latest developments and\r\n      breakthroughs.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - Recent trends in aeronautical engineering, such as advancements in\r\n      aircraft design, propulsion systems, and materials, are prominently\r\n      displayed by exhibitors.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - The Dubai Air Show exhibitors highlight the industry's advancements in\r\n      sustainable aviation solutions, autonomous flight systems, and aerospace\r\n      innovation.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - For more information about the Dubai Air Show and its exhibitors, visit\r\n      the official website and refer to the list of participating\r\n      companies.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Dubai Airshow Official Website -&nbsp;\r\n    </span>\r\n    <a href=\"https://www.dubaiairshow.aero/\">\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n        https://www.dubaiairshow.aero/\r\n      </span>\r\n    </a>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      &nbsp;Dubai Airshow Exhibitors&nbsp;\r\n    </span>\r\n    <a href=\"https://www.dubaiairshow.aero/exhibition/exhibitors\">\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n        https://www.dubaiairshow.aero/exhibition/exhibitors\r\n      </span>\r\n    </a>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Emerging Trends in Aerospace Engineering&nbsp;\r\n    </span>\r\n    <a href=\"https://www.sciencedirect.com/science/article/pii/S2351978918303464\">\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n        https://www.sciencedirect.com/science/article/pii/S2351978918303464\r\n      </span>\r\n    </a>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Recent Trends in Aeronautical Engineering&nbsp;\r\n    </span>\r\n    <a href=\"https://www.sciencedirect.com/science/article/pii/S2351978918303464\">\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n        https://www.sciencedirect.com/science/article/pii/S2351978918303464\r\n      </span>\r\n    </a>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>&nbsp;</span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>\r\n        Networking Opportunities at the Dubai Air Show: Collaborations and\r\n        Business Opportunities\r\n      </span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>&nbsp;</span>\r\n    </strong>\r\n  </p>\r\n  <div\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"107%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <ul\r\n      style={{\r\n        marginBottom: \"0cm\",\r\n        listStyleType: \"disc\",\r\n        marginLeft: \"17.6px\"\r\n      }}\r\n    >\r\n      <li\r\n        style={{\r\n          marginTop: \"0cm\",\r\n          marginRight: \"0cm\",\r\n          marginBottom: \"8.0pt\",\r\n          marginLeft: \"0cm\",\r\n          lineHeight: \"107%\",\r\n          fontSize: 15,\r\n          fontFamily: '\"Calibri\",sans-serif'\r\n        }}\r\n      >\r\n        <span\r\n          style={{\r\n            lineHeight: \"115%\",\r\n            fontFamily: '\"Times New Roman\"',\r\n            fontSize: \"14.0pt\"\r\n          }}\r\n        >\r\n          The Dubai Air Show attracts a massive gathering of aviation\r\n          professionals, with tens of thousands of attendees from around the\r\n          globe. In 2019, the event welcomed over 87,000 visitors, including\r\n          industry experts, government officials, and decision-makers.\r\n        </span>\r\n      </li>\r\n    </ul>\r\n  </div>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"0cm\",\r\n      marginLeft: \"27.6pt\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <div\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"107%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <ul\r\n      style={{\r\n        marginBottom: \"0cm\",\r\n        listStyleType: \"disc\",\r\n        marginLeft: \"17.6px\"\r\n      }}\r\n    >\r\n      <li\r\n        style={{\r\n          marginTop: \"0cm\",\r\n          marginRight: \"0cm\",\r\n          marginBottom: \"8.0pt\",\r\n          marginLeft: \"0cm\",\r\n          lineHeight: \"107%\",\r\n          fontSize: 15,\r\n          fontFamily: '\"Calibri\",sans-serif'\r\n        }}\r\n      >\r\n        <span\r\n          style={{\r\n            lineHeight: \"115%\",\r\n            fontFamily: '\"Times New Roman\"',\r\n            fontSize: \"14.0pt\"\r\n          }}\r\n        >\r\n          Some of the world's largest defence and aerospace companies showcase\r\n          their capabilities and products at the event. These companies include\r\n          industry giants like Boeing, Airbus, Lockheed Martin, and more.\r\n        </span>\r\n      </li>\r\n    </ul>\r\n  </div>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"0cm\",\r\n      marginLeft: \"27.6pt\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <div\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"107%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <ul\r\n      style={{\r\n        marginBottom: \"0cm\",\r\n        listStyleType: \"disc\",\r\n        marginLeft: \"17.6px\"\r\n      }}\r\n    >\r\n      <li\r\n        style={{\r\n          marginTop: \"0cm\",\r\n          marginRight: \"0cm\",\r\n          marginBottom: \"8.0pt\",\r\n          marginLeft: \"0cm\",\r\n          lineHeight: \"107%\",\r\n          fontSize: 15,\r\n          fontFamily: '\"Calibri\",sans-serif'\r\n        }}\r\n      >\r\n        <span\r\n          style={{\r\n            lineHeight: \"115%\",\r\n            fontFamily: '\"Times New Roman\"',\r\n            fontSize: \"14.0pt\"\r\n          }}\r\n        >\r\n          The event provides a platform for networking and engaging with\r\n          high-profile individuals. Billionaire investors, seeking cutting-edge\r\n          technologies and investment opportunities, frequently attend the Dubai\r\n          Air Show. Forging connеctions with such influеntial pеrsonalitiеs can\r\n          unlock avеnuеs to highly substantial businеss deals.\r\n        </span>\r\n      </li>\r\n    </ul>\r\n  </div>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"0cm\",\r\n      marginLeft: \"27.6pt\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <div\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"107%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <ul\r\n      style={{\r\n        marginBottom: \"0cm\",\r\n        listStyleType: \"disc\",\r\n        marginLeft: \"17.6px\"\r\n      }}\r\n    >\r\n      <li\r\n        style={{\r\n          marginTop: \"0cm\",\r\n          marginRight: \"0cm\",\r\n          marginBottom: \"8.0pt\",\r\n          marginLeft: \"0cm\",\r\n          lineHeight: \"107%\",\r\n          fontSize: 15,\r\n          fontFamily: '\"Calibri\",sans-serif'\r\n        }}\r\n      >\r\n        <span\r\n          style={{\r\n            lineHeight: \"115%\",\r\n            fontFamily: '\"Times New Roman\"',\r\n            fontSize: \"14.0pt\"\r\n          }}\r\n        >\r\n          The Dubai Air Show serves as a platform for significant business deals\r\n          and contracts within the aerospace industry.\r\n          <span style={{ background: \"aqua\" }}>\r\n            Multi-million-dollar deals stem from the connections made at this\r\n            IEEE Aerospace Conference.\r\n          </span>\r\n        </span>\r\n      </li>\r\n    </ul>\r\n  </div>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"0cm\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <div\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"107%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <ul\r\n      style={{\r\n        marginBottom: \"0cm\",\r\n        listStyleType: \"disc\",\r\n        marginLeft: \"17.6px\"\r\n      }}\r\n    >\r\n      <li\r\n        style={{\r\n          marginTop: \"0cm\",\r\n          marginRight: \"0cm\",\r\n          marginBottom: \"8.0pt\",\r\n          marginLeft: \"0cm\",\r\n          lineHeight: \"107%\",\r\n          fontSize: 15,\r\n          fontFamily: '\"Calibri\",sans-serif'\r\n        }}\r\n      >\r\n        <span\r\n          style={{\r\n            lineHeight: \"115%\",\r\n            fontFamily: '\"Times New Roman\"',\r\n            fontSize: \"14.0pt\"\r\n          }}\r\n        >\r\n          The exhibition area at the Dubai Air Show spans several thousand\r\n          square meters, accommodating hundreds of exhibitors and their\r\n          impressive displays. The sheer scale of the exhibition reflects the\r\n          magnitude of the aerospace industry's presence and its impact on\r\n          global markets.\r\n        </span>\r\n      </li>\r\n    </ul>\r\n  </div>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"0cm\",\r\n      marginLeft: \"27.6pt\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <div\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"107%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <ul\r\n      style={{\r\n        marginBottom: \"0cm\",\r\n        listStyleType: \"disc\",\r\n        marginLeft: \"17.6px\"\r\n      }}\r\n    >\r\n      <li\r\n        style={{\r\n          marginTop: \"0cm\",\r\n          marginRight: \"0cm\",\r\n          marginBottom: \"8.0pt\",\r\n          marginLeft: \"0cm\",\r\n          lineHeight: \"107%\",\r\n          fontSize: 15,\r\n          fontFamily: '\"Calibri\",sans-serif'\r\n        }}\r\n      >\r\n        <span\r\n          style={{\r\n            lineHeight: \"115%\",\r\n            fontFamily: '\"Times New Roman\"',\r\n            fontSize: \"14.0pt\"\r\n          }}\r\n        >\r\n          The Dubai Air Show hosts an impressive lineup of keynote speakers,\r\n          industry influencers, and government officials who share their\r\n          expertise and insights into the future of aerospace. These influential\r\n          voices shape the industry's direction and provide invaluable\r\n          perspectives.\r\n        </span>\r\n      </li>\r\n    </ul>\r\n  </div>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      The Dubai Air Show serves as a hub for networking and connecting with\r\n      aviation industry leaders. It attracts a diverse range of professionals,\r\n      including government officials, airline executives, aerospace engineers,\r\n      and aviation enthusiasts. The event provides dedicated networking\r\n      sessions, forums, and interactive discussions that facilitate meaningful\r\n      interactions and collaborations. Attendees have the opportunity to forge\r\n      new connections, share ideas, and explore potential partnerships.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>\r\n        Dubai Air Show Extravaganza: Discovering the Best of Dubai's Attractions\r\n      </span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>&nbsp;</span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      When visiting the Dubai Air Show, do not miss the opportunity to explore\r\n      the Jewel of the Desert. Here are a few activities one can partake in\r\n      after an eye-opening experience at the Dubai Air Show.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - <u>Explore the iconic cityscape</u>: Take some time to marvel at the\r\n      magnificent architecture and landmarks of Dubai. Visit the Burj Khalifa,\r\n      the world's tallest building, and enjoy panoramic views from its\r\n      observation decks. Stroll along the picturesque Dubai Marina and Palm\r\n      Jumeirah, or take a traditional boat ride along the Dubai Creek.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - <u>Desert adventures</u>: Experience the thrill of desert adventures\r\n      just outside Dubai. Embark on a desert safari and enjoy dune bashing,\r\n      camel rides, and sandboarding. Experience the rich Emirati culture at a\r\n      desert camp, where you can indulge in traditional Arabic cuisine, henna\r\n      painting, and captivating live performances.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - <u>Visit the Dubai Mall</u>: Located near the Dubai Air Show venue, the\r\n      Dubai Mall is a world-class shopping destination. Explore its vast array\r\n      of designer boutiques, enjoy entertainment at the Dubai Aquarium and\r\n      Underwater Zoo, or witness the captivating Dubai Fountain show.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - <u>Waterfront activities</u>: Take advantage of Dubai's stunning\r\n      coastline and indulge in water-based activities. Go on a yacht cruise to\r\n      witness the city's skyline from the water, or try your hand at jet skiing,\r\n      flyboarding, or parasailing for an adrenaline rush.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - <u>Cultural experiences</u>: Immerse yourself in Emirati heritage and\r\n      culture by visiting attractions such as the Dubai Museum, the Dubai\r\n      Heritage Village, and the Jumeirah Mosque. Explore the traditional souks,\r\n      like the Gold Souk and Spice Souk, to experience the vibrant local\r\n      markets.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - <u>Theme parks and entertainment:</u> Dubai is known for its thrilling\r\n      theme parks. Visit IMG Worlds of Adventure, the world's largest indoor\r\n      theme park, or experience adrenaline-pumping rides at Dubai Parks and\r\n      Resorts, which includes Motion Gate Dubai, Bollywood Parks Dubai, and\r\n      LEGOLAND Dubai.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <u>\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>-Golfing</span>\r\n    </u>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      : Golf enthusiasts can tee off at world-class golf courses located in and\r\n      around Dubai. Enjoy a round of golf while taking in the stunning views of\r\n      the city's skyline or lush green fairways.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      -<u>&nbsp;Indulge in culinary delights</u>: Dubai offers a diverse\r\n      culinary scene with a multitude of dining options. From lavish fine dining\r\n      establishments to local street food, explore the city's gastronomic\r\n      offerings and indulge in a variety of cuisines from around the world.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      With so much to see and do in and around Dubai, make the most of your\r\n      visit to the Dubai Air Show by exploring the city's iconic landmarks,\r\n      experiencing thrilling adventures, immersing yourself in Emirati culture,\r\n      and indulging in world-class entertainment and dining.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>Conclusion</span>\r\n    </strong>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>:&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      In conclusion, the Dubai Air Show serves as a global platform for\r\n      showcasing aerospace industry insights and fostering collaboration within\r\n      the aviation sector. The event brings together industry leaders,\r\n      innovative exhibitors, and influential professionals from around the\r\n      world, providing a unique opportunity to explore the future of aviation\r\n      and witness groundbreaking advancements firsthand.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      In essence, the Dubai Air Show guide unlocked the potential of this\r\n      premier event. Through aerospace industry insights and a thriving aviation\r\n      marketplace, the Air show showcased the future of aviation while\r\n      facilitating collaborations and business opportunities. As the aviation\r\n      industry continues to evolve and innovate, the Dubai Air Show will remain\r\n      a pivotal event in creating exceptional exhibition experiences that\r\n      elevate the industry to new heights.\r\n    </span>\r\n  </p>\r\n"
-
+            "content": `<html xmlns:v="urn:schemas-microsoft-com:vml"
+            xmlns:o="urn:schemas-microsoft-com:office:office"
+            xmlns:w="urn:schemas-microsoft-com:office:word"
+            xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+            xmlns="http://www.w3.org/TR/REC-html40">
+            
+            <head>
+            <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+            <meta name=ProgId content=Word.Document>
+            <meta name=Generator content="Microsoft Word 15">
+            <meta name=Originator content="Microsoft Word 15">
+            <link rel=File-List href="Blog%204%20-%20Dubai%20Air%20Show_files/filelist.xml">
+            <!--[if gte mso 9]><xml>
+             <o:DocumentProperties>
+              <o:Author>Kahaan Doshi</o:Author>
+              <o:Template>Normal</o:Template>
+              <o:LastAuthor>lakshit joshi</o:LastAuthor>
+              <o:Revision>3</o:Revision>
+              <o:TotalTime>197</o:TotalTime>
+              <o:Created>2023-07-19T09:39:00Z</o:Created>
+              <o:LastSaved>2023-07-19T09:41:00Z</o:LastSaved>
+              <o:Pages>1</o:Pages>
+              <o:Words>1691</o:Words>
+              <o:Characters>9644</o:Characters>
+              <o:Lines>80</o:Lines>
+              <o:Paragraphs>22</o:Paragraphs>
+              <o:CharactersWithSpaces>11313</o:CharactersWithSpaces>
+              <o:Version>16.00</o:Version>
+             </o:DocumentProperties>
+             <o:OfficeDocumentSettings>
+              <o:AllowPNG/>
+             </o:OfficeDocumentSettings>
+            </xml><![endif]-->
+            <link rel=themeData
+            href="Blog%204%20-%20Dubai%20Air%20Show_files/themedata.thmx">
+            <link rel=colorSchemeMapping
+            href="Blog%204%20-%20Dubai%20Air%20Show_files/colorschememapping.xml">
+            <!--[if gte mso 9]><xml>
+             <w:WordDocument>
+              <w:SpellingState>Clean</w:SpellingState>
+              <w:GrammarState>Clean</w:GrammarState>
+              <w:TrackMoves>false</w:TrackMoves>
+              <w:TrackFormatting/>
+              <w:PunctuationKerning/>
+              <w:ValidateAgainstSchemas/>
+              <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+              <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+              <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+              <w:DoNotPromoteQF/>
+              <w:LidThemeOther>EN-IN</w:LidThemeOther>
+              <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+              <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+              <w:Compatibility>
+               <w:BreakWrappedTables/>
+               <w:SnapToGridInCell/>
+               <w:WrapTextWithPunct/>
+               <w:UseAsianBreakRules/>
+               <w:DontGrowAutofit/>
+               <w:SplitPgBreakAndParaMark/>
+               <w:EnableOpenTypeKerning/>
+               <w:DontFlipMirrorIndents/>
+               <w:OverrideTableStyleHps/>
+              </w:Compatibility>
+              <m:mathPr>
+               <m:mathFont m:val="Cambria Math"/>
+               <m:brkBin m:val="before"/>
+               <m:brkBinSub m:val="&#45;-"/>
+               <m:smallFrac m:val="off"/>
+               <m:dispDef/>
+               <m:lMargin m:val="0"/>
+               <m:rMargin m:val="0"/>
+               <m:defJc m:val="centerGroup"/>
+               <m:wrapIndent m:val="1440"/>
+               <m:intLim m:val="subSup"/>
+               <m:naryLim m:val="undOvr"/>
+              </m:mathPr></w:WordDocument>
+            </xml><![endif]--><!--[if gte mso 9]><xml>
+             <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+              DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+              LatentStyleCount="376">
+              <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+              <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 5"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 6"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 7"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 8"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 9"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 1"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 2"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 3"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 4"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 5"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 6"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 7"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 8"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 9"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Normal Indent"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="footnote text"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="annotation text"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="header"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="footer"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index heading"/>
+              <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="table of figures"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="envelope address"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="envelope return"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="footnote reference"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="annotation reference"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="line number"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="page number"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="endnote reference"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="endnote text"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="table of authorities"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="macro"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="toa heading"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Bullet"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Number"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List 5"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Bullet 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Bullet 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Bullet 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Bullet 5"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Number 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Number 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Number 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Number 5"/>
+              <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Closing"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Signature"/>
+              <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+               UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text Indent"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Continue"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Continue 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Continue 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Continue 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Continue 5"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Message Header"/>
+              <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Salutation"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Date"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text First Indent"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text First Indent 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Note Heading"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text Indent 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text Indent 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Block Text"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Hyperlink"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="FollowedHyperlink"/>
+              <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+              <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Document Map"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Plain Text"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="E-mail Signature"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Top of Form"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Bottom of Form"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Normal (Web)"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Acronym"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Address"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Cite"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Code"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Definition"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Keyboard"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Preformatted"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Sample"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Typewriter"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Variable"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Normal Table"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="annotation subject"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="No List"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Outline List 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Outline List 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Outline List 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Simple 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Simple 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Simple 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Classic 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Classic 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Classic 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Classic 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Colorful 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Colorful 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Colorful 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Columns 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Columns 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Columns 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Columns 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Columns 5"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 5"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 6"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 7"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 8"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 5"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 6"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 7"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 8"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table 3D effects 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table 3D effects 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table 3D effects 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Contemporary"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Elegant"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Professional"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Subtle 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Subtle 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Web 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Web 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Web 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Balloon Text"/>
+              <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Theme"/>
+              <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+              <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+              <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+              <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+              <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+              <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+              <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+              <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+              <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+              <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+              <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+              <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+              <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+              <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+              <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+              <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+              <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+              <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+              <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+              <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+              <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+              <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+              <w:LsdException Locked="false" Priority="34" QFormat="true"
+               Name="List Paragraph"/>
+              <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+              <w:LsdException Locked="false" Priority="30" QFormat="true"
+               Name="Intense Quote"/>
+              <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+              <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+              <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+              <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+              <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+              <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+              <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+              <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+              <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+              <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+              <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+              <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+              <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+              <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+              <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+              <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+              <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+              <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+              <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+              <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+              <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+              <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+              <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+              <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+              <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+              <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+              <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+              <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+              <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+              <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+              <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+              <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+              <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+              <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+              <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+              <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+              <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+              <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+              <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+              <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+              <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+              <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+              <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+              <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+              <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+              <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+              <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+              <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+              <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+              <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+              <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+              <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+              <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+              <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+              <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+              <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+              <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+              <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+              <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+              <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+              <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+              <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+              <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+              <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+              <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+              <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+              <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+              <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+              <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+              <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+              <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+              <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+              <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+              <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+              <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+              <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+              <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+              <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+              <w:LsdException Locked="false" Priority="19" QFormat="true"
+               Name="Subtle Emphasis"/>
+              <w:LsdException Locked="false" Priority="21" QFormat="true"
+               Name="Intense Emphasis"/>
+              <w:LsdException Locked="false" Priority="31" QFormat="true"
+               Name="Subtle Reference"/>
+              <w:LsdException Locked="false" Priority="32" QFormat="true"
+               Name="Intense Reference"/>
+              <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+              <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+               UnhideWhenUsed="true" Name="Bibliography"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+              <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+              <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+              <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+              <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+              <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+              <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+              <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+              <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+              <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+              <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+              <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+              <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+              <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="Grid Table 1 Light Accent 1"/>
+              <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+              <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+              <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+              <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="Grid Table 6 Colorful Accent 1"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="Grid Table 7 Colorful Accent 1"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="Grid Table 1 Light Accent 2"/>
+              <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+              <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+              <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+              <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="Grid Table 6 Colorful Accent 2"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="Grid Table 7 Colorful Accent 2"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="Grid Table 1 Light Accent 3"/>
+              <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+              <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+              <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+              <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="Grid Table 6 Colorful Accent 3"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="Grid Table 7 Colorful Accent 3"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="Grid Table 1 Light Accent 4"/>
+              <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+              <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+              <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+              <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="Grid Table 6 Colorful Accent 4"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="Grid Table 7 Colorful Accent 4"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="Grid Table 1 Light Accent 5"/>
+              <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+              <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+              <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+              <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="Grid Table 6 Colorful Accent 5"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="Grid Table 7 Colorful Accent 5"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="Grid Table 1 Light Accent 6"/>
+              <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+              <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+              <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+              <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="Grid Table 6 Colorful Accent 6"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="Grid Table 7 Colorful Accent 6"/>
+              <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+              <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+              <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+              <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+              <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+              <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+              <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="List Table 1 Light Accent 1"/>
+              <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+              <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+              <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+              <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="List Table 6 Colorful Accent 1"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="List Table 7 Colorful Accent 1"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="List Table 1 Light Accent 2"/>
+              <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+              <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+              <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+              <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="List Table 6 Colorful Accent 2"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="List Table 7 Colorful Accent 2"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="List Table 1 Light Accent 3"/>
+              <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+              <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+              <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+              <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="List Table 6 Colorful Accent 3"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="List Table 7 Colorful Accent 3"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="List Table 1 Light Accent 4"/>
+              <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+              <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+              <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+              <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="List Table 6 Colorful Accent 4"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="List Table 7 Colorful Accent 4"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="List Table 1 Light Accent 5"/>
+              <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+              <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+              <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+              <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="List Table 6 Colorful Accent 5"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="List Table 7 Colorful Accent 5"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="List Table 1 Light Accent 6"/>
+              <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+              <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+              <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+              <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="List Table 6 Colorful Accent 6"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="List Table 7 Colorful Accent 6"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Mention"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Smart Hyperlink"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Hashtag"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Unresolved Mention"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Smart Link"/>
+             </w:LatentStyles>
+            </xml><![endif]-->
+            <style>
+            <!--
+             /* Font Definitions */
+             @font-face
+                {font-family:Wingdings;
+                panose-1:5 0 0 0 0 0 0 0 0 0;
+                mso-font-charset:2;
+                mso-generic-font-family:auto;
+                mso-font-pitch:variable;
+                mso-font-signature:0 268435456 0 0 -2147483648 0;}
+            @font-face
+                {font-family:"Cambria Math";
+                panose-1:2 4 5 3 5 4 6 3 2 4;
+                mso-font-charset:0;
+                mso-generic-font-family:roman;
+                mso-font-pitch:variable;
+                mso-font-signature:3 0 0 0 1 0;}
+            @font-face
+                {font-family:Calibri;
+                panose-1:2 15 5 2 2 2 4 3 2 4;
+                mso-font-charset:0;
+                mso-generic-font-family:swiss;
+                mso-font-pitch:variable;
+                mso-font-signature:-469750017 -1040178053 9 0 511 0;}
+             /* Style Definitions */
+             p.MsoNormal, li.MsoNormal, div.MsoNormal
+                {mso-style-unhide:no;
+                mso-style-qformat:yes;
+                mso-style-parent:"";
+                margin-top:0cm;
+                margin-right:0cm;
+                margin-bottom:8.0pt;
+                margin-left:0cm;
+                line-height:107%;
+                mso-pagination:widow-orphan;
+                font-size:11.0pt;
+                font-family:"Calibri",sans-serif;
+                mso-ascii-font-family:Calibri;
+                mso-ascii-theme-font:minor-latin;
+                mso-fareast-font-family:Calibri;
+                mso-fareast-theme-font:minor-latin;
+                mso-hansi-font-family:Calibri;
+                mso-hansi-theme-font:minor-latin;
+                mso-bidi-font-family:"Times New Roman";
+                mso-bidi-theme-font:minor-bidi;
+                mso-font-kerning:1.0pt;
+                mso-ligatures:standardcontextual;
+                mso-fareast-language:EN-US;}
+            a:link, span.MsoHyperlink
+                {mso-style-priority:99;
+                color:#0563C1;
+                mso-themecolor:hyperlink;
+                text-decoration:underline;
+                text-underline:single;}
+            a:visited, span.MsoHyperlinkFollowed
+                {mso-style-noshow:yes;
+                mso-style-priority:99;
+                color:#954F72;
+                mso-themecolor:followedhyperlink;
+                text-decoration:underline;
+                text-underline:single;}
+            p
+                {mso-style-priority:99;
+                mso-margin-top-alt:auto;
+                margin-right:0cm;
+                mso-margin-bottom-alt:auto;
+                margin-left:0cm;
+                mso-pagination:widow-orphan;
+                font-size:12.0pt;
+                font-family:"Times New Roman",serif;
+                mso-fareast-font-family:"Times New Roman";}
+            p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+                {mso-style-priority:34;
+                mso-style-unhide:no;
+                mso-style-qformat:yes;
+                margin-top:0cm;
+                margin-right:0cm;
+                margin-bottom:8.0pt;
+                margin-left:36.0pt;
+                mso-add-space:auto;
+                line-height:107%;
+                mso-pagination:widow-orphan;
+                font-size:11.0pt;
+                font-family:"Calibri",sans-serif;
+                mso-ascii-font-family:Calibri;
+                mso-ascii-theme-font:minor-latin;
+                mso-fareast-font-family:Calibri;
+                mso-fareast-theme-font:minor-latin;
+                mso-hansi-font-family:Calibri;
+                mso-hansi-theme-font:minor-latin;
+                mso-bidi-font-family:"Times New Roman";
+                mso-bidi-theme-font:minor-bidi;
+                mso-font-kerning:1.0pt;
+                mso-ligatures:standardcontextual;
+                mso-fareast-language:EN-US;}
+            p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+                {mso-style-priority:34;
+                mso-style-unhide:no;
+                mso-style-qformat:yes;
+                mso-style-type:export-only;
+                margin-top:0cm;
+                margin-right:0cm;
+                margin-bottom:0cm;
+                margin-left:36.0pt;
+                mso-add-space:auto;
+                line-height:107%;
+                mso-pagination:widow-orphan;
+                font-size:11.0pt;
+                font-family:"Calibri",sans-serif;
+                mso-ascii-font-family:Calibri;
+                mso-ascii-theme-font:minor-latin;
+                mso-fareast-font-family:Calibri;
+                mso-fareast-theme-font:minor-latin;
+                mso-hansi-font-family:Calibri;
+                mso-hansi-theme-font:minor-latin;
+                mso-bidi-font-family:"Times New Roman";
+                mso-bidi-theme-font:minor-bidi;
+                mso-font-kerning:1.0pt;
+                mso-ligatures:standardcontextual;
+                mso-fareast-language:EN-US;}
+            p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+                {mso-style-priority:34;
+                mso-style-unhide:no;
+                mso-style-qformat:yes;
+                mso-style-type:export-only;
+                margin-top:0cm;
+                margin-right:0cm;
+                margin-bottom:0cm;
+                margin-left:36.0pt;
+                mso-add-space:auto;
+                line-height:107%;
+                mso-pagination:widow-orphan;
+                font-size:11.0pt;
+                font-family:"Calibri",sans-serif;
+                mso-ascii-font-family:Calibri;
+                mso-ascii-theme-font:minor-latin;
+                mso-fareast-font-family:Calibri;
+                mso-fareast-theme-font:minor-latin;
+                mso-hansi-font-family:Calibri;
+                mso-hansi-theme-font:minor-latin;
+                mso-bidi-font-family:"Times New Roman";
+                mso-bidi-theme-font:minor-bidi;
+                mso-font-kerning:1.0pt;
+                mso-ligatures:standardcontextual;
+                mso-fareast-language:EN-US;}
+            p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+                {mso-style-priority:34;
+                mso-style-unhide:no;
+                mso-style-qformat:yes;
+                mso-style-type:export-only;
+                margin-top:0cm;
+                margin-right:0cm;
+                margin-bottom:8.0pt;
+                margin-left:36.0pt;
+                mso-add-space:auto;
+                line-height:107%;
+                mso-pagination:widow-orphan;
+                font-size:11.0pt;
+                font-family:"Calibri",sans-serif;
+                mso-ascii-font-family:Calibri;
+                mso-ascii-theme-font:minor-latin;
+                mso-fareast-font-family:Calibri;
+                mso-fareast-theme-font:minor-latin;
+                mso-hansi-font-family:Calibri;
+                mso-hansi-theme-font:minor-latin;
+                mso-bidi-font-family:"Times New Roman";
+                mso-bidi-theme-font:minor-bidi;
+                mso-font-kerning:1.0pt;
+                mso-ligatures:standardcontextual;
+                mso-fareast-language:EN-US;}
+            span.SpellE
+                {mso-style-name:"";
+                mso-spl-e:yes;}
+            .MsoChpDefault
+                {mso-style-type:export-only;
+                mso-default-props:yes;
+                font-family:"Calibri",sans-serif;
+                mso-ascii-font-family:Calibri;
+                mso-ascii-theme-font:minor-latin;
+                mso-fareast-font-family:Calibri;
+                mso-fareast-theme-font:minor-latin;
+                mso-hansi-font-family:Calibri;
+                mso-hansi-theme-font:minor-latin;
+                mso-bidi-font-family:"Times New Roman";
+                mso-bidi-theme-font:minor-bidi;
+                mso-fareast-language:EN-US;}
+            .MsoPapDefault
+                {mso-style-type:export-only;
+                margin-bottom:8.0pt;
+                line-height:107%;}
+            @page WordSection1
+                {size:595.3pt 841.9pt;
+                margin:72.0pt 72.0pt 72.0pt 72.0pt;
+                mso-header-margin:35.4pt;
+                mso-footer-margin:35.4pt;
+                mso-paper-source:0;}
+            div.WordSection1
+                {page:WordSection1;}
+             /* List Definitions */
+             @list l0
+                {mso-list-id:105395750;
+                mso-list-template-ids:-95248522;}
+            @list l0:level1
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:36.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Symbol;}
+            @list l0:level2
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:72.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:"Courier New";
+                mso-bidi-font-family:"Times New Roman";}
+            @list l0:level3
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:108.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l0:level4
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:144.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l0:level5
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:180.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l0:level6
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:216.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l0:level7
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:252.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l0:level8
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:288.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l0:level9
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:324.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l1
+                {mso-list-id:246228113;
+                mso-list-template-ids:-362505752;}
+            @list l1:level1
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:36.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Symbol;}
+            @list l1:level2
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:72.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:"Courier New";
+                mso-bidi-font-family:"Times New Roman";}
+            @list l1:level3
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:108.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l1:level4
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:144.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l1:level5
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:180.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l1:level6
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:216.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l1:level7
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:252.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l1:level8
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:288.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l1:level9
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:324.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l2
+                {mso-list-id:311298719;
+                mso-list-template-ids:1580337920;}
+            @list l2:level1
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:36.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Symbol;}
+            @list l2:level2
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:72.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:"Courier New";
+                mso-bidi-font-family:"Times New Roman";}
+            @list l2:level3
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:108.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l2:level4
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:144.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l2:level5
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:180.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l2:level6
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:216.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l2:level7
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:252.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l2:level8
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:288.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l2:level9
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:324.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l3
+                {mso-list-id:516233701;
+                mso-list-type:hybrid;
+                mso-list-template-ids:1252561222 575019636 1074331651 1074331653 1074331649 1074331651 1074331653 1074331649 1074331651 1074331653;}
+            @list l3:level1
+                {mso-level-start-at:0;
+                mso-level-number-format:bullet;
+                mso-level-text:-;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:27.6pt;
+                text-indent:-18.0pt;
+                font-family:"Calibri",sans-serif;
+                mso-fareast-font-family:"Times New Roman";}
+            @list l3:level2
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:63.6pt;
+                text-indent:-18.0pt;
+                font-family:"Courier New";}
+            @list l3:level3
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:99.6pt;
+                text-indent:-18.0pt;
+                font-family:Wingdings;}
+            @list l3:level4
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:135.6pt;
+                text-indent:-18.0pt;
+                font-family:Symbol;}
+            @list l3:level5
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:171.6pt;
+                text-indent:-18.0pt;
+                font-family:"Courier New";}
+            @list l3:level6
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:207.6pt;
+                text-indent:-18.0pt;
+                font-family:Wingdings;}
+            @list l3:level7
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:243.6pt;
+                text-indent:-18.0pt;
+                font-family:Symbol;}
+            @list l3:level8
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:279.6pt;
+                text-indent:-18.0pt;
+                font-family:"Courier New";}
+            @list l3:level9
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:315.6pt;
+                text-indent:-18.0pt;
+                font-family:Wingdings;}
+            @list l4
+                {mso-list-id:1156725796;
+                mso-list-template-ids:-998187594;}
+            @list l5
+                {mso-list-id:1323048897;
+                mso-list-type:hybrid;
+                mso-list-template-ids:-211633188 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+            @list l5:level1
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l5:level2
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l5:level3
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l5:level4
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l5:level5
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l5:level6
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l5:level7
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l5:level8
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l5:level9
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l6
+                {mso-list-id:1346905125;
+                mso-list-template-ids:-995707718;}
+            @list l6:level1
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:36.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Symbol;}
+            @list l6:level2
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:72.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:"Courier New";
+                mso-bidi-font-family:"Times New Roman";}
+            @list l6:level3
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:108.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l6:level4
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:144.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l6:level5
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:180.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l6:level6
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:216.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l6:level7
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:252.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l6:level8
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:288.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l6:level9
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:324.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l7
+                {mso-list-id:1638490952;
+                mso-list-type:hybrid;
+                mso-list-template-ids:-612492308 1074331649 -1 -1 -1 -1 -1 -1 -1 -1;}
+            @list l7:level1
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:27.6pt;
+                text-indent:-18.0pt;
+                font-family:Symbol;}
+            @list l7:level2
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:63.6pt;
+                text-indent:-18.0pt;
+                font-family:"Courier New";}
+            @list l7:level3
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:99.6pt;
+                text-indent:-18.0pt;
+                font-family:Wingdings;}
+            @list l7:level4
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:135.6pt;
+                text-indent:-18.0pt;
+                font-family:Symbol;}
+            @list l7:level5
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:171.6pt;
+                text-indent:-18.0pt;
+                font-family:"Courier New";}
+            @list l7:level6
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:207.6pt;
+                text-indent:-18.0pt;
+                font-family:Wingdings;}
+            @list l7:level7
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:243.6pt;
+                text-indent:-18.0pt;
+                font-family:Symbol;}
+            @list l7:level8
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:279.6pt;
+                text-indent:-18.0pt;
+                font-family:"Courier New";}
+            @list l7:level9
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:315.6pt;
+                text-indent:-18.0pt;
+                font-family:Wingdings;}
+            @list l8
+                {mso-list-id:1668023222;
+                mso-list-type:hybrid;
+                mso-list-template-ids:620902182 1074331649 1074331651 1074331653 1074331649 1074331651 1074331653 1074331649 1074331651 1074331653;}
+            @list l8:level1
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                font-family:Symbol;}
+            @list l8:level2
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                font-family:"Courier New";}
+            @list l8:level3
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                font-family:Wingdings;}
+            @list l8:level4
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                font-family:Symbol;}
+            @list l8:level5
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                font-family:"Courier New";}
+            @list l8:level6
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                font-family:Wingdings;}
+            @list l8:level7
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                font-family:Symbol;}
+            @list l8:level8
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                font-family:"Courier New";}
+            @list l8:level9
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                font-family:Wingdings;}
+            @list l9
+                {mso-list-id:1790660433;
+                mso-list-template-ids:412767562;}
+            @list l10
+                {mso-list-id:1957564137;
+                mso-list-template-ids:1200754166;}
+            @list l10:level1
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:36.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Symbol;}
+            @list l10:level2
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:72.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:"Courier New";
+                mso-bidi-font-family:"Times New Roman";}
+            @list l10:level3
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:108.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l10:level4
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:144.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l10:level5
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:180.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l10:level6
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:216.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l10:level7
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:252.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l10:level8
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:288.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l10:level9
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:324.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            ol
+                {margin-bottom:0cm;}
+            ul
+                {margin-bottom:0cm;}
+            -->
+            </style>
+            <!--[if gte mso 10]>
+            <style>
+             /* Style Definitions */
+             table.MsoNormalTable
+                {mso-style-name:"Table Normal";
+                mso-tstyle-rowband-size:0;
+                mso-tstyle-colband-size:0;
+                mso-style-noshow:yes;
+                mso-style-priority:99;
+                mso-style-parent:"";
+                mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+                mso-para-margin-top:0cm;
+                mso-para-margin-right:0cm;
+                mso-para-margin-bottom:8.0pt;
+                mso-para-margin-left:0cm;
+                line-height:107%;
+                mso-pagination:widow-orphan;
+                font-size:11.0pt;
+                font-family:"Calibri",sans-serif;
+                mso-ascii-font-family:Calibri;
+                mso-ascii-theme-font:minor-latin;
+                mso-hansi-font-family:Calibri;
+                mso-hansi-theme-font:minor-latin;
+                mso-bidi-font-family:"Times New Roman";
+                mso-bidi-theme-font:minor-bidi;
+                mso-font-kerning:1.0pt;
+                mso-ligatures:standardcontextual;
+                mso-fareast-language:EN-US;}
+            </style>
+            <![endif]--><!--[if gte mso 9]><xml>
+             <o:shapedefaults v:ext="edit" spidmax="1026"/>
+            </xml><![endif]--><!--[if gte mso 9]><xml>
+             <o:shapelayout v:ext="edit">
+              <o:idmap v:ext="edit" data="1"/>
+             </o:shapelayout></xml><![endif]-->
+            </head>
+            
+            <body lang=EN-IN link="#0563C1" vlink="#954F72" style='tab-interval:36.0pt;
+            word-wrap:break-word'>
+            
+            <div class=WordSection1>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Introduction<o:p></o:p></span></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>Welcome to the grand stage of
+            aviation and aerospace excellence, where groundbreaking innovations take flight
+            - the prestigious Dubai Air Show. As an esteemed exhibition construction
+            company specializing in crafting remarkable booths for world-class events, <span
+            class=SpellE>Suprano</span> is thrilled to be a part of this dynamic gathering
+            of industry leaders and cutting-edge technologies. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>This year, the AIAA conference
+            will be taking place on 13-17<sup>th</sup> November 2023, at DWC, Dubai Airshow
+            Site. It serves as a testament to the future of aviation, propelling the
+            industry forward with awe-inspiring aerospace advancements and revolutionary
+            aviation technology. With our passion for creating immersive exhibition spaces,
+            we invite you to join us on this remarkable journey, where Air show highlights
+            will captivate your senses and the Dubai aviation industry will leave you
+            breathless.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'><span
+            style='mso-spacerun:yes'></span>As we align our expertise with the visionaries
+            shaping the future of flight, let us embark together on this extraordinary
+            experience, witnessing the endless possibilities that unfold at the Dubai Air
+            Show.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Table of
+            Content:<o:p></o:p></span></b></p>
+            
+            <p class=MsoListParagraphCxSpFirst style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:
+            115%;mso-list:l5 level1 lfo11'><![if !supportLists]><span style='font-size:
+            14.0pt;line-height:115%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>1.<span
+            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+            style='font-size:14.0pt;line-height:115%;color:white;mso-themecolor:background1'>The
+            Future of Aviation: Aerospace Advancements and Innovation<o:p></o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:
+            115%;mso-list:l5 level1 lfo11'><![if !supportLists]><span style='font-size:
+            14.0pt;line-height:115%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>2.<span
+            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+            style='font-size:14.0pt;line-height:115%;color:white;mso-themecolor:background1'>Flying
+            High with <span class=SpellE>Suprano</span><o:p></o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:
+            115%;mso-list:l5 level1 lfo11'><![if !supportLists]><span style='font-size:
+            14.0pt;line-height:115%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>3.<span
+            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+            style='font-size:14.0pt;line-height:115%;color:white;mso-themecolor:background1'>Dubai
+            Air Show Exhibitors: Aerospace Industry Advancements on Display<o:p></o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:
+            115%;mso-list:l5 level1 lfo11'><![if !supportLists]><span style='font-size:
+            14.0pt;line-height:115%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>4.<span
+            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+            style='font-size:14.0pt;line-height:115%;color:white;mso-themecolor:background1'>Networking
+            Opportunities at the Dubai Air Show: Collaborations and Business Opportunities<o:p></o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpLast style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:
+            115%;mso-list:l5 level1 lfo11'><![if !supportLists]><span style='font-size:
+            14.0pt;line-height:115%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+            color:white;mso-themecolor:background1'><span style='mso-list:Ignore'>5.<span
+            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+            style='font-size:14.0pt;line-height:115%;color:white;mso-themecolor:background1'>Dubai
+            Air Show Extravaganza: Discovering the Best of Dubai's Attractions<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>The Future
+            of Aviation: Aerospace Advancements and Innovation<o:p></o:p></span></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>- The
+            future of air-travel is being shaped by exciting advancements in aircraft
+            engineering and space engineering and the Dubai Airshow, particularly the
+            upcoming Dubai Air Show 2023, serves as a significant platform for showcasing
+            these innovations.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>- The event
+            highlights the latest aircraft engineering and aerospace technology, providing
+            a glimpse into the cutting-edge advancements that will define the future of
+            aviation.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>- Aerospace
+            engineering companies play a pivotal role in driving innovation, pushing the
+            boundaries of what is possible in the aerospace industry.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>- The Dubai
+            Air Show 2023 promises to be a hub of innovation and excellence, where
+            attendees can witness the latest aerospace engineering breakthroughs firsthand.
+            The event is a showcase of aerospace excellence, highlighting the industry's
+            advancements and fostering collaborations for a brighter future of aviation.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>- Attendees
+            can expect to explore a wide range of cutting-edge aviation technology,
+            witnessing the transformative impact it will have on the aerospace industry.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>The Dubai
+            Air Show is an unparalleled opportunity to immerse oneself in the aviation
+            innovation showcase, gaining insights into the latest trends and breakthroughs
+            in the aerospace engineering field.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Flying High
+            with <span class=SpellE>Suprano</span>: <o:p></o:p></span></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>In our past
+            years with the aerospace industry, <span class=SpellE>Suprano</span> has been a
+            key factor in the blooming growth of the aviation space. Thanks to our
+            meticulously designed booths and </span><a
+            href="https://supranoexhibits.com/Portfolio" target="_blank"><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-font-kerning:
+            0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>tailor-made exhibition
+            stands</span></a><span style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:
+            "Times New Roman";mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+            color:white;mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;
+            mso-fareast-language:EN-IN'>, there has been a new bar set for Air Shows all
+            over the world. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span class=SpellE><span style='font-size:
+            14.0pt;line-height:115%;color:white;mso-themecolor:background1'>Suprano's</span></span><span
+            style='font-size:14.0pt;line-height:115%;color:white;mso-themecolor:background1'>
+            commitment to excellence and our understanding of the aviation industry's
+            dynamics have made us a trusted partner for exhibitors seeking to create
+            remarkable brand experiences. Our innovative </span><a
+            href="https://supranoexhibits.com/Portfolio" target="_blank"><span
+            style='font-size:14.0pt;line-height:115%'>booth designs</span></a><span
+            style='font-size:14.0pt;line-height:115%'> <span style='color:white;mso-themecolor:
+            background1'>and seamless execution provided exhibitors with the perfect
+            platform to connect with potential clients, secure business opportunities, and
+            drive industry growth.</span></span><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'> We make it
+            possible for the future of aviation to be on display.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'><o:p>&nbsp;</o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Dubai Air
+            Show Exhibitors: Aerospace Industry Advancements on Display<o:p></o:p></span></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>- The Dubai Air Show, a globally
+            recognized aviation event, features a diverse array of exhibitors from the
+            aerospace industry.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>- Exhibitors at the Dubai Air Show
+            showcase the future of aviation through advanced technologies, innovative
+            products, and groundbreaking advancements. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>- Participants
+            can explore an extensive array of aircraft on display, including commercial
+            airplanes, military jets, helicopters, unmanned aerial vehicles (UAVs), and
+            space vehicles. These exhibits showcase the latest advancements in aviation
+            technology and engineering achievements.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>- The event offers a unique
+            platform to explore emerging trends in aerospace engineering, providing
+            insights into the latest developments and breakthroughs. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>- Recent trends in aeronautical
+            engineering, such as advancements in aircraft design, propulsion systems, and
+            materials, are prominently displayed by exhibitors. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>- The Dubai Air Show exhibitors
+            highlight the industry's advancements in sustainable aviation solutions,
+            autonomous flight systems, and aerospace innovation. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>- For more information about the
+            Dubai Air Show and its exhibitors, visit the official website and refer to the
+            list of participating companies. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>Dubai Airshow Official Website -</span><span
+            style='font-size:14.0pt;line-height:115%'> </span><a
+            href="https://www.dubaiairshow.aero/" target="_blank"><span style='font-size:14.0pt;line-height:
+            115%'>https://www.dubaiairshow.aero/</span></a><span style='font-size:14.0pt;
+            line-height:115%'><o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%'><span style='mso-spacerun:yes'></span><span style='color:white;
+            mso-themecolor:background1'>Dubai Airshow Exhibitors</span></span><a
+            href="https://www.dubaiairshow.aero/exhibition/exhibitors" target="_blank"><span
+            style='font-size:14.0pt;line-height:115%'>https://www.dubaiairshow.aero/exhibition/exhibitors</span></a><span
+            style='font-size:14.0pt;line-height:115%'><o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>Emerging Trends in Aerospace
+            Engineering</span><span style='font-size:14.0pt;line-height:115%'> </span><a
+            href="https://www.sciencedirect.com/science/article/pii/S2351978918303464" target="_blank"><span
+            style='font-size:14.0pt;line-height:115%'>https://www.sciencedirect.com/science/article/pii/ S2351978918303464</span></a><span
+            style='font-size:14.0pt;line-height:115%'><o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>Recent Trends in Aeronautical
+            Engineering </span><a
+            href="https://www.sciencedirect.com/science/article/pii/S2351978918303464" target="_blank"><span
+            style='font-size:14.0pt;line-height:115%'>https://www.sciencedirect.com/science/article/pii/ S2351978918303464</span></a><span
+            style='font-size:14.0pt;line-height:115%'><o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;mso-font-kerning:0pt;mso-ligatures:
+            none;mso-fareast-language:EN-IN'><o:p>&nbsp;</o:p></span></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Networking
+            Opportunities at the Dubai Air Show: Collaborations and Business Opportunities<o:p></o:p></span></b></p>
+            
+            <p class=MsoListParagraphCxSpFirst style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;margin-left:27.6pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;
+            line-height:115%;mso-list:l7 level1 lfo10'><![if !supportLists]><span
+            style='font-size:14.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+            Symbol;mso-bidi-font-family:Symbol;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'><span
+            style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span></span><![endif]><span style='font-size:14.0pt;line-height:115%;
+            mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>The Dubai
+            Air Show attracts a massive gathering of aviation professionals, with tens of
+            thousands of attendees from around the globe. In 2019, the event welcomed over
+            87,000 visitors, including industry experts, government officials, and
+            decision-makers.<o:p></o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;margin-left:27.6pt;mso-add-space:auto;text-align:justify;line-height:115%'><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'><o:p>&nbsp;</o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;margin-left:27.6pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;
+            line-height:115%;mso-list:l7 level1 lfo10'><![if !supportLists]><span
+            style='font-size:14.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+            Symbol;mso-bidi-font-family:Symbol;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'><span
+            style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span></span><![endif]><span style='font-size:14.0pt;line-height:115%;
+            mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Some of the
+            world's largest <span class=SpellE>defense</span> and aerospace companies showcase
+            their capabilities and products at the event. These companies include industry
+            giants like Boeing, Airbus, Lockheed Martin, and more.<o:p></o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='text-align:justify'><span
+            style='font-size:14.0pt;line-height:107%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'><o:p>&nbsp;</o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;margin-left:27.6pt;mso-add-space:auto;text-align:justify;line-height:115%'><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'><o:p>&nbsp;</o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;margin-left:27.6pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;
+            line-height:115%;mso-list:l7 level1 lfo10'><![if !supportLists]><span
+            style='font-size:14.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+            Symbol;mso-bidi-font-family:Symbol;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'><span
+            style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span></span><![endif]><span style='font-size:14.0pt;line-height:115%;
+            mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>The event
+            provides a platform for networking and engaging with high-profile individuals.
+            Billionaire investors, seeking cutting-edge technologies and investment
+            opportunities, frequently attend the Dubai Air Show. Forging <span
+            class=SpellE>conn&#1077;ctions</span> with such <span class=SpellE>influ&#1077;ntial</span>
+            <span class=SpellE>p&#1077;rsonaliti&#1077;s</span> can unlock <span
+            class=SpellE>av&#1077;nu&#1077;s</span> to highly substantial <span
+            class=SpellE>busin&#1077;ss</span> deals.<o:p></o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;margin-left:27.6pt;mso-add-space:auto;text-align:justify;line-height:115%'><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'><o:p>&nbsp;</o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;margin-left:27.6pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;
+            line-height:115%;mso-list:l7 level1 lfo10'><![if !supportLists]><span
+            style='font-size:14.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+            Symbol;mso-bidi-font-family:Symbol;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'><span
+            style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span></span><![endif]><span style='font-size:14.0pt;line-height:115%;
+            mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>The Dubai
+            Air Show serves as a platform for significant business deals and contracts
+            within the aerospace industry. Multi-million-dollar deals stem from the
+            connections made at this IEEE Aerospace Conference.<o:p></o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;margin-left:27.6pt;mso-add-space:auto;text-align:justify;line-height:115%'><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'><o:p>&nbsp;</o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;margin-left:27.6pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;
+            line-height:115%;mso-list:l7 level1 lfo10'><![if !supportLists]><span
+            style='font-size:14.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+            Symbol;mso-bidi-font-family:Symbol;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'><span
+            style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span></span><![endif]><span style='font-size:14.0pt;line-height:115%;
+            mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>The
+            exhibition area at the Dubai Air Show spans several thousand square meters,
+            accommodating hundreds of exhibitors and their impressive displays. The sheer
+            scale of the exhibition reflects the magnitude of the aerospace industry's
+            presence and its impact on global markets.<o:p></o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='text-align:justify'><span
+            style='font-size:14.0pt;line-height:107%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'><o:p>&nbsp;</o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;margin-left:27.6pt;mso-add-space:auto;text-align:justify;line-height:115%'><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'><o:p>&nbsp;</o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpLast style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;margin-left:27.6pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;
+            line-height:115%;mso-list:l7 level1 lfo10'><![if !supportLists]><span
+            style='font-size:14.0pt;line-height:115%;font-family:Symbol;mso-fareast-font-family:
+            Symbol;mso-bidi-font-family:Symbol;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'><span
+            style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+            </span></span></span><![endif]><span style='font-size:14.0pt;line-height:115%;
+            mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>The Dubai
+            Air Show hosts an impressive lineup of keynote speakers, industry influencers,
+            and government officials who share their expertise and insights into the future
+            of aerospace. These influential voices shape the industry's direction and
+            provide invaluable perspectives.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'><o:p>&nbsp;</o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>The Dubai Air Show serves as a hub
+            for networking and connecting with aviation industry leaders. It attracts a
+            diverse range of professionals, including government officials, airline
+            executives, aerospace engineers, and aviation enthusiasts. The event provides
+            dedicated networking sessions, forums, and interactive discussions that
+            facilitate meaningful interactions and collaborations. Attendees have the
+            opportunity to forge new connections, share ideas, and explore potential
+            partnerships. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'><o:p>&nbsp;</o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;color:white;mso-themecolor:background1'>Dubai Air Show
+            Extravaganza: Discovering the Best of Dubai's Attractions<o:p></o:p></span></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>When visiting the Dubai Air Show, do
+            not miss the opportunity to explore the Jewel of the Desert. Here are a few activities
+            one can partake in after an eye-opening experience at the Dubai Air Show.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>- <u>Explore the iconic cityscape</u>:
+            Take some time to marvel at the magnificent architecture and landmarks of
+            Dubai. Visit the Burj Khalifa, the world's tallest building, and enjoy
+            panoramic views from its observation decks. Stroll along the picturesque Dubai
+            Marina and Palm Jumeirah, or take a traditional boat ride along the Dubai
+            Creek.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>- <u>Desert adventures</u>:
+            Experience the thrill of desert adventures just outside Dubai. Embark on a
+            desert safari and enjoy dune bashing, camel rides, and sandboarding. Experience
+            the rich Emirati culture at a desert camp, where you can indulge in traditional
+            Arabic cuisine, henna painting, and captivating live performances.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>- <u>Visit the Dubai Mall</u>:
+            Located near the Dubai Air Show venue, the Dubai Mall is a world-class shopping
+            destination. Explore its vast array of designer boutiques, enjoy entertainment
+            at the Dubai Aquarium and Underwater Zoo, or witness the captivating Dubai
+            Fountain show.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>- <u>Waterfront activities</u>:
+            Take advantage of Dubai's stunning coastline and indulge in water-based
+            activities. Go on a yacht cruise to witness the city's skyline from the water,
+            or try your hand at jet skiing, flyboarding, or parasailing for an adrenaline
+            rush.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>- <u>Cultural experiences</u>:
+            Immerse yourself in Emirati heritage and culture by visiting attractions such
+            as the Dubai Museum, the Dubai Heritage Village, and the Jumeirah Mosque.
+            Explore the traditional souks, like the Gold Souk and Spice Souk, to experience
+            the vibrant local markets.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>- <u>Theme parks and
+            entertainment:</u> Dubai is known for its thrilling theme parks. Visit IMG
+            Worlds of Adventure, the world's largest indoor theme park, or experience
+            adrenaline-pumping rides at Dubai Parks and Resorts, which includes Motion Gate
+            Dubai, Bollywood Parks Dubai, and LEGOLAND Dubai.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>- <u>Golfing</u>: Golf enthusiasts
+            can tee off at world-class golf courses located in and around Dubai. Enjoy a
+            round of golf while taking in the stunning views of the city's skyline or lush
+            green fairways.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>-<u> Indulge in culinary delights</u>:
+            Dubai offers a diverse culinary scene with a multitude of dining options. From
+            lavish fine dining establishments to local street food, explore the city's
+            gastronomic offerings and indulge in a variety of cuisines from around the
+            world.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;color:white;mso-themecolor:background1'>With so much to see and do in and
+            around Dubai, make the most of your visit to the Dubai Air Show by exploring
+            the city's iconic landmarks, experiencing thrilling adventures, immersing
+            yourself in Emirati culture, and indulging in world-class entertainment and
+            dining.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Conclusion</span></b><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'>: <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='text-align:justify;line-height:115%'><span
+            style='font-size:14.0pt;line-height:115%;color:white;mso-themecolor:background1'>In
+            conclusion, the Dubai Air Show serves as a global platform for showcasing
+            aerospace industry insights and fostering collaboration within the aviation
+            sector. The event brings together industry leaders, innovative exhibitors, and
+            influential professionals from around the world, providing a unique opportunity
+            to explore the future of aviation and witness groundbreaking advancements
+            firsthand. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='text-align:justify;line-height:115%'><span
+            style='font-size:14.0pt;line-height:115%;color:white;mso-themecolor:background1'>In
+            essence, the Dubai Air Show guide unlocked the potential of this premier event.
+            Through aerospace industry insights and a thriving aviation marketplace, the Air
+            show showcased the future of aviation while facilitating collaborations and
+            business opportunities. As the aviation industry continues to evolve and
+            innovate, the Dubai Air Show will remain a pivotal event in creating
+            exceptional exhibition experiences that elevate the industry to new heights.<o:p></o:p></span></p>
+            
+            </div>
+            
+            </body>
+            
+            </html>
+            `
         },
         {
             "id": 5,
@@ -4987,7 +6373,2254 @@ export const BlogsList = {
             "desc":"Gamescom: Europe's Biggest Gaming Event and Expo	Immerse Yourself in Gaming Culture at Gamescom: The Ultimate Gamer's Paradise	Gamescom: Where Gaming Industry Giants and Enthusiasts Unite	Experience the Thrills of Gamescom | Suprano Exhibits	Gamescom, Europe's premier gaming event, brings together game developers, industry professionals, and gaming enthusiasts from around the world. Suprano Exhibits, the top-ranked exhibition stand builder company in Europe, presents an exciting overview of Gamescom, highlighting the latest trends and must-see attractions.",
             "titpg":"Gamescom",
             "image": img5,
-            "content": "<p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif',\r\n      textAlign: \"center\"\r\n    }}\r\n  >\r\n    <strong>\r\n      <u>\r\n        <span style={{ fontSize: 29, lineHeight: \"115%\" }}>\r\n          Blog 5 - Gamescom\r\n        </span>\r\n      </u>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>&nbsp;</span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>Introduction</span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>Welcome to&nbsp;</span>\r\n    <a href=\"https://www.gamescom.global/en\">\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>Gamescom</span>\r\n    </a>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      , Europe's biggest gaming event and exhibition, where the Suprano\r\n      exhibition manufacturing company brings your gaming dreams to life. As a\r\n      leading provider of exhibition planning services, Suprano is excited to\r\n      partner with Gamescom exhibitors in creating compelling brand experiences\r\n      We work tirelessly to produce exhibitions and build new exhibition halls\r\n      that make a lasting impact on the vibrant gaming community.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      This year, Gamescom will be held in Cologne, Germany on the dates 23\r\n      <sup>rd</sup> to 27<sup>th</sup> August, 2023.&nbsp;\r\n    </span>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Irrespective of your background, Gamescom is for everyone. You could be an\r\n      industry insider, a passionate gamer or simply curious about the world of\r\n      gaming, Gamescom is the perfect place to explore and meet like-minded\r\n      people, and experience the energy of&nbsp;\r\n    </span>\r\n    <a href=\"https://supranoexhibits.com/top-trade-shows-in-dubai-and-europe-2022/\">\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n        Europe’s biggest gaming event and expo\r\n      </span>\r\n    </a>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      , constructed by Suprano.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>\r\n        Table of Content:\r\n      </span>\r\n    </strong>\r\n  </p>\r\n  <ol style={{ listStyleType: \"decimal\" }}>\r\n    <li>\r\n      <span\r\n        style={{\r\n          lineHeight: \"115%\",\r\n          fontFamily: '\"Times New Roman\"',\r\n          fontSize: \"14.0pt\"\r\n        }}\r\n      >\r\n        Cultural Experience\r\n      </span>\r\n    </li>\r\n    <li>\r\n      <span\r\n        style={{\r\n          lineHeight: \"115%\",\r\n          fontFamily: '\"Times New Roman\"',\r\n          fontSize: \"14.0pt\"\r\n        }}\r\n      >\r\n        The Scope of Gamescom\r\n      </span>\r\n    </li>\r\n    <li>\r\n      <span\r\n        style={{\r\n          lineHeight: \"115%\",\r\n          fontFamily: '\"Times New Roman\"',\r\n          fontSize: \"14.0pt\"\r\n        }}\r\n      >\r\n        Networking Opportunities\r\n      </span>\r\n    </li>\r\n    <li>\r\n      <span\r\n        style={{\r\n          lineHeight: \"115%\",\r\n          fontFamily: '\"Times New Roman\"',\r\n          fontSize: \"14.0pt\"\r\n        }}\r\n      >\r\n        Access to Exclusive Content\r\n      </span>\r\n    </li>\r\n  </ol>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>&nbsp;</span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>\r\n        Cultural Experience\r\n      </span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Gamescom isn’t just a gaming event; It is a celebration of gaming culture\r\n      at its best. From the moment you enter the venue, you can feel the gaming\r\n      atmosphere emanating from the Gamescom attractions.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      At Gamescom, you’ll be immersed in a truly unique gaming experience. The\r\n      attractions and activities cater to every imaginable gaming interest,\r\n      whether you enjoy competitive gaming competitions or want interactive\r\n      gaming experiences that push the boundaries of technology.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      In addition to showcasing gaming culture, Gamescom is also a hub for\r\n      gaming products. From collectibles to clothing, you’ll find a wide variety\r\n      of items that allow you to express your love of gaming and showcase your\r\n      favourite franchises. Gamescom also has its&nbsp;\r\n    </span>\r\n    <a href=\"https://www.gamescom.global/en/gamescom/gamescomwear\">\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n        own exclusive merchandise\r\n      </span>\r\n    </a>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      , which retails on its website.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      A few key features of the cultural experience at Gamescom are:\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <u>\r\n        <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n          A) Cosplay Village\r\n        </span>\r\n      </u>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      One of the highlights of Gamescom is the gaming cosplay scene. With the\r\n      ever-changing gaming space, cosplaying has become one of the most popular\r\n      aspects of gaming exhibitions.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Gamescom has a fantasy-like&nbsp;\r\n    </span>\r\n    <a href=\"https://www.gamescom.global/en/explore/areas/cosplay-village\">\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>cosplay village</span>\r\n    </a>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      . The village allows you to dress up as your favourite&nbsp;\r\n    </span>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      characters, immerse yourself in popular worlds, and create unforgettable\r\n      moments\r\n    </span>\r\n    .\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      &nbsp;Gamescom also has an infamous ‘best cosplay contest.’ The winner of\r\n      the cosplay contest is awarded with several exclusive game bundles, and of\r\n      course the winner’s crown.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <u>\r\n        <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n          B) Gamescom City Festival\r\n        </span>\r\n      </u>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Alongside the exciting gaming reports at Gamescom, attendees also have the\r\n      opportunity to immerse themselves within the vibrant ecosystem of\r\n      the&nbsp;\r\n    </span>\r\n    <a href=\"https://www.gamescom.global/en/explore/additional-program/gamescom-city-festival\">\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n        Gamescom City Festival\r\n      </span>\r\n    </a>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      . This open-air extravaganza takes place within the heart of Cologne,\r\n      Germany, and serves as a party those leading the gaming life.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      The Gamescom City Festival transforms the city streets into a gaming\r\n      paradise, with live music, unique performances, interactive sports, and\r\n      scrumptious foods and drinks. Attendees can discover various themed zones\r\n      devoted to special gaming genres, allowing them to dive deeper into their\r\n      preferred gaming worlds.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      From cosplay competitions to live esports tournaments, the Gamescom City\r\n      Festival offers non-stop amusement for game enthusiasts and spectators\r\n      alike. It's the perfect extravaganza to connect to fellow gaming fanatics,\r\n      meet industry professionals, and have a good time the in a festive and\r\n      inclusive surrounding.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Whether you take part in the cosplay parade, compete with friends in\r\n      gaming competitions, or soak in the vibrant atmosphere, the Gamescom City\r\n      Festival provides an additional layer of fun to the Gamescom experience.\r\n      It's an unmissable celebration that brings together gamers from around the\r\n      world collectively to create lasting memories and forge new friendships.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <u>\r\n        <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n          C) Global Footprint:\r\n        </span>\r\n      </u>\r\n    </strong>\r\n    <strong>\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n    </strong>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Thе Gamеscom City Fеstival boasts a rеmarkablе global footprint that\r\n      еxtеnds far bеyond thе city of Colognе, Gеrmany. As onе of thе largеst\r\n      gaming еvеnts in thе world, it attracts gamеrs, industry profеssionals,\r\n      and еnthusiasts from across thе globе. With livе strеams, onlinе covеragе,\r\n      and social mеdia еngagеmеnt, thе fеstival's rеach transcеnds physical\r\n      boundariеs, connеcting millions of pеoplе worldwidе.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Through gaming compеtitions, cultural showcasеs, and intеractivе\r\n      еxpеriеncеs, Gamеscom City Fеstival promotеs cross-cultural undеrstanding\r\n      and collaboration. It acts as a catalyst for thе global gaming community,\r\n      lеaving a significant impact on thе industry, fostеring intеrnational\r\n      connеctions, and contributing to thе еvеr-еxpanding global gaming culturе.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>\r\n        The Scope of Gamescom\r\n      </span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>&nbsp;</span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Gamescom, as certainly one of the most important gaming conventions within\r\n      the world, gives a large scope for gamers, enterprise professionals, and\r\n      enthusiasts alike. The occasion serves as a dynamic platform for\r\n      showcasing the cutting-edge online game titles, exploring gaming\r\n      enterprise developments, connecting with the gaming community, and\r\n      engaging with top-notch&nbsp;\r\n    </span>\r\n    <a href=\"https://b2b.gamescom.global/for-partners/\">\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n        Gamescom exhibitors.\r\n      </span>\r\n    </a>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      At Gamescom, the video games exhibition takes center stage. From highly\r\n      anticipated titles to progressive indie video games, attendees are treated\r\n      to a wide array of gaming experiences. It's possible to get hands-on\r\n      experience with the present-day releases, discover hidden gemstones, and\r\n      witness the contemporary improvements in the gaming industry. The\r\n      exhibition halls come alive with vibrant displays, interactive demos, and\r\n      attractive presentations that immerse visitors inside the gaming\r\n      sphere.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Moreover, Gamescom acts as a cosmopolitan hub for the gaming network.\r\n      Gamers from all over the globe converge to celebrate their love for\r\n      gaming, exchange stories, and shape connections. Whether you’re a casual\r\n      gamer or a professional gamer, Gamescom gives a space for networking,\r\n      collaboration, and constructing long-lasting relationships.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <u>\r\n        <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n          Content Creation at Gamescom:\r\n        </span>\r\n      </u>\r\n    </strong>\r\n    <strong>\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n    </strong>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Gamescom also offers participation as a&nbsp;\r\n    </span>\r\n    <a href=\"https://b2b.gamescom.global/press-creator/content-creator-streamer/\">\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>content creator</span>\r\n    </a>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      . Once accredited, a Gamescom creator enjoys several privileges such as\r\n      free access to the event, and a platform to showcase your talents. It\r\n      provides creators with a large audience base to entertain, as well as\r\n      providing them with a plethora of opportunities to create content.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <u>\r\n        <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n          Journalism at Gamescom:&nbsp;\r\n        </span>\r\n      </u>\r\n    </strong>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Gamescom offers journalists the opportunity to cover the event as an&nbsp;\r\n    </span>\r\n    <a href=\"https://b2b.gamescom.global/press-creator/participation-for-journalists/\">\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n        accredited journalist\r\n      </span>\r\n    </a>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      . They get access to the press release, and free access to the event, to\r\n      cover all 5 action packed days of Gamescom. Considering the booming\r\n      interest of the world in professional gaming, gaming journalism is an\r\n      incredible job market that has barely been explored. Gamescom provides\r\n      journalists with the opportunity to do so.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <u>\r\n        <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n          Professional Gaming at Gamescom\r\n        </span>\r\n      </u>\r\n    </strong>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      : As a gaming event, Gamescom acts as a competition for some of the\r\n      largest names in professional gaming to come together and compete. The\r\n      winners of the gaming tournaments often receive cash awards, along with\r\n      the fame that comes with it.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      The occasion additionally serves as a platform to gain insights into\r\n      gaming industry developments. From panel discussions to keynote\r\n      presentations, experts share their insights on advanced technologies,\r\n      industry trends, and the destiny of gaming. This treasured knowledge can\r\n      advantage developers, publishers, and aspiring professionals trying to\r\n      stay ahead on this unexpectedly evolving enterprise.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Gamescom is famed for its lineup of esteemed exhibitors. Leading sport\r\n      development studios, publishers, and hardware manufacturers show off their\r\n      trendy merchandise, offerings, and innovations. It's an opportunity for\r\n      attendees to engage with industry giants and interact with ground-breaking\r\n      technology.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>&nbsp;</span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>\r\n        Networking Opportunities\r\n      </span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - Networking at Gamescom allows attendees to interact with industry\r\n      leaders and gain insight into the latest gaming industry trends and\r\n      innovations.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - Keynote speakers will share their expertise, offering valuable industry\r\n      insights and thought-provoking discussions.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - These networking opportunities provide unique opportunities to expand\r\n      knowledge, exchange ideas and stay updated on the ever-changing game\r\n      landscape.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - Gamescom facilitates collaboration between developers, publishers and\r\n      industry partnerships, enabling collaboration, resource sharing and\r\n      collaboration in other industries.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - Such collaborations can lead to incredible gameplay, new technologies,\r\n      and revolutionary gaming experiences.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - The event brings together vibrant communities celebrating gaming culture\r\n      from casual gamers to esports enthusiasts. Interacting with fellow players\r\n      fosters new relationships, and creates new connections.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - Attendees have the opportunity to explore exhibits showcasing\r\n      cutting-edge technology, immersive gaming experiences and groundbreaking\r\n      hardware advancements\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - Interacting with exhibitors gives individuals first-hand knowledge of\r\n      these innovations, and opens the door to potential collaboration and\r\n      business opportunities.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      - Gamescom provides an environment where attendees can discover the future\r\n      of gaming and participate in the industry’s most exciting developments\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>&nbsp;</span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>\r\n        Access to Exclusive Content\r\n      </span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      One of the key attractions of Gamescom, Europe's largest gaming event, is\r\n      the exclusive access it provides to highly anticipated content. Attendees\r\n      are treated to a treasure trove of gaming delights. They gain access to\r\n      exceptional game demos, sneak peaks, behind the scene insight from\r\n      developers and creators, and of course, easter eggs.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      The access to such special content creates an electrifying ecosystem at\r\n      Gamescom, as attendees get a first-hand experience of the future of\r\n      gaming. It is a unique opportunity for attendees to enjoy highly\r\n      anticipated video games earlier than they hit the marketplace. From\r\n      immersive digital reality stories to arms-on demos of blockbuster titles,\r\n      Gamescom offers a front-row seat to the next era of gaming.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Moreover, Gamescom often features&nbsp;\r\n    </span>\r\n    <a href=\"https://youtu.be/e1vR-3dXAgs\">\r\n      <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n        one-of-a-kind announcements\r\n      </span>\r\n    </a>\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      &nbsp;and famous unveilings that generate buzz among the gaming community.\r\n      From unveiling new game trailers to announcing essential updates and\r\n      expansions, Gamescom becomes a hub of breaking news and exclusive content\r\n      that units the gaming world abuzz.\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <strong>\r\n      <span style={{ fontSize: 21, lineHeight: \"115%\" }}>Conclusion</span>\r\n    </strong>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      In conclusion, Gamescom is an illuminating gaming event that captivates\r\n      game enthusiasts and industry experts alike.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>\r\n      Gamescom offers a unique platform for showcasing the latest gaming\r\n      innovations, connecting enterprise giants, and presenting unforgettable\r\n      studies to gaming enthusiasts from round the arena. It is a hub of\r\n      creativity, collaboration, and excitement, where the paragon of gaming is\r\n      on display to the world.&nbsp;\r\n    </span>\r\n  </p>\r\n  <p\r\n    style={{\r\n      marginTop: \"0cm\",\r\n      marginRight: \"0cm\",\r\n      marginBottom: \"8.0pt\",\r\n      marginLeft: \"0cm\",\r\n      lineHeight: \"115%\",\r\n      fontSize: 15,\r\n      fontFamily: '\"Calibri\",sans-serif'\r\n    }}\r\n  >\r\n    <span style={{ fontSize: 19, lineHeight: \"115%\" }}>&nbsp;</span>\r\n  </p>\r\n"
+            "content": `<html xmlns:v="urn:schemas-microsoft-com:vml"
+            xmlns:o="urn:schemas-microsoft-com:office:office"
+            xmlns:w="urn:schemas-microsoft-com:office:word"
+            xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+            xmlns="http://www.w3.org/TR/REC-html40">
+            
+            <head>
+            <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+            <meta name=ProgId content=Word.Document>
+            <meta name=Generator content="Microsoft Word 15">
+            <meta name=Originator content="Microsoft Word 15">
+            <link rel=File-List href="Blog%205%20-%20Gamescom_files/filelist.xml">
+            <!--[if gte mso 9]><xml>
+             <o:DocumentProperties>
+              <o:Author>Kahaan Doshi</o:Author>
+              <o:Template>Normal</o:Template>
+              <o:LastAuthor>lakshit joshi</o:LastAuthor>
+              <o:Revision>2</o:Revision>
+              <o:TotalTime>2013</o:TotalTime>
+              <o:Created>2023-07-19T10:09:00Z</o:Created>
+              <o:LastSaved>2023-07-19T10:09:00Z</o:LastSaved>
+              <o:Pages>1</o:Pages>
+              <o:Words>1659</o:Words>
+              <o:Characters>9457</o:Characters>
+              <o:Lines>78</o:Lines>
+              <o:Paragraphs>22</o:Paragraphs>
+              <o:CharactersWithSpaces>11094</o:CharactersWithSpaces>
+              <o:Version>16.00</o:Version>
+             </o:DocumentProperties>
+             <o:OfficeDocumentSettings>
+              <o:AllowPNG/>
+             </o:OfficeDocumentSettings>
+            </xml><![endif]-->
+            <link rel=themeData href="Blog%205%20-%20Gamescom_files/themedata.thmx">
+            <link rel=colorSchemeMapping
+            href="Blog%205%20-%20Gamescom_files/colorschememapping.xml">
+            <!--[if gte mso 9]><xml>
+             <w:WordDocument>
+              <w:SpellingState>Clean</w:SpellingState>
+              <w:GrammarState>Clean</w:GrammarState>
+              <w:TrackMoves>false</w:TrackMoves>
+              <w:TrackFormatting/>
+              <w:PunctuationKerning/>
+              <w:ValidateAgainstSchemas/>
+              <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+              <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+              <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+              <w:DoNotPromoteQF/>
+              <w:LidThemeOther>EN-IN</w:LidThemeOther>
+              <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+              <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+              <w:Compatibility>
+               <w:BreakWrappedTables/>
+               <w:SnapToGridInCell/>
+               <w:WrapTextWithPunct/>
+               <w:UseAsianBreakRules/>
+               <w:DontGrowAutofit/>
+               <w:SplitPgBreakAndParaMark/>
+               <w:EnableOpenTypeKerning/>
+               <w:DontFlipMirrorIndents/>
+               <w:OverrideTableStyleHps/>
+              </w:Compatibility>
+              <m:mathPr>
+               <m:mathFont m:val="Cambria Math"/>
+               <m:brkBin m:val="before"/>
+               <m:brkBinSub m:val="&#45;-"/>
+               <m:smallFrac m:val="off"/>
+               <m:dispDef/>
+               <m:lMargin m:val="0"/>
+               <m:rMargin m:val="0"/>
+               <m:defJc m:val="centerGroup"/>
+               <m:wrapIndent m:val="1440"/>
+               <m:intLim m:val="subSup"/>
+               <m:naryLim m:val="undOvr"/>
+              </m:mathPr></w:WordDocument>
+            </xml><![endif]--><!--[if gte mso 9]><xml>
+             <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+              DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+              LatentStyleCount="376">
+              <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+              <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+              <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 5"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 6"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 7"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 8"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index 9"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 1"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 2"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 3"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 4"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 5"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 6"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 7"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 8"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" Name="toc 9"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Normal Indent"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="footnote text"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="annotation text"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="header"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="footer"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="index heading"/>
+              <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="table of figures"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="envelope address"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="envelope return"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="footnote reference"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="annotation reference"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="line number"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="page number"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="endnote reference"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="endnote text"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="table of authorities"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="macro"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="toa heading"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Bullet"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Number"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List 5"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Bullet 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Bullet 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Bullet 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Bullet 5"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Number 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Number 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Number 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Number 5"/>
+              <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Closing"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Signature"/>
+              <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+               UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text Indent"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Continue"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Continue 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Continue 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Continue 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="List Continue 5"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Message Header"/>
+              <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Salutation"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Date"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text First Indent"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text First Indent 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Note Heading"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text Indent 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Body Text Indent 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Block Text"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Hyperlink"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="FollowedHyperlink"/>
+              <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+              <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Document Map"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Plain Text"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="E-mail Signature"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Top of Form"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Bottom of Form"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Normal (Web)"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Acronym"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Address"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Cite"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Code"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Definition"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Keyboard"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Preformatted"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Sample"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Typewriter"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="HTML Variable"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Normal Table"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="annotation subject"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="No List"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Outline List 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Outline List 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Outline List 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Simple 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Simple 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Simple 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Classic 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Classic 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Classic 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Classic 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Colorful 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Colorful 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Colorful 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Columns 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Columns 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Columns 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Columns 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Columns 5"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 5"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 6"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 7"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Grid 8"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 4"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 5"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 6"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 7"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table List 8"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table 3D effects 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table 3D effects 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table 3D effects 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Contemporary"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Elegant"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Professional"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Subtle 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Subtle 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Web 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Web 2"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Web 3"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Balloon Text"/>
+              <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Table Theme"/>
+              <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+              <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+              <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+              <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+              <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+              <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+              <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+              <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+              <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+              <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+              <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+              <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+              <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+              <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+              <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+              <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+              <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+              <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+              <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+              <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+              <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+              <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+              <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+              <w:LsdException Locked="false" Priority="34" QFormat="true"
+               Name="List Paragraph"/>
+              <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+              <w:LsdException Locked="false" Priority="30" QFormat="true"
+               Name="Intense Quote"/>
+              <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+              <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+              <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+              <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+              <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+              <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+              <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+              <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+              <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+              <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+              <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+              <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+              <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+              <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+              <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+              <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+              <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+              <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+              <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+              <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+              <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+              <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+              <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+              <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+              <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+              <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+              <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+              <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+              <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+              <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+              <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+              <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+              <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+              <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+              <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+              <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+              <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+              <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+              <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+              <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+              <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+              <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+              <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+              <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+              <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+              <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+              <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+              <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+              <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+              <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+              <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+              <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+              <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+              <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+              <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+              <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+              <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+              <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+              <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+              <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+              <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+              <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+              <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+              <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+              <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+              <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+              <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+              <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+              <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+              <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+              <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+              <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+              <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+              <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+              <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+              <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+              <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+              <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+              <w:LsdException Locked="false" Priority="19" QFormat="true"
+               Name="Subtle Emphasis"/>
+              <w:LsdException Locked="false" Priority="21" QFormat="true"
+               Name="Intense Emphasis"/>
+              <w:LsdException Locked="false" Priority="31" QFormat="true"
+               Name="Subtle Reference"/>
+              <w:LsdException Locked="false" Priority="32" QFormat="true"
+               Name="Intense Reference"/>
+              <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+              <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+               UnhideWhenUsed="true" Name="Bibliography"/>
+              <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+               UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+              <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+              <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+              <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+              <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+              <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+              <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+              <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+              <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+              <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+              <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+              <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+              <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+              <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="Grid Table 1 Light Accent 1"/>
+              <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+              <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+              <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+              <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="Grid Table 6 Colorful Accent 1"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="Grid Table 7 Colorful Accent 1"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="Grid Table 1 Light Accent 2"/>
+              <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+              <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+              <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+              <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="Grid Table 6 Colorful Accent 2"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="Grid Table 7 Colorful Accent 2"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="Grid Table 1 Light Accent 3"/>
+              <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+              <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+              <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+              <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="Grid Table 6 Colorful Accent 3"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="Grid Table 7 Colorful Accent 3"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="Grid Table 1 Light Accent 4"/>
+              <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+              <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+              <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+              <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="Grid Table 6 Colorful Accent 4"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="Grid Table 7 Colorful Accent 4"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="Grid Table 1 Light Accent 5"/>
+              <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+              <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+              <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+              <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="Grid Table 6 Colorful Accent 5"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="Grid Table 7 Colorful Accent 5"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="Grid Table 1 Light Accent 6"/>
+              <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+              <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+              <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+              <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="Grid Table 6 Colorful Accent 6"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="Grid Table 7 Colorful Accent 6"/>
+              <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+              <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+              <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+              <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+              <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+              <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+              <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="List Table 1 Light Accent 1"/>
+              <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+              <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+              <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+              <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="List Table 6 Colorful Accent 1"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="List Table 7 Colorful Accent 1"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="List Table 1 Light Accent 2"/>
+              <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+              <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+              <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+              <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="List Table 6 Colorful Accent 2"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="List Table 7 Colorful Accent 2"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="List Table 1 Light Accent 3"/>
+              <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+              <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+              <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+              <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="List Table 6 Colorful Accent 3"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="List Table 7 Colorful Accent 3"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="List Table 1 Light Accent 4"/>
+              <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+              <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+              <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+              <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="List Table 6 Colorful Accent 4"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="List Table 7 Colorful Accent 4"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="List Table 1 Light Accent 5"/>
+              <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+              <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+              <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+              <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="List Table 6 Colorful Accent 5"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="List Table 7 Colorful Accent 5"/>
+              <w:LsdException Locked="false" Priority="46"
+               Name="List Table 1 Light Accent 6"/>
+              <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+              <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+              <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+              <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+              <w:LsdException Locked="false" Priority="51"
+               Name="List Table 6 Colorful Accent 6"/>
+              <w:LsdException Locked="false" Priority="52"
+               Name="List Table 7 Colorful Accent 6"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Mention"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Smart Hyperlink"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Hashtag"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Unresolved Mention"/>
+              <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+               Name="Smart Link"/>
+             </w:LatentStyles>
+            </xml><![endif]-->
+            <style>
+            <!--
+             /* Font Definitions */
+             @font-face
+                {font-family:Wingdings;
+                panose-1:5 0 0 0 0 0 0 0 0 0;
+                mso-font-charset:2;
+                mso-generic-font-family:auto;
+                mso-font-pitch:variable;
+                mso-font-signature:0 268435456 0 0 -2147483648 0;}
+            @font-face
+                {font-family:"Cambria Math";
+                panose-1:2 4 5 3 5 4 6 3 2 4;
+                mso-font-charset:0;
+                mso-generic-font-family:roman;
+                mso-font-pitch:variable;
+                mso-font-signature:3 0 0 0 1 0;}
+            @font-face
+                {font-family:Calibri;
+                panose-1:2 15 5 2 2 2 4 3 2 4;
+                mso-font-charset:0;
+                mso-generic-font-family:swiss;
+                mso-font-pitch:variable;
+                mso-font-signature:-469750017 -1040178053 9 0 511 0;}
+             /* Style Definitions */
+             p.MsoNormal, li.MsoNormal, div.MsoNormal
+                {mso-style-unhide:no;
+                mso-style-qformat:yes;
+                mso-style-parent:"";
+                margin-top:0cm;
+                margin-right:0cm;
+                margin-bottom:8.0pt;
+                margin-left:0cm;
+                line-height:107%;
+                mso-pagination:widow-orphan;
+                font-size:11.0pt;
+                font-family:"Calibri",sans-serif;
+                mso-ascii-font-family:Calibri;
+                mso-ascii-theme-font:minor-latin;
+                mso-fareast-font-family:Calibri;
+                mso-fareast-theme-font:minor-latin;
+                mso-hansi-font-family:Calibri;
+                mso-hansi-theme-font:minor-latin;
+                mso-bidi-font-family:"Times New Roman";
+                mso-bidi-theme-font:minor-bidi;
+                mso-font-kerning:1.0pt;
+                mso-ligatures:standardcontextual;
+                mso-fareast-language:EN-US;}
+            a:link, span.MsoHyperlink
+                {mso-style-priority:99;
+                color:#0563C1;
+                mso-themecolor:hyperlink;
+                text-decoration:underline;
+                text-underline:single;}
+            a:visited, span.MsoHyperlinkFollowed
+                {mso-style-noshow:yes;
+                mso-style-priority:99;
+                color:#954F72;
+                mso-themecolor:followedhyperlink;
+                text-decoration:underline;
+                text-underline:single;}
+            p
+                {mso-style-noshow:yes;
+                mso-style-priority:99;
+                mso-margin-top-alt:auto;
+                margin-right:0cm;
+                mso-margin-bottom-alt:auto;
+                margin-left:0cm;
+                mso-pagination:widow-orphan;
+                font-size:12.0pt;
+                font-family:"Times New Roman",serif;
+                mso-fareast-font-family:"Times New Roman";}
+            p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+                {mso-style-priority:34;
+                mso-style-unhide:no;
+                mso-style-qformat:yes;
+                margin-top:0cm;
+                margin-right:0cm;
+                margin-bottom:8.0pt;
+                margin-left:36.0pt;
+                mso-add-space:auto;
+                line-height:107%;
+                mso-pagination:widow-orphan;
+                font-size:11.0pt;
+                font-family:"Calibri",sans-serif;
+                mso-ascii-font-family:Calibri;
+                mso-ascii-theme-font:minor-latin;
+                mso-fareast-font-family:Calibri;
+                mso-fareast-theme-font:minor-latin;
+                mso-hansi-font-family:Calibri;
+                mso-hansi-theme-font:minor-latin;
+                mso-bidi-font-family:"Times New Roman";
+                mso-bidi-theme-font:minor-bidi;
+                mso-font-kerning:1.0pt;
+                mso-ligatures:standardcontextual;
+                mso-fareast-language:EN-US;}
+            p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+                {mso-style-priority:34;
+                mso-style-unhide:no;
+                mso-style-qformat:yes;
+                mso-style-type:export-only;
+                margin-top:0cm;
+                margin-right:0cm;
+                margin-bottom:0cm;
+                margin-left:36.0pt;
+                mso-add-space:auto;
+                line-height:107%;
+                mso-pagination:widow-orphan;
+                font-size:11.0pt;
+                font-family:"Calibri",sans-serif;
+                mso-ascii-font-family:Calibri;
+                mso-ascii-theme-font:minor-latin;
+                mso-fareast-font-family:Calibri;
+                mso-fareast-theme-font:minor-latin;
+                mso-hansi-font-family:Calibri;
+                mso-hansi-theme-font:minor-latin;
+                mso-bidi-font-family:"Times New Roman";
+                mso-bidi-theme-font:minor-bidi;
+                mso-font-kerning:1.0pt;
+                mso-ligatures:standardcontextual;
+                mso-fareast-language:EN-US;}
+            p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+                {mso-style-priority:34;
+                mso-style-unhide:no;
+                mso-style-qformat:yes;
+                mso-style-type:export-only;
+                margin-top:0cm;
+                margin-right:0cm;
+                margin-bottom:0cm;
+                margin-left:36.0pt;
+                mso-add-space:auto;
+                line-height:107%;
+                mso-pagination:widow-orphan;
+                font-size:11.0pt;
+                font-family:"Calibri",sans-serif;
+                mso-ascii-font-family:Calibri;
+                mso-ascii-theme-font:minor-latin;
+                mso-fareast-font-family:Calibri;
+                mso-fareast-theme-font:minor-latin;
+                mso-hansi-font-family:Calibri;
+                mso-hansi-theme-font:minor-latin;
+                mso-bidi-font-family:"Times New Roman";
+                mso-bidi-theme-font:minor-bidi;
+                mso-font-kerning:1.0pt;
+                mso-ligatures:standardcontextual;
+                mso-fareast-language:EN-US;}
+            p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+                {mso-style-priority:34;
+                mso-style-unhide:no;
+                mso-style-qformat:yes;
+                mso-style-type:export-only;
+                margin-top:0cm;
+                margin-right:0cm;
+                margin-bottom:8.0pt;
+                margin-left:36.0pt;
+                mso-add-space:auto;
+                line-height:107%;
+                mso-pagination:widow-orphan;
+                font-size:11.0pt;
+                font-family:"Calibri",sans-serif;
+                mso-ascii-font-family:Calibri;
+                mso-ascii-theme-font:minor-latin;
+                mso-fareast-font-family:Calibri;
+                mso-fareast-theme-font:minor-latin;
+                mso-hansi-font-family:Calibri;
+                mso-hansi-theme-font:minor-latin;
+                mso-bidi-font-family:"Times New Roman";
+                mso-bidi-theme-font:minor-bidi;
+                mso-font-kerning:1.0pt;
+                mso-ligatures:standardcontextual;
+                mso-fareast-language:EN-US;}
+            span.SpellE
+                {mso-style-name:"";
+                mso-spl-e:yes;}
+            .MsoChpDefault
+                {mso-style-type:export-only;
+                mso-default-props:yes;
+                font-family:"Calibri",sans-serif;
+                mso-ascii-font-family:Calibri;
+                mso-ascii-theme-font:minor-latin;
+                mso-fareast-font-family:Calibri;
+                mso-fareast-theme-font:minor-latin;
+                mso-hansi-font-family:Calibri;
+                mso-hansi-theme-font:minor-latin;
+                mso-bidi-font-family:"Times New Roman";
+                mso-bidi-theme-font:minor-bidi;
+                mso-fareast-language:EN-US;}
+            .MsoPapDefault
+                {mso-style-type:export-only;
+                margin-bottom:8.0pt;
+                line-height:107%;}
+            @page WordSection1
+                {size:595.3pt 841.9pt;
+                margin:72.0pt 72.0pt 72.0pt 72.0pt;
+                mso-header-margin:35.4pt;
+                mso-footer-margin:35.4pt;
+                mso-paper-source:0;}
+            div.WordSection1
+                {page:WordSection1;}
+             /* List Definitions */
+             @list l0
+                {mso-list-id:81293942;
+                mso-list-template-ids:-920331068;}
+            @list l0:level1
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:36.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Symbol;}
+            @list l0:level2
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:72.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:"Courier New";
+                mso-bidi-font-family:"Times New Roman";}
+            @list l0:level3
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:108.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l0:level4
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:144.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l0:level5
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:180.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l0:level6
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:216.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l0:level7
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:252.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l0:level8
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:288.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l0:level9
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:324.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l1
+                {mso-list-id:486483907;
+                mso-list-template-ids:437576512;}
+            @list l1:level1
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:36.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Symbol;}
+            @list l1:level2
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:72.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:"Courier New";
+                mso-bidi-font-family:"Times New Roman";}
+            @list l1:level3
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:108.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l1:level4
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:144.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l1:level5
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:180.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l1:level6
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:216.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l1:level7
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:252.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l1:level8
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:288.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l1:level9
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:324.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l2
+                {mso-list-id:1033113197;
+                mso-list-type:hybrid;
+                mso-list-template-ids:1324022062 242769306 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+            @list l2:level1
+                {mso-level-number-format:alpha-upper;
+                mso-level-text:"%1\)";
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l2:level2
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l2:level3
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l2:level4
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l2:level5
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l2:level6
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l2:level7
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l2:level8
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l2:level9
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l3
+                {mso-list-id:1103187017;
+                mso-list-type:hybrid;
+                mso-list-template-ids:-1749022408 1074331669 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+            @list l3:level1
+                {mso-level-number-format:alpha-upper;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l3:level2
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l3:level3
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l3:level4
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l3:level5
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l3:level6
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l3:level7
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l3:level8
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l3:level9
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l4
+                {mso-list-id:1374161683;
+                mso-list-template-ids:574553258;}
+            @list l4:level1
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:36.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Symbol;}
+            @list l4:level2
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:72.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:"Courier New";
+                mso-bidi-font-family:"Times New Roman";}
+            @list l4:level3
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:108.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l4:level4
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:144.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l4:level5
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:180.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l4:level6
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:216.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l4:level7
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:252.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l4:level8
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:288.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l4:level9
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:324.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l5
+                {mso-list-id:1384479690;
+                mso-list-type:hybrid;
+                mso-list-template-ids:801657880 -1730122328 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+            @list l5:level1
+                {mso-level-number-format:alpha-upper;
+                mso-level-text:%1>;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l5:level2
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l5:level3
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l5:level4
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l5:level5
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l5:level6
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l5:level7
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l5:level8
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l5:level9
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l6
+                {mso-list-id:1467119276;
+                mso-list-type:hybrid;
+                mso-list-template-ids:-229600510 1074331669 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+            @list l6:level1
+                {mso-level-number-format:alpha-upper;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l6:level2
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l6:level3
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l6:level4
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l6:level5
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l6:level6
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l6:level7
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l6:level8
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l6:level9
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l7
+                {mso-list-id:1488091856;
+                mso-list-template-ids:-1182258792;}
+            @list l7:level1
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:36.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Symbol;}
+            @list l7:level2
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:72.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:"Courier New";
+                mso-bidi-font-family:"Times New Roman";}
+            @list l7:level3
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:108.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l7:level4
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:144.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l7:level5
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:180.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l7:level6
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:216.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l7:level7
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:252.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l7:level8
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:288.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l7:level9
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:324.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l8
+                {mso-list-id:1569219267;
+                mso-list-template-ids:1181483198;}
+            @list l8:level1
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0B7;
+                mso-level-tab-stop:36.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Symbol;}
+            @list l8:level2
+                {mso-level-number-format:bullet;
+                mso-level-text:o;
+                mso-level-tab-stop:72.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:"Courier New";
+                mso-bidi-font-family:"Times New Roman";}
+            @list l8:level3
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:108.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l8:level4
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:144.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l8:level5
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:180.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l8:level6
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:216.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l8:level7
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:252.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l8:level8
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:288.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l8:level9
+                {mso-level-number-format:bullet;
+                mso-level-text:\F0A7;
+                mso-level-tab-stop:324.0pt;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;
+                mso-ansi-font-size:10.0pt;
+                font-family:Wingdings;}
+            @list l9
+                {mso-list-id:1676230642;
+                mso-list-type:hybrid;
+                mso-list-template-ids:-363577066 111426238 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+            @list l9:level1
+                {mso-level-number-format:alpha-upper;
+                mso-level-text:"%1\)";
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l9:level2
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l9:level3
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l9:level4
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l9:level5
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l9:level6
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l9:level7
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l9:level8
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l9:level9
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l10
+                {mso-list-id:1886409221;
+                mso-list-type:hybrid;
+                mso-list-template-ids:-1565391100 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+            @list l10:level1
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l10:level2
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l10:level3
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l10:level4
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l10:level5
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l10:level6
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l10:level7
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l10:level8
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                text-indent:-18.0pt;}
+            @list l10:level9
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                text-indent:-9.0pt;}
+            @list l11
+                {mso-list-id:1956519523;
+                mso-list-type:hybrid;
+                mso-list-template-ids:-23936754 1074331669 1074331673 1074331675 1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+            @list l11:level1
+                {mso-level-number-format:alpha-upper;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:72.0pt;
+                text-indent:-18.0pt;}
+            @list l11:level2
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:108.0pt;
+                text-indent:-18.0pt;}
+            @list l11:level3
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                margin-left:144.0pt;
+                text-indent:-9.0pt;}
+            @list l11:level4
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:180.0pt;
+                text-indent:-18.0pt;}
+            @list l11:level5
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:216.0pt;
+                text-indent:-18.0pt;}
+            @list l11:level6
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                margin-left:252.0pt;
+                text-indent:-9.0pt;}
+            @list l11:level7
+                {mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:288.0pt;
+                text-indent:-18.0pt;}
+            @list l11:level8
+                {mso-level-number-format:alpha-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:left;
+                margin-left:324.0pt;
+                text-indent:-18.0pt;}
+            @list l11:level9
+                {mso-level-number-format:roman-lower;
+                mso-level-tab-stop:none;
+                mso-level-number-position:right;
+                margin-left:360.0pt;
+                text-indent:-9.0pt;}
+            ol
+                {margin-bottom:0cm;}
+            ul
+                {margin-bottom:0cm;}
+            -->
+            </style>
+            <!--[if gte mso 10]>
+            <style>
+             /* Style Definitions */
+             table.MsoNormalTable
+                {mso-style-name:"Table Normal";
+                mso-tstyle-rowband-size:0;
+                mso-tstyle-colband-size:0;
+                mso-style-noshow:yes;
+                mso-style-priority:99;
+                mso-style-parent:"";
+                mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+                mso-para-margin-top:0cm;
+                mso-para-margin-right:0cm;
+                mso-para-margin-bottom:8.0pt;
+                mso-para-margin-left:0cm;
+                line-height:107%;
+                mso-pagination:widow-orphan;
+                font-size:11.0pt;
+                font-family:"Calibri",sans-serif;
+                mso-ascii-font-family:Calibri;
+                mso-ascii-theme-font:minor-latin;
+                mso-hansi-font-family:Calibri;
+                mso-hansi-theme-font:minor-latin;
+                mso-bidi-font-family:"Times New Roman";
+                mso-bidi-theme-font:minor-bidi;
+                mso-font-kerning:1.0pt;
+                mso-ligatures:standardcontextual;
+                mso-fareast-language:EN-US;}
+            </style>
+            <![endif]--><!--[if gte mso 9]><xml>
+             <o:shapedefaults v:ext="edit" spidmax="1026"/>
+            </xml><![endif]--><!--[if gte mso 9]><xml>
+             <o:shapelayout v:ext="edit">
+              <o:idmap v:ext="edit" data="1"/>
+             </o:shapelayout></xml><![endif]-->
+            </head>
+            
+            <body lang=EN-IN link="#0563C1" vlink="#954F72" style='tab-interval:36.0pt;
+            word-wrap:break-word'>
+            
+            <div class=WordSection1>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Introduction<o:p></o:p></span></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Welcome to </span><a
+            href="https://www.gamescom.global/en" target="_blank"><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;mso-font-kerning:0pt;mso-ligatures:none;
+            mso-fareast-language:EN-IN'>Gamescom</span></a><span style='font-size:14.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>, Europe's
+            biggest gaming event and exhibition, where the <span class=SpellE>Suprano</span>
+            exhibition manufacturing company brings your gaming dreams to life. As a
+            leading provider of exhibition planning services, <span class=SpellE>Suprano</span>
+            is excited to partner with Gamescom exhibitors in creating compelling brand
+            experiences We work tirelessly to produce exhibitions and build new exhibition
+            halls that make a lasting impact on the vibrant gaming community.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>This year,
+            Gamescom will be held in Cologne, Germany on the dates 23<sup>rd</sup> to 27<sup>th</sup>
+            August, 2023. </span><span style='font-size:14.0pt;line-height:115%;color:white;
+            mso-themecolor:background1'>Irrespective of your background, Gamescom is for
+            everyone. You could be an industry insider, a passionate gamer or simply
+            curious about the world of gaming, Gamescom is the perfect place to explore and
+            meet like-minded people, and experience the energy of</span><span
+            style='font-size:14.0pt;line-height:115%'> </span><a
+            href="https://supranoexhibits.com/top-trade-shows-in-dubai-and-europe-2022/"><span
+            style='font-size:14.0pt;line-height:115%'>Europe's biggest gaming event and
+            expo</span></a><span style='font-size:14.0pt;line-height:115%;color:white;
+            mso-themecolor:background1'>, constructed by <span class=SpellE>Suprano</span>.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;color:white;mso-themecolor:background1'>Table of Content:<o:p></o:p></span></b></p>
+            
+            <p class=MsoListParagraphCxSpFirst style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:
+            115%;mso-list:l10 level1 lfo12'><![if !supportLists]><span style='font-size:
+            14.0pt;line-height:115%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+            color:white;mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;
+            mso-fareast-language:EN-IN'><span style='mso-list:Ignore'>1.<span
+            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'>Cultural Experience<o:p></o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:
+            115%;mso-list:l10 level1 lfo12'><![if !supportLists]><span style='font-size:
+            14.0pt;line-height:115%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+            color:white;mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;
+            mso-fareast-language:EN-IN'><span style='mso-list:Ignore'>2.<span
+            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'>The Scope of Gamescom<o:p></o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:
+            115%;mso-list:l10 level1 lfo12'><![if !supportLists]><span style='font-size:
+            14.0pt;line-height:115%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+            color:white;mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;
+            mso-fareast-language:EN-IN'><span style='mso-list:Ignore'>3.<span
+            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'>Networking Opportunities<o:p></o:p></span></p>
+            
+            <p class=MsoListParagraphCxSpLast style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+            auto;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:
+            115%;mso-list:l10 level1 lfo12'><![if !supportLists]><span style='font-size:
+            14.0pt;line-height:115%;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+            color:white;mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;
+            mso-fareast-language:EN-IN'><span style='mso-list:Ignore'>4.<span
+            style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'>Access to Exclusive Content<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'><o:p>&nbsp;</o:p></span></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Cultural
+            Experience<o:p></o:p></span></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Gamescom
+            isn't just a gaming event; It is a celebration of gaming culture at its best.
+            From the moment you enter the venue, you can feel the gaming atmosphere
+            emanating from the Gamescom attractions. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>At
+            Gamescom, you'll be immersed in a truly unique gaming experience. The
+            attractions and activities cater to every imaginable gaming interest, whether
+            you enjoy competitive gaming competitions or want interactive gaming
+            experiences that push the boundaries of technology.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>In addition
+            to showcasing gaming culture, Gamescom is also a hub for gaming products. From
+            collectibles to clothing, you'll find a wide variety of items that allow you to
+            express your love of gaming and showcase your favourite franchises. Gamescom
+            also has its </span><a
+            href="https://www.gamescom.global/en/gamescom/gamescomwear" target="_blank"><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-font-kerning:
+            0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>own exclusive merchandise</span></a><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'>, which retails on its website.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>A few key
+            features of the cultural experience at Gamescom are:<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><u><span style='font-size:14.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>A) Cosplay
+            Village<o:p></o:p></span></u></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>One of the
+            highlights of Gamescom is the gaming cosplay scene. With the ever-changing
+            gaming space, cosplaying has become one of the most popular aspects of gaming
+            exhibitions. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Gamescom
+            has a fantasy-like</span><span style='font-size:14.0pt;line-height:115%;
+            mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;mso-font-kerning:0pt;mso-ligatures:none;
+            mso-fareast-language:EN-IN'> </span><a
+            href="https://www.gamescom.global/en/explore/areas/cosplay-village" target="_blank"><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-font-kerning:
+            0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>cosplay village</span></a><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'>. The village allows you to dress up as your favourite </span><span
+            style='font-size:14.0pt;line-height:115%;color:white;mso-themecolor:background1'>characters,
+            immerse yourself in popular worlds, and create unforgettable moments</span><span
+            style='color:white;mso-themecolor:background1'>.</span><span style='font-size:
+            14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'> Gamescom
+            also has an infamous best cosplay contest. The winner of the cosplay contest
+            is awarded with several exclusive game bundles, and of course the winner's
+            crown. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><u><span style='font-size:14.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>B) Gamescom
+            City Festival<o:p></o:p></span></u></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Alongside
+            the exciting gaming reports at Gamescom, attendees also have the opportunity to
+            immerse themselves within the vibrant ecosystem of the</span><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-font-kerning:
+            0pt;mso-ligatures:none;mso-fareast-language:EN-IN'> </span><a
+            href="https://www.gamescom.global/en/explore/additional-program/gamescom-city-festival" target="_blank"><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-font-kerning:
+            0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Gamescom City Festival</span></a><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'>. This open-air extravaganza takes place within the heart of Cologne,
+            Germany, and serves as a party those leading the gaming life.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>The
+            Gamescom City Festival transforms the city streets into a gaming paradise, with
+            live music, unique performances, interactive sports, and scrumptious foods and
+            drinks. Attendees can discover various themed zones devoted to special gaming
+            genres, allowing them to dive deeper into their preferred gaming worlds.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>From
+            cosplay competitions to live esports tournaments, the Gamescom City Festival
+            offers non-stop amusement for game enthusiasts and spectators alike. It's the
+            perfect extravaganza to connect to fellow gaming fanatics, meet industry
+            professionals, and have a good time the in a festive and inclusive surrounding.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Whether you
+            take part in the cosplay parade, compete with friends in gaming competitions,
+            or soak in the vibrant atmosphere, the Gamescom City Festival provides an
+            additional layer of fun to the Gamescom experience. It's an unmissable
+            celebration that brings together gamers from around the world collectively to
+            create lasting memories and forge new friendships.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><u><span style='font-size:14.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>C) Global
+            Footprint:</span></u></b><b><span style='font-size:14.0pt;line-height:115%;
+            mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'> </span></b><span
+            class=SpellE><span style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:
+            "Times New Roman";mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+            color:white;mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;
+            mso-fareast-language:EN-IN'>Th&#1077;</span></span><span style='font-size:14.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'> <span
+            class=SpellE>Gam&#1077;scom</span> City <span class=SpellE>F&#1077;stival</span>
+            boasts a <span class=SpellE>r&#1077;markabl&#1077;</span> global footprint that
+            <span class=SpellE>&#1077;xt&#1077;nds</span> far <span class=SpellE>b&#1077;yond</span>
+            <span class=SpellE>th&#1077;</span> city of <span class=SpellE>Cologn&#1077;</span>,
+            <span class=SpellE>G&#1077;rmany</span>. As <span class=SpellE>on&#1077;</span>
+            of <span class=SpellE>th&#1077;</span> <span class=SpellE>larg&#1077;st</span>
+            gaming <span class=SpellE>&#1077;v&#1077;nts</span> in <span class=SpellE>th&#1077;</span>
+            world, it attracts <span class=SpellE>gam&#1077;rs</span>, industry <span
+            class=SpellE>prof&#1077;ssionals</span>, and <span class=SpellE>&#1077;nthusiasts</span>
+            from across <span class=SpellE>th&#1077;</span> <span class=SpellE>glob&#1077;</span>.
+            With <span class=SpellE>liv&#1077;</span> <span class=SpellE>str&#1077;ams</span>,
+            <span class=SpellE>onlin&#1077;</span> <span class=SpellE>cov&#1077;rag&#1077;</span>,
+            and social <span class=SpellE>m&#1077;dia</span> <span class=SpellE>&#1077;ngag&#1077;m&#1077;nt</span>,
+            <span class=SpellE>th&#1077;</span> <span class=SpellE>f&#1077;stival's</span> <span
+            class=SpellE>r&#1077;ach</span> <span class=SpellE>transc&#1077;nds</span>
+            physical <span class=SpellE>boundari&#1077;s</span>, <span class=SpellE>conn&#1077;cting</span>
+            millions of <span class=SpellE>p&#1077;opl&#1077;</span> <span class=SpellE>worldwid&#1077;</span>.
+            <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Through
+            gaming <span class=SpellE>comp&#1077;titions</span>, cultural <span
+            class=SpellE>showcas&#1077;s</span>, and <span class=SpellE>int&#1077;ractiv&#1077;</span>
+            <span class=SpellE>&#1077;xp&#1077;ri&#1077;nc&#1077;s</span>, <span
+            class=SpellE>Gam&#1077;scom</span> City <span class=SpellE>F&#1077;stival</span>
+            <span class=SpellE>promot&#1077;s</span> cross-cultural <span class=SpellE>und&#1077;rstanding</span>
+            and collaboration. It acts as a catalyst for <span class=SpellE>th&#1077;</span>
+            global gaming community, <span class=SpellE>l&#1077;aving</span> a significant
+            impact on <span class=SpellE>th&#1077;</span> industry, <span class=SpellE>fost&#1077;ring</span>
+            <span class=SpellE>int&#1077;rnational</span> <span class=SpellE>conn&#1077;ctions</span>,
+            and contributing to <span class=SpellE>th&#1077;</span> <span class=SpellE>&#1077;v&#1077;r-&#1077;xpanding</span>
+            global gaming <span class=SpellE>cultur&#1077;</span>.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'><o:p>&nbsp;</o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>The Scope
+            of Gamescom<o:p></o:p></span></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Gamescom,
+            as certainly one of the most important gaming conventions within the world,
+            gives a large scope for gamers, enterprise professionals, and enthusiasts
+            alike. The occasion serves as a dynamic platform for showcasing the
+            cutting-edge online game titles, exploring gaming enterprise developments,
+            connecting with the gaming community, and engaging with top-notch </span><a
+            href="https://b2b.gamescom.global/for-partners/" target="_blank"><span style='font-size:14.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;mso-font-kerning:0pt;mso-ligatures:
+            none;mso-fareast-language:EN-IN'>Gamescom exhibitors.</span></a><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-font-kerning:
+            0pt;mso-ligatures:none;mso-fareast-language:EN-IN'><o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>At
+            Gamescom, the video games exhibition takes <span class=SpellE>center</span>
+            stage. From highly anticipated titles to progressive indie video games,
+            attendees are treated to a wide array of gaming experiences. It's possible to
+            get hands-on experience with the present-day releases, discover hidden
+            gemstones, and witness the contemporary improvements in the gaming industry.
+            The exhibition halls come alive with vibrant displays, interactive demos, and
+            attractive presentations that immerse visitors inside the gaming sphere. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Moreover,
+            Gamescom acts as a cosmopolitan hub for the gaming network. Gamers from all
+            over the globe converge to celebrate their love for gaming, exchange stories,
+            and shape connections. Whether you're a casual gamer or a professional gamer,
+            Gamescom gives a space for networking, collaboration, and constructing long-lasting
+            relationships.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><u><span style='font-size:14.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Content
+            Creation at Gamescom:</span></u></b><b><span style='font-size:14.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'> </span></b><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'>Gamescom also offers participation as a </span><a
+            href="https://b2b.gamescom.global/press-creator/content-creator-streamer/" target="_blank"><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-font-kerning:
+            0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>content creator</span></a><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'>. Once accredited, a Gamescom creator enjoys several privileges such as
+            free access to the event, and a platform to showcase your talents. It provides
+            creators with a large audience base to entertain, as well as providing them
+            with a plethora of opportunities to create content<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><u><span style='font-size:14.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Journalism
+            at Gamescom: </span></u></b><span style='font-size:14.0pt;line-height:115%;
+            mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Gamescom offers
+            journalists the opportunity to cover the event as an </span><a
+            href="https://b2b.gamescom.global/press-creator/participation-for-journalists/" target="_blank"><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-font-kerning:
+            0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>accredited journalist</span></a><u><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#4472C4;
+            mso-themecolor:accent1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'>s</span></u><span style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:
+            "Times New Roman";mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+            color:white;mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;
+            mso-fareast-language:EN-IN'>. They get access to the press release, and free
+            access to the event, to cover all 5 action packed days of Gamescom. Considering
+            the booming interest of the world in professional gaming, gaming journalism is
+            an incredible job market that has barely been explored. Gamescom provides
+            journalists with the opportunity to do so.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><u><span style='font-size:14.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Professional
+            Gaming at Gamescom</span></u></b><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>: As a
+            gaming event, Gamescom acts as a competition for some of the largest names in
+            professional gaming to come together and compete. The winners of the gaming
+            tournaments often receive cash awards, along with the fame that comes with it. <span
+            style='mso-spacerun:yes'></span><o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>The
+            occasion additionally serves as a platform to gain insights into gaming
+            industry developments. From panel discussions to keynote presentations, experts
+            share their insights on advanced technologies, industry trends, and the destiny
+            of gaming. This treasured knowledge can advantage developers, publishers, and
+            aspiring professionals trying to stay ahead on this unexpectedly evolving
+            enterprise.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Gamescom is
+            famed for its lineup of esteemed exhibitors. Leading sport development studios,
+            publishers, and hardware manufacturers show off their trendy merchandise,
+            offerings, and innovations. It's an opportunity for attendees to engage with
+            industry giants and interact with ground-breaking technology.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'><o:p>&nbsp;</o:p></span></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Networking
+            Opportunities<o:p></o:p></span></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>-
+            Networking at Gamescom allows attendees to interact with industry leaders and
+            gain insight into the latest gaming industry trends and innovations.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>- Keynote
+            speakers will share their expertise, offering valuable industry insights and
+            thought-provoking discussions.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>- These
+            networking opportunities provide unique opportunities to expand knowledge,
+            exchange ideas and stay updated on the ever-changing game landscape.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>- Gamescom
+            facilitates collaboration between developers, publishers and industry
+            partnerships, enabling collaboration, resource sharing and collaboration in
+            other industries.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>- Such
+            collaborations can lead to incredible gameplay, new technologies, and
+            revolutionary gaming experiences.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>- The event
+            brings together vibrant communities celebrating gaming culture from casual
+            gamers to esports enthusiasts. Interacting with fellow players fosters new
+            relationships, and creates new connections.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>- Attendees
+            have the opportunity to explore exhibits showcasing cutting-edge technology,
+            immersive gaming experiences and groundbreaking hardware advancements<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>-
+            Interacting with exhibitors gives individuals first-hand knowledge of these
+            innovations, and opens the door to potential collaboration and business
+            opportunities.<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>- Gamescom
+            provides an environment where attendees can discover the future of gaming and
+            participate in the industry's most exciting developments<o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'><o:p>&nbsp;</o:p></span></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Access to
+            Exclusive Content<o:p></o:p></span></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>One of the
+            key attractions of Gamescom, Europe's largest gaming event, is the exclusive
+            access it provides to highly anticipated content. Attendees are treated to a
+            treasure trove of gaming delights. They gain access to exceptional game demos,
+            sneak peaks, behind the scene insight from developers and creators, and of
+            course, easter eggs. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>The access
+            to such special content creates an electrifying ecosystem at Gamescom, as
+            attendees get a first-hand experience of the future of gaming. It is a unique
+            opportunity for attendees to enjoy highly anticipated video games earlier than they
+            hit the marketplace. From immersive digital reality stories to arms-on demos of
+            blockbuster titles, Gamescom offers a front-row seat to the next era of gaming.
+            <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><span style='font-size:14.0pt;line-height:
+            115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Moreover,
+            Gamescom often features</span><span style='font-size:14.0pt;line-height:115%;
+            mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;mso-font-kerning:0pt;mso-ligatures:none;
+            mso-fareast-language:EN-IN'> </span><a href="https://youtu.be/e1vR-3dXAgs" target="_blank"><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-font-kerning:
+            0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>one-of-a-kind announcements</span></a><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-font-kerning:
+            0pt;mso-ligatures:none;mso-fareast-language:EN-IN'> <span style='color:white;
+            mso-themecolor:background1'>and famous unveilings that generate buzz among the
+            gaming community. From unveiling new game trailers to announcing essential
+            updates and expansions, Gamescom becomes a hub of breaking news and exclusive
+            content that units the gaming world abuzz.<o:p></o:p></span></span></p>
+            
+            <p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt;
+            line-height:107%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'><o:p>&nbsp;</o:p></span></b></p>
+            
+            <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+            text-align:justify;line-height:115%'><b><span style='font-size:16.0pt;
+            line-height:115%;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
+            Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1;
+            mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>Conclusion</span></b><span
+            style='font-size:14.0pt;line-height:115%;mso-fareast-font-family:"Times New Roman";
+            mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
+            mso-themecolor:background1;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+            EN-IN'><o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='text-align:justify;line-height:115%'><span
+            style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1'>In
+            conclusion, Gamescom is an illuminating gaming event that captivates game
+            enthusiasts and industry experts alike. <o:p></o:p></span></p>
+            
+            <p class=MsoNormal style='text-align:justify;line-height:115%'><span
+            style='font-size:14.0pt;line-height:115%;mso-bidi-font-family:Calibri;
+            mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1'>Gamescom
+            offers a unique platform for showcasing the latest gaming innovations,
+            connecting enterprise giants, and presenting unforgettable studies to gaming
+            enthusiasts from round the arena. It is a hub of creativity, collaboration, and
+            excitement, where the paragon of gaming is on display to the world. <o:p></o:p></span></p>
+            
+            </div>
+            
+            </body>
+            
+            </html>
+            `
         }
     ]
 }

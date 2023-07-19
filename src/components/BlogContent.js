@@ -1,4 +1,4 @@
-import { React, useEffect } from 'react'
+import { React } from 'react'
 import '../stylesheets/BlogPage.css'
 import BlogForm from './BlogForm'
 
@@ -10,7 +10,7 @@ const BlogContent = ( { content } ) => {
   }
   return (
     <div id='blogContentContainer'>
-      <iframe id='blogContent' srcDoc={content.content} onLoad={setIframeHeight}></iframe>
+      <iframe id='blogContent' srcDoc={content.content} onLoad={setIframeHeight} title='blog'></iframe>
       <BlogForm />
     </div>
   )
