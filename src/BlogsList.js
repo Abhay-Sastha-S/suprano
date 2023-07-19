@@ -215,7 +215,7 @@ export const BlogsList = {
             key asset in transforming medical pavilions at Arab Health into displays of
             science, technology and innovation. Over the past few years, our company has
             had the privilege of designing and constructing exceptional </span><a
-            href="https://supranoexhibits.com/portfolio/" target="_blank"><span style='font-size:14.0pt;
+            href="https://supranoexhibits.com/Portfolio/" target="_blank"><span style='font-size:14.0pt;
             font-family:"Times New Roman",serif;'>exhibition stands and
             booths</span></a><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
             color:black;'> </span><span style='font-size:14.0pt;font-family:
@@ -3518,7 +3518,7 @@ export const BlogsList = {
             0pt;mso-ligatures:none;mso-fareast-language:EN-IN'> and DSEI London go hand in
             hand. We have had the privilege of working with several defence industry whales
             at DSEI London, and </span><span style='color:#0070C0'><a
-            href="https://supranoexhibits.com/portfolio/" target="_blank"><span style='font-size:14.0pt;
+            href="https://supranoexhibits.com/Portfolio/" target="_blank"><span style='font-size:14.0pt;
             line-height:115%;mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
             mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:#0070C0;
             mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-IN'>constructing
@@ -6058,7 +6058,7 @@ export const BlogsList = {
             115%;color:white;mso-themecolor:background1'>Emerging Trends in Aerospace
             Engineering</span><span style='font-size:14.0pt;line-height:115%'> </span><a
             href="https://www.sciencedirect.com/science/article/pii/S2351978918303464" target="_blank"><span
-            style='font-size:14.0pt;line-height:115%'>https://www.sciencedirect.com/science/article/pii/ S2351978918303464</span></a><span
+            style='font-size:14.0pt;line-height:115%'>https://www.sciencedirect.com/science/article/pii/S2351978918303 464</span></a><span
             style='font-size:14.0pt;line-height:115%'><o:p></o:p></span></p>
             
             <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
@@ -6066,7 +6066,7 @@ export const BlogsList = {
             115%;color:white;mso-themecolor:background1'>Recent Trends in Aeronautical
             Engineering </span><a
             href="https://www.sciencedirect.com/science/article/pii/S2351978918303464" target="_blank"><span
-            style='font-size:14.0pt;line-height:115%'>https://www.sciencedirect.com/science/article/pii/ S2351978918303464</span></a><span
+            style='font-size:14.0pt;line-height:115%'>https://www.sciencedirect.com/science/article/pii/S2351978918303 464</span></a><span
             style='font-size:14.0pt;line-height:115%'><o:p></o:p></span></p>
             
             <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
@@ -8033,7 +8033,7 @@ export const BlogsList = {
             curious about the world of gaming, Gamescom is the perfect place to explore and
             meet like-minded people, and experience the energy of</span><span
             style='font-size:14.0pt;line-height:115%'> </span><a
-            href="https://supranoexhibits.com/top-trade-shows-in-dubai-and-europe-2022/"><span
+            href="https://supranoexhibits.com/Portfolio" target="_blank"><span
             style='font-size:14.0pt;line-height:115%'>Europe's biggest gaming event and
             expo</span></a><span style='font-size:14.0pt;line-height:115%;color:white;
             mso-themecolor:background1'>, constructed by <span class=SpellE>Suprano</span>.<o:p></o:p></span></p>
