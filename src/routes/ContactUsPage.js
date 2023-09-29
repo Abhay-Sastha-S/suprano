@@ -31,8 +31,14 @@ export const ContactUsPage = () => {
     return(
         <div>
             <Helmet>
-                <title>Hire the Best Exhibition Booth Design Services | Suprano Exhibits</title>
-                <meta name="description" content="Elevate your events with exceptional exhibition booth design services in Middle East. Our expert team of Middle East exhibition booth designers and project managers provide custom trade show booth solutions and seamless execution. Contact us for unparalleled results."></meta>
+            <title>Premier Exhibition Booth Construction Company | Suprano Exhibits</title>
+        <meta name='description' content='Suprano Exhibits is a top exhibition stand builder in Middle East, specializing in innovative exhibition booth design, fabrication, and event management services. '/>
+        <meta name='og:title' content='Suprano Exhibits.'/>
+        <meta name='og:description' content='Suprano Exhibits is a top exhibition stand builder in Middle East, specializing in innovative exhibition booth design, fabrication, and event management services.'/>
+        <link rel='canonical' href='http://localhost:3000/'></link>
+        <meta name='og:type' content='website'/>
+        <meta name='og:image' content='/test_files/test.png.ico'/>
+        <meta name='og:url' content='https://supranoexhibits.com/'/>
             </Helmet>
             <div className="keyword" style={{display:"none"}}>
             Hire the Best Exhibition Booth Design Services in Dubai	

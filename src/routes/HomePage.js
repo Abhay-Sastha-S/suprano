@@ -103,8 +103,16 @@ export const HomePage = () => {
   return (
     <div className='root-div'>
       <Helmet>
-        <title>Premier Exhibition Booth Construction Company | Suprano Exhibits</title>
-        <meta name='description' content='Suprano Exhibits is a top exhibition stand builder in Middle East, specializing in innovative exhibition booth design, fabrication, and event management services. Trust our expertise in exhibition project management and deliver an exceptional brand experience.'></meta>
+      
+    <title>Premier Exhibition Booth Construction Company | Suprano Exhibits</title>
+        <meta name='description' content='Suprano Exhibits is a top exhibition stand builder in Middle East, specializing in innovative exhibition booth design, fabrication, and event management services. '></meta>
+      <meta name='og:title' content='Suprano Exhibits.'></meta>
+        <meta name='og:description' content='Suprano Exhibits is a top exhibition stand builder in Middle East, specializing in innovative exhibition booth design, fabrication, and event management services.'></meta>
+        <link rel='canonical' href='http://localhost:3000/'></link>
+        <meta name='og:type' content='website'></meta>
+        <meta name='og:image' content='https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FImage&psig=AOvVaw3xxiDoyf7FqKdXy2u_nIMJ&ust=1696078425128000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDkltLuz4EDFQAAAAAdAAAAABAE'></meta>
+        <meta name='og:url' content='http://localhost:3000/'></meta>
+   
       </Helmet>
       <div className="keyword" style={{display:"none"}}>
       Exhibition booth construction company

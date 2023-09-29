@@ -29,8 +29,14 @@ export const Portfolio = () =>{
     return(
         <div className="portfolio-Wrapper">
             <Helmet>
-                <title>Leading Exhibition Stand Builders Middle East | Suprano Exhibits</title>
-                <meta name="description" content="Suprano Exhibits is Middle East's premier exhibition stand construction company, showcasing an exceptional portfolio of exhibition stand projects. Discover our innovative designs, high-quality booth construction, and successful stand builds in the Middle East market."></meta>
+            <title>Premier Exhibition Booth Construction Company | Suprano Exhibits</title>
+        <meta name='description' content='Suprano Exhibits is a top exhibition stand builder in Middle East, specializing in innovative exhibition booth design, fabrication, and event management services. '></meta>
+      <meta name='og:title' content='Suprano Exhibits.'></meta>
+        <meta name='og:description' content='Suprano Exhibits is a top exhibition stand builder in Middle East, specializing in innovative exhibition booth design, fabrication, and event management services.'></meta>
+        <link rel='canonical' href='http://localhost:3000/'></link>
+        <meta name='og:type' content='website'></meta>
+        <meta name='og:image' content='/test_files/test.png.ico'></meta>
+        <meta name='og:url' content='https://supranoexhibits.com/'></meta>
             </Helmet>
             <div className="keyword" style={{display:"none"}}>
                 Leading exhibition stand builders in Middle East

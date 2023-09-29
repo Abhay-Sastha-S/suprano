@@ -4,7 +4,7 @@ import NavBar from '../components/NavBar'
 import Menu from '../components/Menu';
 import Footer from '../components/Footer';
 import BlogContent from '../components/BlogContent';
-
+import Helmet from 'react-helmet';
 const BlogTemplate = ({ content }) => {
   console.log(content)
     const showMenu = () => {
@@ -27,6 +27,16 @@ const BlogTemplate = ({ content }) => {
       }
   return (
     <div id='blogParentContainer'>
+    <Helmet>
+    <title>Premier Exhibition Booth Construction Company | Suprano Exhibits</title>
+        <meta name='description' content='Suprano Exhibits is a top exhibition stand builder in Middle East, specializing in innovative exhibition booth design, fabrication, and event management services. '></meta>
+      <meta name='og:title' content='Suprano Exhibits.'></meta>
+        <meta name='og:description' content='Suprano Exhibits is a top exhibition stand builder in Middle East, specializing in innovative exhibition booth design, fabrication, and event management services.'></meta>
+        <link rel='canonical' href='http://localhost:3000/'></link>
+        <meta name='og:type' content='website'></meta>
+        <meta name='og:image' content='/test_files/test.png.ico'></meta>
+        <meta name='og:url' content='https://supranoexhibits.com/'></meta>
+    </Helmet>
         <NavBar showMenu={showMenu} />
       <Menu hideMenu={hideMenu} />
       <BlogHeader content={content}/>
