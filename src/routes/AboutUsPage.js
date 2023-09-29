@@ -27,7 +27,7 @@ const AboutUsPage = () => {
   return (
     <div>
       <Helmet>
-      <title>Premier Exhibition Booth Construction Company | Suprano Exhibits</title>
+      <title>Suprano Exhibits</title>
         <meta name='description' content='Suprano Exhibits is a top exhibition stand builder in Middle East, specializing in innovative exhibition booth design, fabrication, and event management services. '></meta>
       <meta name='og:title' content='Suprano Exhibits.'></meta>
         <meta name='og:description' content='Suprano Exhibits is a top exhibition stand builder in Middle East, specializing in innovative exhibition booth design, fabrication, and event management services.'></meta>
