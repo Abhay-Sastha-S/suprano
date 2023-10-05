@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3000/Abous Us</loc>
+    <loc>https://sup-manaslaud.vercel.app/Abous Us</loc>
     <lastmod>29-9-2023</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:3000/Services</loc>
+    <loc>https://sup-manaslaud.vercel.app/Services</loc>
     <lastmod>29-9-2023</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost:3000/Portfolio</loc>
+    <loc>https://sup-manaslaud.vercel.app/Portfolio</loc>
     <lastmod>29-9-2023</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://localhost:3000/Abous Us</loc>
+    <loc>https://sup-manaslaud.vercel.app/Abous Us</loc>
     <lastmod>29-9-2023</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
