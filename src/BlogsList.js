@@ -163,7 +163,7 @@ export const BlogsList = {
             
             <h3 class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Table of Content:</span></b></h2>
+            color:white;'>Table of Content:</span></b></h3>
             
             <h3 class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;text-align:justify;
             text-indent:-18.0pt;line-height:normal'><span style='font-size:14.0pt;
