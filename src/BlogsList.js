@@ -97,9 +97,9 @@ export const BlogsList = {
             
             <div class=WordSection1>
             
-            <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+            <h2 class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><b><u><span style='font-size:18.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Arab Health 2024: Opening Doors to Opportunity</span></u></b></p>
+            color:white;'>Arab Health 2024: Opening Doors to Opportunity</span></u></b></h2>
             
             <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><b><span style='font-size:18.0pt;font-family:"Times New Roman",serif;
@@ -161,41 +161,41 @@ export const BlogsList = {
             normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
             color:white;'>&nbsp;</span></p>
             
-            <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+            <h3 class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Table of Content:</span></b></p>
+            color:white;'>Table of Content:</span></b></h2>
             
-            <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;text-align:justify;
+            <h3 class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;text-align:justify;
             text-indent:-18.0pt;line-height:normal'><span style='font-size:14.0pt;
             font-family:"Times New Roman",serif;color:white'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
             </span></span><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Partnering with Suprano</span></p>
+            color:white;'>Partnering with Suprano</span></h3>
             
-            <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-align:justify;
+            <h3 class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-align:justify;
             text-indent:-18.0pt;line-height:normal'><span style='font-size:14.0pt;
             font-family:"Times New Roman",serif;color:white'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
             </span></span><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Features and Opportunities at Arab Health</span></p>
+            color:white;'>Features and Opportunities at Arab Health</span></h3>
             
-            <p class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-align:justify;
+            <h3 class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-align:justify;
             text-indent:-18.0pt;line-height:normal'><span style='font-size:14.0pt;
             font-family:"Times New Roman",serif;color:white'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
             </span></span><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Arab Health 2023</span></p>
+            color:white;'>Arab Health 2023</span></h2>
             
-            <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;text-align:justify;
+            <h3 class=MsoListParagraphCxSpLast style='margin-bottom:0cm;text-align:justify;
             text-indent:-18.0pt;line-height:normal'><span style='font-size:14.0pt;
             font-family:"Times New Roman",serif;color:white'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
             </span></span><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Attractions at Dubai</span></p>
+            color:white;'>Attractions at Dubai</span></>
             
             <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
             color:white;'>&nbsp;</span></p>
             
-            <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+            <p4 class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Lets dive in.</span></p>
+            color:white;'>Lets dive in.</span></p4>
             
             <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
@@ -232,9 +232,9 @@ export const BlogsList = {
             normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
             color:white;'>&nbsp;</span></p>
             
-            <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+            <h3 class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Features and Opportunities at Arab Health</span></b></p>
+            color:white;'>Features and Opportunities at Arab Health</span></b></h3>
             
             <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
@@ -287,9 +287,9 @@ export const BlogsList = {
             normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
             color:white;'>&nbsp;</span></p>
             
-            <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+            <h3 class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Arab Health 2023</span></b></p>
+            color:white;'>Arab Health 2023</span></b></h3>
             
             <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
@@ -313,9 +313,9 @@ export const BlogsList = {
             normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
             color:white;'>&nbsp;</span></p>
             
-            <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+            <h3 class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Attractions at Dubai</span></b></p>
+            color:white;'>Attractions at Dubai</span></b></h3>
             
             <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
@@ -412,9 +412,9 @@ export const BlogsList = {
             normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
             color:white;'>&nbsp;</span></p>
             
-            <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+            <h3 class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Conclusion</span></b></p>
+            color:white;'>Conclusion</span></b></h3>
             
             <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
