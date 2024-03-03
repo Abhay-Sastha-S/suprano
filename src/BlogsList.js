@@ -169,7 +169,7 @@ export const BlogsList = {
             text-indent:-18.0pt;line-height:normal'><span style='font-size:14.0pt;
             font-family:"Times New Roman",serif;color:white'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
             </span></span><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Partnering with Suprano</span></h3>
+            color:white;'> Partnering with Suprano</span></h3>
             
             <h3 class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-align:justify;
             text-indent:-18.0pt;line-height:normal'><span style='font-size:14.0pt;
@@ -181,29 +181,29 @@ export const BlogsList = {
             text-indent:-18.0pt;line-height:normal'><span style='font-size:14.0pt;
             font-family:"Times New Roman",serif;color:white'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
             </span></span><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Arab Health 2023</span></h2>
+            color:white;'>Arab Health 2023</span></h3>
             
             <h3 class=MsoListParagraphCxSpLast style='margin-bottom:0cm;text-align:justify;
             text-indent:-18.0pt;line-height:normal'><span style='font-size:14.0pt;
             font-family:"Times New Roman",serif;color:white'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
             </span></span><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Attractions at Dubai</span></>
+            color:white;'>Attractions at Dubai</span></h3>
             
             <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
             color:white;'>&nbsp;</span></p>
             
-            <p4 class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+            <h3 class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Lets dive in.</span></p4>
+            color:white;'>Lets dive in.</span></h3>
             
             <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
             color:white;'>&nbsp;</span></b></p>
             
-            <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+            <h3 class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Partnering with Suprano</span></b></p>
+            color:white;'>Partnering with Suprano</span></b></h3>
             
             <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
@@ -211,7 +211,7 @@ export const BlogsList = {
             
             <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Suprano is proud to be a consistent partner and a
+            color:white;'>  Suprano is proud to be a consistent partner and a
             key asset in transforming medical pavilions at Arab Health into displays of
             science, technology and innovation. Over the past few years, our company has
             had the privilege of designing and constructing exceptional </span><a
