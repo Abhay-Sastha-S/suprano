@@ -165,25 +165,25 @@ export const BlogsList = {
             normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
             color:white;'>Table of Content:</span></b></h3>
             
-            <h3 class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;text-align:justify;
+            <h5 class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;text-align:justify;
             text-indent:-18.0pt;line-height:normal'><span style='font-size:14.0pt;
             font-family:"Times New Roman",serif;color:white'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
             </span></span><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'> Partnering with Suprano</span></h3>
+            color:white;'> Partnering with Suprano</span></h5>
             
-            <h3 class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-align:justify;
+            <h5 class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-align:justify;
             text-indent:-18.0pt;line-height:normal'><span style='font-size:14.0pt;
             font-family:"Times New Roman",serif;color:white'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
             </span></span><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Features and Opportunities at Arab Health</span></h3>
+            color:white;'>Features and Opportunities at Arab Health</span></h5>
             
-            <h3 class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-align:justify;
+            <h5 class=MsoListParagraphCxSpMiddle style='margin-bottom:0cm;text-align:justify;
             text-indent:-18.0pt;line-height:normal'><span style='font-size:14.0pt;
             font-family:"Times New Roman",serif;color:white'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
             </span></span><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Arab Health 2023</span></h3>
+            color:white;'>Arab Health 2023</span></h5>
             
-            <h3 class=MsoListParagraphCxSpLast style='margin-bottom:0cm;text-align:justify;
+            <h5 class=MsoListParagraphCxSpLast style='margin-bottom:0cm;text-align:justify;
             text-indent:-18.0pt;line-height:normal'><span style='font-size:14.0pt;
             font-family:"Times New Roman",serif;color:white'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
             </span></span><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
@@ -193,9 +193,9 @@ export const BlogsList = {
             normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
             color:white;'>&nbsp;</span></p>
             
-            <h3 class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
+            <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
-            color:white;'>Lets dive in.</span></h3>
+            color:white;'>Lets dive in.</span></p>
             
             <p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:
             normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif;
