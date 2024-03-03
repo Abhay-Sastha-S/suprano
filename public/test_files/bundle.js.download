@@ -17538,7 +17538,7 @@ const HomePage = () => {
         columnNumber: 9
       }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_15__.jsxDEV)("meta", {
         name: "description",
-        content: "Suprano Exhibits is a top exhibition stand builder in Middle East, specializing in innovative exhibition booth design, fabrication, and event management services. Trust our expertise in exhibition project management and deliver an exceptional brand experience."
+        content: "Suprano Exhibits: Top Middle East stand builder. Specializing in innovative booth design, fabrication, and event management. Delivering exceptional brand experiences."
       }, void 0, false, {
         fileName: _jsxFileName,
         lineNumber: 107,

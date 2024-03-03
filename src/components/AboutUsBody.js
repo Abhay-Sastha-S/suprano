@@ -63,11 +63,11 @@ const AboutUsBody = () => {
 
         <div>
             <div className='aboutUsBodyText wm-Cont' >
-                <p className='aboutUsBodyTitle blue spl sel-head'> Global Expertise</p>
-                <p className='aboutUsBodyDesc sel-desc'>With a global footprint, our expansive network includes connections in major cities around the world.  Our projects in and around the Middle East, Europe, North and South America have left an indelible mark worldwide.</p> 
+                <p className='aboutUsBodyDesc sel-desc'>At Suprano, we specialize in creating custom exhibit designs that stand the test of time. Our immersive experiences weave together storytelling and design, resulting in showstoppers that capture the unique essence of each brand. Our commitment to quality and sophistication is unparalleled, as we carefully craft visual marvels that transcend time and trend.</p>
+                <p className='aboutUsBodyDesc sel-desc'>Our global network of connections includes major cities around the world, with projects leaving an indelible mark in the Middle East, Europe, North and South America. Our team of expert designers and innovators work together to create bespoke creations that meet the unique needs of our distinguished clientele.</p>
             </div>
             <br /><br />
-            <WorldMap />
+            <WorldMap alt="World map showing Suprano's global connections and projects in major cities around the world" />
         </div>
     </div>
   )
