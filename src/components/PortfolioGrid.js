@@ -83,7 +83,7 @@ const PortfolioGrid = () => {
         <div className="grid-Wrapper">
             <div className='video-Player'>
                <Close sx={{fontSize:40}} className='vid-icon'></Close>
-            </div>
+           </div>
         <div className='portGrid-Cont'>
             {
                 grid_items.map((el,index)=>(
