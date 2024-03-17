@@ -83,7 +83,7 @@ export const grid_items = [
         title: "C.E. Niehoff & Co",
         desc: "DSEI 2023-London",
         video: "",
-        class: "small",
+        class: "main",
         img_lis: [cen]
     },
     {
@@ -123,7 +123,7 @@ export const grid_items = [
         title: "Palantir",
         desc: "DSEI 2023-London",
         video: "",
-        class: "small",
+        class: "main",
         img_lis: [palantir]
     },
     {
@@ -148,7 +148,7 @@ export const grid_items = [
         title: "AstroPhysics",
         desc: "Milipol 2023-Paris",
         video: "",
-        class: "main",
+        class: "small",
         img_lis: [asp,asp1]
     },
     {
