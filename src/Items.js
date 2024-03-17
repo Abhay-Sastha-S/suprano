@@ -1,4 +1,4 @@
-import am1 from './assets/images/AlMani/am1.jpg'
+
 import alps1 from './assets/images/Alps/alps1.jpg'
 import as1 from './assets/images/AlSeedawi/as1.jpg'
 import as2 from './assets/images/AlSeedawi/as2.jpg'
@@ -43,7 +43,6 @@ import sm1 from './assets/images/StanfordMedicine/sm1.jpg'
 import sm2 from './assets/images/StanfordMedicine/sm2.jpg'
 import sm3 from './assets/images/StanfordMedicine/sm3.jpg'
 import sultan1 from './assets/images/Sultan/sultan1.jpg'
-import synqoraix1 from './assets/images/SynqorAIX/synqor1.jpg'
 import synqoridex1 from './assets/images/SynqorIDEX/synqor1.jpeg'
 import tss1 from './assets/images/TSS/tss1.jpg'
 import tss2 from './assets/images/TSS/tss2.jpg'
@@ -62,6 +61,13 @@ import services3 from './assets/images/components/services3.png'
 import services4 from './assets/images/components/services4.jpeg'
 import services5 from './assets/images/components/services5.jpeg'
 import services6 from './assets/images/components/services6.jpg'
+
+import pointblank from  "./assets/images/abhay update/PHOTO-2023-11-17-08-51-53.jpg"
+import leapers from "./assets/images/abhay update/PHOTO-2023-11-17-08-51-43.jpg"
+import asp from  "./assets/images/abhay update/PHOTO-2023-11-17-08-51-43 2.jpg"
+import asp1 from  "./assets/images/abhay update/PHOTO-2023-11-17-08-51-43 3.jpg"
+import asp2 from "./assets/images/abhay update/PHOTO-2023-11-17-08-51-43 4.jpg"
+import kodak from  "./assets/images/abhay update/PHOTO-2023-10-16-12-12-31.jpg"
 
 export const grid_items = [
     {
@@ -261,14 +267,7 @@ export const grid_items = [
         class:"main",
         img_lis:[elegance1]
     },
-    {
-        image:synqoraix1,
-        title:"Synqor",
-        desc:`AIX Hamburg 2023-Germany`,
-        video:"",
-        class:"small",
-        img_lis:[synqoraix1]
-    },
+
 
 
     { 
@@ -306,14 +305,7 @@ export const grid_items = [
         class:"small",
         img_lis:[as1, as2, as3]
     }, 
-    {
-        image:am1,
-        title:"Al Mani",
-        desc:"Gulf Food 2021-Dubai",
-        video:"",
-        class:"main",
-        img_lis:[am1]
-    },
+
 
 
 
