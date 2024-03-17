@@ -73,7 +73,7 @@ export const grid_items = [
     {
         image:pointblank,
         title: "PointBlank",
-        desc: "MILIPOL 2023 - Paris",
+        desc: "MILIPOL 2023 Paris",
         video: "",
         class: "small",
         img_lis: [pointblank]
@@ -82,15 +82,15 @@ export const grid_items = [
     {
         image:asp,
         title: "AstroPhysics",
-        desc: "Milipol Paris 2023",
+        desc: "Milipol 2023 Paris",
         video: "",
-        class: "long",
+        class: "main",
         img_lis: [asp,asp1]
     },
     {
         image:bal,
         title: "EDI USA",
-        desc: "Milipol Paris 2023",
+        desc: "Milipol 2023 Paris",
         video: "",
         class: "small",
         img_lis: [bal]
@@ -98,7 +98,7 @@ export const grid_items = [
     {
         image:leapers,
         title: "LEAPERS",
-        desc: "Milipol Paris 2023",
+        desc: "Milipol 2023  Paris",
         video: "",
         class: "small",
         img_lis: [leapers]
@@ -106,7 +106,7 @@ export const grid_items = [
     {
         image:kodak,
         title: "Kodak",
-        desc: "GITEX 2023 - Dubai",
+        desc: "GITEX 2023  Dubai",
         video: "",
         class: "small",
         img_lis: [kodak]
