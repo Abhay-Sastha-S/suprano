@@ -69,11 +69,75 @@ import asp from  "./assets/images/abhay update/aaaaaa/PHOTO-2023-11-17-08-51-43 
 import asp1 from  "./assets/images/abhay update/aaaaaa/PHOTO-2023-11-17-08-51-43 3.jpg"
 import kodak from  "./assets/images/abhay update/PHOTO-2023-10-16-12-12-31.jpg"
 import bal from "./assets/images/abhay update/aaaaaa/PHOTO-2023-11-17-08-51-43 4.jpg"
+
+import snc from "./assets/images/abhay update/IMG_5750.jpg"
+import palantir from  "./assets/images/abhay update/IMG_5761.jpg"
+import synqor from  "./assets/images/abhay update/IMG_5773.jpg"
+import pb from './assets/images/abhay update/IMG_5816.jpg '
+import cen from './assets/images/abhay update/IMG_5756.jpg'
+import dis from  './assets/images/abhay update/IMG_5771.jpg'
+import iv from  "./assets/images/abhay update/IMG_5775.jpg"
 export const grid_items = [
+    {
+        image:cen,
+        title: "C.E. Niehoff & Co",
+        desc: "DSEI 2023-London",
+        video: "",
+        class: "small",
+        img_lis: [cen]
+    },
+    {
+        image:dis,
+        title: "DISPEL",
+        desc: "DSEI 2023-London",
+        video: "",
+        class: "small",
+        img_lis: [dis]
+    },
+    {
+        image:iv,
+        title: "InVeris",
+        desc: "DSEI 2023-London",
+        video: "",
+        class: "small",
+        img_lis: [iv]
+    },
+    {
+        image:pb,
+        title: "PointBlank",
+        desc: "DSEI 2023-London",
+        video: "",
+        class: "small",
+        img_lis: [pb]
+    },
+    {
+        image:synqor,
+        title: "SynQor",
+        desc: "DSEI 2023-London",
+        video: "",
+        class: "small",
+        img_lis: [synqor]
+    },
+    {
+        image:palantir,
+        title: "Palantir",
+        desc: "DSEI 2023-London",
+        video: "",
+        class: "small",
+        img_lis: [palantir]
+    },
+    {
+        image:snc,
+        title: "SNC",
+        desc: "DSEI 2023-London",
+        video: "",
+        class: "small",
+        img_lis: [snc]
+    },
     {
         image:pointblank,
         title: "PointBlank",
-        desc: "MILIPOL 2023 Paris",
+        desc: "MILIPOL 2023-Paris",
         video: "",
         class: "small",
         img_lis: [pointblank]
@@ -82,7 +146,7 @@ export const grid_items = [
     {
         image:asp,
         title: "AstroPhysics",
-        desc: "Milipol 2023     Paris",
+        desc: "Milipol 2023-Paris",
         video: "",
         class: "main",
         img_lis: [asp,asp1]
