@@ -143,7 +143,6 @@ export const grid_items = [
         class:"main",
         img_lis:[etihad1, etihad2]
     },
-    
     {
         image:kodak1,
         title:"Kodak",
@@ -247,10 +246,14 @@ export const grid_items = [
         class:"main",
         img_lis:[goldleaf1, vannah1]
     },
-
-
-
-
+    {
+        image:kodak,
+        title: "Kodak",
+        desc: "GITEX 2023 - Dubai",
+        video: "",
+        class: "main",
+        img_lis: [kodak]
+    },
     {
         image:bbm1,
         title:"BBM",
