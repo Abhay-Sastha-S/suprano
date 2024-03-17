@@ -151,14 +151,14 @@ export const grid_items = [
         class: "small",
         img_lis: [asp,asp1]
     },
-    {
-        image:bal,
-        title: "EDI USA",
-        desc: "Milipol 2023-Paris",
-        video: "",
-        class: "small",
-        img_lis: [bal]
-    },
+    // {
+    //     image:bal,
+    //     title: "EDI USA",
+    //     desc: "Milipol 2023-Paris",
+    //     video: "",
+    //     class: "small",
+    //     img_lis: [bal]
+    // },
     {
         image:leapers,
         title: "LEAPERS",
