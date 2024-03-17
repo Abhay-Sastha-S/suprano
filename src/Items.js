@@ -63,15 +63,46 @@ import services4 from './assets/images/components/services4.jpeg'
 import services5 from './assets/images/components/services5.jpeg'
 import services6 from './assets/images/components/services6.jpg'
 
-import pointblank from  "./assets/images/abhay update/PHOTO-2023-11-17-08-51-53.jpg"
+import pointblank from  './assets/images/abhay update/PHOTO-2023-11-17-08-51-53.jpg'
 import leapers from "./assets/images/abhay update/PHOTO-2023-11-17-08-51-43.jpg"
 import asp from  "./assets/images/abhay update/PHOTO-2023-11-17-08-51-43 2.jpg"
 import asp1 from  "./assets/images/abhay update/PHOTO-2023-11-17-08-51-43 3.jpg"
-import asp2 from "./assets/images/abhay update/PHOTO-2023-11-17-08-51-43 4.jpg"
 import kodak from  "./assets/images/abhay update/PHOTO-2023-10-16-12-12-31.jpg"
-
+import bal from "./assets/images/abhay update/PHOTO-2023-11-17-08-51-43 4.jpg"
 export const grid_items = [
+    {
+        image:pointblank,
+        title: "PointBlank",
+        desc: "MILIPOL 2023 - Paris",
+        video: "",
+        class: "small",
+        img_lis: [pointblank]
+    },
 
+    {
+        image:asp,
+        title: "AstroPhysics",
+        desc: "Milipol Paris 2023",
+        video: "",
+        class: "long",
+        img_lis: [asp,asp1]
+    },
+    {
+        image:bal,
+        title: "EDI USA",
+        desc: "Milipol Paris 2023",
+        video: "",
+        class: "small",
+        img_lis: [bal]
+    },
+    {
+        image:leapers,
+        title: "LEAPERS",
+        desc: "Milipol Paris 2023",
+        video: "",
+        class: "small",
+        img_lis: [leapers]
+    },
     {
         image:kodak,
         title: "Kodak",
