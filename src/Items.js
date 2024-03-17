@@ -73,18 +73,17 @@ import bal from "./assets/images/abhay update/aaaaaa/PHOTO-2023-11-17-08-51-43 4
 import snc from "./assets/images/abhay update/IMG_5750.jpg"
 import palantir from  "./assets/images/abhay update/IMG_5761.jpg"
 import synqor from  "./assets/images/abhay update/IMG_5773.jpg"
-//import pb from './assets/images/abhay update/IMG_5816.jpg '
 import cen from './assets/images/abhay update/IMG_5756.jpg'
 import dis from  './assets/images/abhay update/IMG_5771.jpg'
 import iv from  "./assets/images/abhay update/IMG_5775.jpg"
 export const grid_items = [
     {
-        image:cen,
-        title: "C.E. Niehoff & Co",
+        image:palantir,
+        title: "Palantir",
         desc: "DSEI 2023-London",
         video: "",
         class: "main",
-        img_lis: [cen]
+        img_lis: [palantir]
     },
     {
         image:dis,
@@ -96,20 +95,12 @@ export const grid_items = [
     },
     {
         image:iv,
-        title: "InVeris",
+        title: "Georgia",
         desc: "DSEI 2023-London",
         video: "",
         class: "small",
         img_lis: [iv]
     },
-    // {
-    //     image:pb,
-    //     title: "PointBlank",
-    //     desc: "DSEI 2023-London",
-    //     video: "",
-    //     class: "small",
-    //     img_lis: [pb]
-    // },
     {
         image:synqor,
         title: "SynQor",
@@ -119,16 +110,16 @@ export const grid_items = [
         img_lis: [synqor]
     },
     {
-        image:palantir,
-        title: "Palantir",
+        image:cen,
+        title: "C.E. Niehoff & Co",
         desc: "DSEI 2023-London",
         video: "",
         class: "main",
-        img_lis: [palantir]
+        img_lis: [cen]
     },
     {
         image:snc,
-        title: "SNC",
+        title: "Sierra Nevada",
         desc: "DSEI 2023-London",
         video: "",
         class: "small",
@@ -142,22 +133,13 @@ export const grid_items = [
         class: "small",
         img_lis: [pointblank]
     },
-
-    {
-        image:asp,
-        title: "AstroPhysics",
-        desc: "Milipol 2023-Paris",
-        video: "",
-        class: "small",
-        img_lis: [asp,asp1]
-    },
     // {
-    //     image:bal,
-    //     title: "EDI USA",
+    //     image:asp,
+    //     title: "AstroPhysics",
     //     desc: "Milipol 2023-Paris",
     //     video: "",
     //     class: "small",
-    //     img_lis: [bal]
+    //     img_lis: [asp,asp1]
     // },
     {
         image:leapers,
