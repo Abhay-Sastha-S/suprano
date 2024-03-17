@@ -83,8 +83,6 @@ const PortfolioGrid = () => {
         <div className="grid-Wrapper">
             <div className='video-Player'>
                <Close sx={{fontSize:40}} className='vid-icon'></Close>
-               <CloseIcon  sx={{fontSize: 30}} style={{color: "white", position: "absolute", top: "2%", right: "4%"}} onClick={hideMenu} ></CloseIcon>
-
             </div>
         <div className='portGrid-Cont'>
             {
@@ -98,7 +96,6 @@ const PortfolioGrid = () => {
                 ))
             }
         </div>
-        <CloseIcon  sx={{fontSize: 30}} style={{color: "white", position: "absolute", top: "2%", right: "4%"}} onClick={hideMenu} ></CloseIcon>
         </div>
     )
 }
