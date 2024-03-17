@@ -82,7 +82,7 @@ export const grid_items = [
     {
         image:asp,
         title: "AstroPhysics",
-        desc: "Milipol 2023 Paris",
+        desc: "Milipol 2023     Paris",
         video: "",
         class: "main",
         img_lis: [asp,asp1]
@@ -90,7 +90,7 @@ export const grid_items = [
     {
         image:bal,
         title: "EDI USA",
-        desc: "Milipol 2023 Paris",
+        desc: "Milipol 2023     Paris",
         video: "",
         class: "small",
         img_lis: [bal]
@@ -98,7 +98,7 @@ export const grid_items = [
     {
         image:leapers,
         title: "LEAPERS",
-        desc: "Milipol 2023  Paris",
+        desc: "Milipol 2023     Paris",
         video: "",
         class: "small",
         img_lis: [leapers]
