@@ -102,14 +102,14 @@ export const grid_items = [
         class: "small",
         img_lis: [iv]
     },
-    {
-        image:pb,
-        title: "PointBlank",
-        desc: "DSEI 2023-London",
-        video: "",
-        class: "small",
-        img_lis: [pb]
-    },
+    // {
+    //     image:pb,
+    //     title: "PointBlank",
+    //     desc: "DSEI 2023-London",
+    //     video: "",
+    //     class: "small",
+    //     img_lis: [pb]
+    // },
     {
         image:synqor,
         title: "SynQor",
