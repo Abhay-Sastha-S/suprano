@@ -43,6 +43,7 @@ import sm1 from './assets/images/StanfordMedicine/sm1.jpg'
 import sm2 from './assets/images/StanfordMedicine/sm2.jpg'
 import sm3 from './assets/images/StanfordMedicine/sm3.jpg'
 import sultan1 from './assets/images/Sultan/sultan1.jpg'
+import synqoraix1 from './assets/images/SynqorAIX/synqor1.jpg'
 import synqoridex1 from './assets/images/SynqorIDEX/synqor1.jpeg'
 import tss1 from './assets/images/TSS/tss1.jpg'
 import tss2 from './assets/images/TSS/tss2.jpg'
@@ -70,6 +71,15 @@ import asp2 from "./assets/images/abhay update/PHOTO-2023-11-17-08-51-43 4.jpg"
 import kodak from  "./assets/images/abhay update/PHOTO-2023-10-16-12-12-31.jpg"
 
 export const grid_items = [
+
+    {
+        image:kodak,
+        title: "Kodak",
+        desc: "GITEX 2023 - Dubai",
+        video: "",
+        class: "small",
+        img_lis: [kodak]
+    },
     {
         image:gd1,
         title:"General Dynamics",
@@ -79,7 +89,6 @@ export const grid_items = [
         img_lis:[gd1, gd2]
     },
     {
-        
         image:fz1,
         title:"Famiglia Zanlorenzi",
         desc:`SSW 2019-Maastricht`,
@@ -192,7 +201,6 @@ export const grid_items = [
         class:"main",
         img_lis:[spookfish1, spookfish2 ,spookfish3, spookfish4, spookfish5]
     },
-
     {
         image:mc1,
         title:"Mayo Clinic",
@@ -217,9 +225,6 @@ export const grid_items = [
         class:"main",
         img_lis:[capsa1, capsa2]
     },
-
-
-
     {
         image:sm1,
         title:"Stanford Medicine",
@@ -228,7 +233,6 @@ export const grid_items = [
         class:"main",
         img_lis:[sm1, sm2, sm3]
     },
-
     {
         image:bmj1,
         title:"BMJ",
@@ -236,8 +240,7 @@ export const grid_items = [
         video:"",
         class:"small",
         img_lis:[bmj1]
-    },
-    
+    },   
     {
         image:goldleaf1,
         title:"Goldleaf",
@@ -245,14 +248,6 @@ export const grid_items = [
         video:"",
         class:"main",
         img_lis:[goldleaf1, vannah1]
-    },
-    {
-        image:kodak,
-        title: "Kodak",
-        desc: "GITEX 2023 - Dubai",
-        video: "",
-        class: "main",
-        img_lis: [kodak]
     },
     {
         image:bbm1,
@@ -270,9 +265,14 @@ export const grid_items = [
         class:"main",
         img_lis:[elegance1]
     },
-
-
-
+    {
+        image:synqoraix1,
+        title:"Synqor",
+        desc:`AIX Hamburg 2023-Germany`,
+        video:"",
+        class:"small",
+        img_lis:[synqoraix1]
+    },
     { 
         image:georgia1,
         title:"Georgia",
@@ -281,7 +281,6 @@ export const grid_items = [
         class:"main",
         img_lis:[georgia1, georgia2]
     },
-
     {
         image:serene1,
         title:"Serene",
@@ -290,8 +289,6 @@ export const grid_items = [
         class:"small",
         img_lis:[serene1, serene2]
     },
-
-
     {
         image:sultan1,
         title:"Sultan",
