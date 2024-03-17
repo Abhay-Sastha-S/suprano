@@ -73,7 +73,7 @@ import bal from "./assets/images/abhay update/aaaaaa/PHOTO-2023-11-17-08-51-43 4
 import snc from "./assets/images/abhay update/IMG_5750.jpg"
 import palantir from  "./assets/images/abhay update/IMG_5761.jpg"
 import synqor from  "./assets/images/abhay update/IMG_5773.jpg"
-import pb from './assets/images/abhay update/IMG_5816.jpg '
+//import pb from './assets/images/abhay update/IMG_5816.jpg '
 import cen from './assets/images/abhay update/IMG_5756.jpg'
 import dis from  './assets/images/abhay update/IMG_5771.jpg'
 import iv from  "./assets/images/abhay update/IMG_5775.jpg"
