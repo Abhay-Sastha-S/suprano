@@ -16,7 +16,6 @@ const PortfolioGrid = () => {
             child_el.forEach(el => {
                 player.removeChild(el)
             })
-            wrapper.style.visibility = wrapper.style.visibility === 'hidden' ? 'visible' : 'hidden'
         })
 
         selector.forEach(el => {
@@ -60,7 +59,6 @@ const PortfolioGrid = () => {
                 child_el.forEach(el => {
                     player.removeChild(el)
                 })
-                wrapper.style.visibility = wrapper.style.visibility === 'hidden' ? 'visible' : 'hidden'
             })
 
             selector.forEach(el => {
