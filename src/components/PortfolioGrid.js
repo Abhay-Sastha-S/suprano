@@ -10,7 +10,7 @@ const PortfolioGrid = () => {
         const player = document.querySelector(".video-Player")
         const close = document.querySelector(".vid-icon")
 
-        Close.addEventListener("click",()=>{
+        close.addEventListener("click",()=>{
             player.style.opacity = "0"
             player.style.zIndex = "-999"
             let child_el = document.querySelectorAll(".div-conf")
@@ -53,7 +53,7 @@ const PortfolioGrid = () => {
         })
 
         return () => {
-            Close.removeEventListener("click",()=>{
+            close.removeEventListener("click",()=>{
                 player.style.opacity = "0"
                 player.style.zIndex = "-999"
                 let child_el = document.querySelectorAll(".div-conf")
@@ -83,7 +83,7 @@ const PortfolioGrid = () => {
         <div className="grid-Wrapper">
             <div className='video-Player'>
                <Close sx={{fontSize:40}} className='vid-icon'></Close>
-           </div>
+            </div>
         <div className='portGrid-Cont'>
             {
                 grid_items.map((el,index)=>(
