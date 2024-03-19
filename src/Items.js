@@ -110,6 +110,14 @@ export const grid_items = [
         img_lis: [synqor]
     },
     {
+        image:asp,
+        title: "AstroPhysics",
+        desc: "Milipol 2023-Paris",
+        video: "",
+        class: "long",
+        img_lis: [asp,asp1]
+    },
+    {
         image:cen,
         title: "C.E. Niehoff & Co",
         desc: "DSEI 2023-London",
@@ -133,20 +141,12 @@ export const grid_items = [
         class: "small",
         img_lis: [pointblank]
     },
-    // {
-    //     image:asp,
-    //     title: "AstroPhysics",
-    //     desc: "Milipol 2023-Paris",
-    //     video: "",
-    //     class: "small",
-    //     img_lis: [asp,asp1]
-    // },
     {
         image:leapers,
         title: "LEAPERS",
         desc: "Milipol 2023-Paris",
         video: "",
-        class: "small",
+        class: "long",
         img_lis: [leapers]
     },
     {
@@ -154,7 +154,7 @@ export const grid_items = [
         title: "Kodak",
         desc: "GITEX 2023-Dubai",
         video: "",
-        class: "small",
+        class: "main",
         img_lis: [kodak]
     },
     {
