@@ -10,7 +10,7 @@ const PortfolioGrid = () => {
         const player = document.querySelector(".video-Player")
         const close = document.querySelector(".vid-icon")
 
-        close.addEventListener("click",()=>{
+        Close.addEventListener("click",()=>{
             player.style.opacity = "0"
             player.style.zIndex = "-999"
             let child_el = document.querySelectorAll(".div-conf")
@@ -53,7 +53,7 @@ const PortfolioGrid = () => {
         })
 
         return () => {
-            close.removeEventListener("click",()=>{
+            Close.removeEventListener("click",()=>{
                 player.style.opacity = "0"
                 player.style.zIndex = "-999"
                 let child_el = document.querySelectorAll(".div-conf")
