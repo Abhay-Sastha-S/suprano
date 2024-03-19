@@ -65,8 +65,8 @@ import services6 from './assets/images/components/services6.jpg'
 
 import pointblank from  './assets/images/abhay update/PHOTO-2023-11-17-08-51-53.jpg'
 import leapers from "./assets/images/abhay update/PHOTO-2023-11-17-08-51-43.jpg"
-import asp from  "./assets/images/abhay update/aaaaaa/PHOTO-2023-11-17-08-51-43 2.jpg"
-import asp1 from  "./assets/images/abhay update/aaaaaa/PHOTO-2023-11-17-08-51-43 3.jpg"
+import asp from  "./assets/images/abhay update/402474154_640503221622083_350158773175190741_n.jpg"
+import asp1 from  "./assets/images/abhay update/403224659_1299805247394146_3822958768268950114_n.jpg"
 import kodak from  "./assets/images/abhay update/PHOTO-2023-10-16-12-12-31.jpg"
 import bal from "./assets/images/abhay update/aaaaaa/PHOTO-2023-11-17-08-51-43 4.jpg"
 
