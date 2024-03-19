@@ -7,22 +7,18 @@ const PortfolioGrid = () => {
         const selector = document.querySelectorAll(".back-prop")
         const player = document.querySelector(".video-Player")
         const close = document.querySelector(".close-icon")
-        const wrapper = document.querySelector(".grid-Wrapper")
 
         close.addEventListener("click", () => {
-            player.style.opacity = "0"
-            player.style.zIndex = "-999"
+            player.style.visibility = 'hidden'
             let child_el = document.querySelectorAll(".div-conf")
             child_el.forEach(el => {
                 player.removeChild(el)
             })
-            wrapper.style.visibility = wrapper.style.visibility === 'hidden' ? 'visible' : 'hidden'
         })
 
         selector.forEach(el => {
             el.addEventListener("click", () => {
-                player.style.zIndex = "999"
-                player.style.opacity = "1"
+                player.style.visibility = 'visible'
                 let img = el.dataset.arr.split(",")
                 img.forEach((image, index) => {
                     let cont_div = document.createElement("div")
@@ -54,19 +50,16 @@ const PortfolioGrid = () => {
 
         return () => {
             close.removeEventListener("click", () => {
-                player.style.opacity = "0"
-                player.style.zIndex = "-999"
+                player.style.visibility = 'hidden'
                 let child_el = document.querySelectorAll(".div-conf")
                 child_el.forEach(el => {
                     player.removeChild(el)
                 })
-                wrapper.style.visibility = wrapper.style.visibility === 'hidden' ? 'visible' : 'hidden'
             })
 
             selector.forEach(el => {
                 el.removeEventListener("click", () => {
-                    player.style.zIndex = "999"
-                    player.style.opacity = "1"
+                    player.style.visibility = 'visible'
                     let img = el.dataset.arr.split(",")
                     img.forEach((image, index) => {
                         let cont_div = document.createElement("div")
