@@ -45,6 +45,12 @@
     right: 1%;
     display: none;
 }
+.close-icon {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+    cursor: pointer;
+}
 .portGrid-Cont{
     width: 100%;
     height: auto;
