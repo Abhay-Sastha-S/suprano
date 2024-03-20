@@ -35,7 +35,7 @@ export const ContactUsPage = () => {
         <meta name='description' content='Suprano Exhibits is a top exhibition stand builder in Middle East, specializing in innovative exhibition booth design, fabrication, and event management services. '/>
         <meta name='og:title' content='Suprano Exhibits.'/>
         <meta name='og:description' content='Suprano Exhibits is a top exhibition stand builder in Middle East, specializing in innovative exhibition booth design, fabrication, and event management services.'/>
-        <link rel='canonical' href='http://localhost:3000/'></link>
+        <link rel='canonical' href='http://supranoexhibits.com/'></link>
         <meta name='og:type' content='website'/>
         <meta name='og:image' content='/test_files/test.png.ico'/>
         <meta name='og:url' content='https://supranoexhibits.com/'/>
